@@ -9,6 +9,7 @@ public class MyFantasyLeagueProperties {
 
     private String leagueId;
     private String apiUrl;
+    private String userAgent;
 
     public String getLeagueId() {
         return leagueId;
@@ -26,4 +27,11 @@ public class MyFantasyLeagueProperties {
         this.apiUrl = apiUrl;
     }
 
+    public String getUserAgent() {
+        return userAgent;
+    }
+
+    public void setUserAgent(String userAgent) {
+        this.userAgent = userAgent;
+    }
 }

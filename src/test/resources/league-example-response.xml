@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<league id="32291" name="Borman Dynasty League" rosterSize="20" injuredReserve="1" taxiSquad="0" rostersPerPlayer="1" playerLimitUnit="LEAGUE" startWeek="1" endWeek="18" lastRegularSeasonWeek="18" precision="1" h2h="YES" draftLimitHours="0:30" maxKeepers="20" bbidTiebreaker="TIMESTAMP" bbidMinimum="1" bbidSeasonLimit="501" loadRosters="email_draft" currentWaiverType="BBID" bestLineup="No" tiebreaker="commish" usesSalaries="1" minKeepers="0" lockout="No" bbidConditional="No" draftPlayerPool="Rookie" draft_kind="email" standingsSort="PCT,PTS,H2H," baseURL="https://www47.myfantasyleague.com" defaultTradeExpirationDays="7" mobileAlerts="0013,0002,0010," bbidIncrement="1" bbidFCFSCharge="" draftTimer="OFF" usesContractYear="0" maxWaiverRounds="4" salaryCapAmount="200" partialLineupAllowed="YES">
+    <starters count="12">
+        <position name="QB" limit="1-2" />
+        <position name="RB" limit="2-3" />
+        <position name="WR" limit="3-5" />
+        <position name="TE" limit="1-2" />
+        <position name="PK" limit="1-2" />
+        <position name="Def" limit="1-2" />
+    </starters>
+    <rosterLimits>
+        <position name="QB" limit="0-20" />
+        <position name="RB" limit="0-20" />
+        <position name="WR" limit="0-20" />
+        <position name="TE" limit="0-20" />
+        <position name="PK" limit="0-20" />
+        <position name="Def" limit="0-20" />
+    </rosterLimits>
+    <conferences count="2">
+        <conference id="00" name="Gridiron Gang" />
+        <conference id="01" name="Pigskin People" />
+    </conferences>
+    <divisions count="4">
+        <division id="00" name="The Trader Joes" conference="00" />
+        <division id="01" name="The Hustlers" conference="00" />
+        <division id="02" name="The Group of Death" conference="01" />
+        <division id="03" name="The Rivals" conference="01" />
+    </divisions>
+    <franchises count="16">
+        <franchise division="00" name="Rams" logo="http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_los_angeles_rams?layer=comp&amp;fit=constrain&amp;hei=350&amp;wid=350&amp;fmt=png-alpha&amp;qlt=75,0&amp;op_sharpen=1&amp;resMode=bicub&amp;op_usm=0.0,0.0,0,0&amp;iccEmbed=0" salaryCapAmount="" waiverSortOrder="16" icon="http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_los_angeles_rams?layer=comp&amp;fit=constrain&amp;hei=350&amp;wid=350&amp;fmt=png-alpha&amp;qlt=75,0&amp;op_sharpen=1&amp;resMode=bicub&amp;op_usm=0.0,0.0,0,0&amp;iccEmbed=0" bbidAvailableBalance="501.00" id="0001" />
+        <franchise bbidAvailableBalance="501.00" id="0002" waiverSortOrder="15" icon="http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_atlanta_falcons?layer=comp&amp;fit=constrain&amp;hei=350&amp;wid=350&amp;fmt=png-alpha&amp;qlt=75,0&amp;op_sharpen=1&amp;resMode=bicub&amp;op_usm=0.0,0.0,0,0&amp;iccEmbed=0" salaryCapAmount="" division="00" name="Falcons" logo="http://www.shoppingnexus.com/images/products/fathead-fathead-teammate-atlanta-falcons-logo-wall-decal1.jpg" />
+        <franchise salaryCapAmount="" logo="http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_san_diego_chargers?layer=comp&amp;fit=constrain&amp;hei=310&amp;wid=310&amp;fmt=png-alpha&amp;qlt=75,0&amp;op_sharpen=1&amp;resMode=bicub&amp;op_usm=0.0,0.0,0,0&amp;iccEmbed=0" division="03" name="Chargers" id="0003" bbidAvailableBalance="501.00" icon="http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_san_diego_chargers?layer=comp&amp;fit=constrain&amp;hei=310&amp;wid=310&amp;fmt=png-alpha&amp;qlt=75,0&amp;op_sharpen=1&amp;resMode=bicub&amp;op_usm=0.0,0.0,0,0&amp;iccEmbed=0" waiverSortOrder="14" />
+        <franchise waiverSortOrder="13" icon="http://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Dallas_Cowboys.svg/2000px-Dallas_Cowboys.svg.png" bbidAvailableBalance="501.00" id="0004" division="02" name="Cowboys" salaryCapAmount="" />
+        <franchise salaryCapAmount="" name="Packers" division="01" logo="http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_green_bay_packers?layer=comp&amp;fit=constrain&amp;hei=330&amp;wid=330&amp;fmt=png-alpha&amp;qlt=75,0&amp;op_sharpen=1&amp;resMode=bicub&amp;op_usm=0.0,0.0,0,0&amp;iccEmbed=0" bbidAvailableBalance="501.00" id="0005" waiverSortOrder="12" icon="http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_green_bay_packers?layer=comp&amp;fit=constrain&amp;hei=330&amp;wid=330&amp;fmt=png-alpha&amp;qlt=75,0&amp;op_sharpen=1&amp;resMode=bicub&amp;op_usm=0.0,0.0,0,0&amp;iccEmbed=0" />
+        <franchise icon="http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_jacksonville_jaguars?layer=comp&amp;fit=constrain&amp;hei=350&amp;wid=350&amp;fmt=png-alpha&amp;qlt=75,0&amp;op_sharpen=1&amp;resMode=bicub&amp;op_usm=0.0,0.0,0,0&amp;iccEmbed=0" waiverSortOrder="11" id="0006" bbidAvailableBalance="501.00" logo="http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_jacksonville_jaguars?layer=comp&amp;fit=constrain&amp;hei=350&amp;wid=350&amp;fmt=png-alpha&amp;qlt=75,0&amp;op_sharpen=1&amp;resMode=bicub&amp;op_usm=0.0,0.0,0,0&amp;iccEmbed=0" division="02" name="Jaguars" salaryCapAmount="" />
+        <franchise name="Steelers" division="03" logo="http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_pittsburgh_steelers?layer=comp&amp;fit=constrain&amp;hei=350&amp;wid=350&amp;fmt=png-alpha&amp;qlt=75,0&amp;op_sharpen=1&amp;resMode=bicub&amp;op_usm=0.0,0.0,0,0&amp;iccEmbed=0" salaryCapAmount="" icon="http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_pittsburgh_steelers?layer=comp&amp;fit=constrain&amp;hei=350&amp;wid=350&amp;fmt=png-alpha&amp;qlt=75,0&amp;op_sharpen=1&amp;resMode=bicub&amp;op_usm=0.0,0.0,0,0&amp;iccEmbed=0" waiverSortOrder="10" bbidAvailableBalance="501.00" id="0007" />
+        <franchise name="Chiefs" division="03" logo="http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_kansas_city_chiefs?layer=comp&amp;fit=constrain&amp;hei=350&amp;wid=350&amp;fmt=png-alpha&amp;qlt=75,0&amp;op_sharpen=1&amp;resMode=bicub&amp;op_usm=0.0,0.0,0,0&amp;iccEmbed=0" salaryCapAmount="" waiverSortOrder="9" icon="http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_kansas_city_chiefs?layer=comp&amp;fit=constrain&amp;hei=350&amp;wid=350&amp;fmt=png-alpha&amp;qlt=75,0&amp;op_sharpen=1&amp;resMode=bicub&amp;op_usm=0.0,0.0,0,0&amp;iccEmbed=0" bbidAvailableBalance="501.00" id="0008" />
+        <franchise salaryCapAmount="" logo="http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_arizona_cardinals?layer=comp&amp;fit=constrain&amp;hei=350&amp;wid=350&amp;fmt=png-alpha&amp;qlt=75,0&amp;op_sharpen=1&amp;resMode=bicub&amp;op_usm=0.0,0.0,0,0&amp;iccEmbed=0" division="02" name="Cardinals " id="0009" bbidAvailableBalance="501.00" icon="http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_arizona_cardinals?layer=comp&amp;fit=constrain&amp;hei=350&amp;wid=350&amp;fmt=png-alpha&amp;qlt=75,0&amp;op_sharpen=1&amp;resMode=bicub&amp;op_usm=0.0,0.0,0,0&amp;iccEmbed=0" waiverSortOrder="8" />
+        <franchise logo="https://1000logos.net/wp-content/uploads/2017/05/New-England-Patriots-Logo.png" name="Patriots" division="01" salaryCapAmount="" icon="https://1000logos.net/wp-content/uploads/2017/05/New-England-Patriots-Logo.png" waiverSortOrder="7" id="0010" abbrev="DEN" bbidAvailableBalance="501.00" />
+        <franchise icon="http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_buffalo_bills?layer=comp&amp;fit=constrain&amp;hei=350&amp;wid=350&amp;fmt=png-alpha&amp;qlt=75,0&amp;op_sharpen=1&amp;resMode=bicub&amp;op_usm=0.0,0.0,0,0&amp;iccEmbed=0" waiverSortOrder="6" id="0011" bbidAvailableBalance="501.00" logo="http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_buffalo_bills?layer=comp&amp;fit=constrain&amp;hei=350&amp;wid=350&amp;fmt=png-alpha&amp;qlt=75,0&amp;op_sharpen=1&amp;resMode=bicub&amp;op_usm=0.0,0.0,0,0&amp;iccEmbed=0" name="Bills" division="03" salaryCapAmount="" />
+        <franchise salaryCapAmount="" name="Saints" division="02" logo="http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_new_orleans_saints?layer=comp&amp;fit=constrain&amp;hei=350&amp;wid=350&amp;fmt=png-alpha&amp;qlt=75,0&amp;op_sharpen=1&amp;resMode=bicub&amp;op_usm=0.0,0.0,0,0&amp;iccEmbed=0" bbidAvailableBalance="501.00" id="0012" waiverSortOrder="5" icon="http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_new_orleans_saints?layer=comp&amp;fit=constrain&amp;hei=350&amp;wid=350&amp;fmt=png-alpha&amp;qlt=75,0&amp;op_sharpen=1&amp;resMode=bicub&amp;op_usm=0.0,0.0,0,0&amp;iccEmbed=0" />
+        <franchise name="Raiders" division="01" logo="http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_oakland_raiders?layer=comp&amp;fit=constrain&amp;hei=350&amp;wid=350&amp;fmt=png-alpha&amp;qlt=75,0&amp;op_sharpen=1&amp;resMode=bicub&amp;op_usm=0.0,0.0,0,0&amp;iccEmbed=0" salaryCapAmount="" icon="http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_oakland_raiders?layer=comp&amp;fit=constrain&amp;hei=350&amp;wid=350&amp;fmt=png-alpha&amp;qlt=75,0&amp;op_sharpen=1&amp;resMode=bicub&amp;op_usm=0.0,0.0,0,0&amp;iccEmbed=0" waiverSortOrder="4" bbidAvailableBalance="501.00" id="0013" />
+        <franchise waiverSortOrder="3" icon="http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_baltimore_ravens?layer=comp&amp;fit=constrain&amp;hei=350&amp;wid=350&amp;fmt=png-alpha&amp;qlt=75,0&amp;op_sharpen=1&amp;resMode=bicub&amp;op_usm=0.0,0.0,0,0&amp;iccEmbed=0" bbidAvailableBalance="501.00" id="0014" division="00" name="Ravens" logo="http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_baltimore_ravens?layer=comp&amp;fit=constrain&amp;hei=350&amp;wid=350&amp;fmt=png-alpha&amp;qlt=75,0&amp;op_sharpen=1&amp;resMode=bicub&amp;op_usm=0.0,0.0,0,0&amp;iccEmbed=0" salaryCapAmount="" />
+        <franchise division="01" name="Buccaneers " logo="http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_tampa_bay_buccaneers?layer=comp&amp;fit=constrain&amp;hei=350&amp;wid=350&amp;fmt=png-alpha&amp;qlt=75,0&amp;op_sharpen=1&amp;resMode=bicub&amp;op_usm=0.0,0.0,0,0&amp;iccEmbed=0" salaryCapAmount="" waiverSortOrder="2" icon="http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_tampa_bay_buccaneers?layer=comp&amp;fit=constrain&amp;hei=350&amp;wid=350&amp;fmt=png-alpha&amp;qlt=75,0&amp;op_sharpen=1&amp;resMode=bicub&amp;op_usm=0.0,0.0,0,0&amp;iccEmbed=0" bbidAvailableBalance="501.00" id="0015" />
+        <franchise icon="http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_miami_dolphins?layer=comp&amp;fit=constrain&amp;hei=350&amp;wid=350&amp;fmt=png-alpha&amp;qlt=75,0&amp;op_sharpen=1&amp;resMode=bicub&amp;op_usm=0.0,0.0,0,0&amp;iccEmbed=0" waiverSortOrder="1" id="0016" bbidAvailableBalance="501.00" logo="http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_miami_dolphins?layer=comp&amp;fit=constrain&amp;hei=350&amp;wid=350&amp;fmt=png-alpha&amp;qlt=75,0&amp;op_sharpen=1&amp;resMode=bicub&amp;op_usm=0.0,0.0,0,0&amp;iccEmbed=0" name="Dolphins" division="00" salaryCapAmount="" />
+    </franchises>
+    <history>
+        <league year="2024" url="https://www47.myfantasyleague.com/2024/home/32291" />
+        <league year="2015" url="https://www47.myfantasyleague.com/2015/home/62447" />
+        <league year="2016" url="https://www47.myfantasyleague.com/2016/home/32291" />
+        <league year="2017" url="http://www47.myfantasyleague.com/2017/home/32291" />
+        <league year="2018" url="http://www47.myfantasyleague.com/2018/home/32291" />
+        <league year="2019" url="https://www47.myfantasyleague.com/2019/home/32291" />
+        <league year="2020" url="https://www47.myfantasyleague.com/2020/home/32291" />
+        <league year="2021" url="https://www47.myfantasyleague.com/2021/home/32291" />
+        <league year="2022" url="https://www47.myfantasyleague.com/2022/home/32291" />
+        <league year="2023" url="https://www47.myfantasyleague.com/2023/home/32291" />
+    </history>
+</league>

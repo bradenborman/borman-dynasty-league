@@ -2,6 +2,7 @@ package bdl.http;
 
 import bdl.config.MyFantasyLeagueProperties;
 import bdl.http.models.mfl.FreeAgents;
+import bdl.http.models.mfl.MflLeagueInformation;
 import bdl.http.models.mfl.MflRosterResponse;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
@@ -25,15 +26,15 @@ public class MyFantasyLeagueHttpService {
         return UriComponentsBuilder.fromUriString(myFantasyLeagueProperties.getApiUrl())
                 .path("/2024/export")
                 .queryParam("L", myFantasyLeagueProperties.getLeagueId())
-                .queryParam("APIKEY", "bormanmyfantasyleague");
+                .queryParam("User-Agent", myFantasyLeagueProperties.getUserAgent());
     }
 
-    public String fetchMFLLeagueInfo() {
+    public MflLeagueInformation fetchMFLLeagueInfo() {
         UriComponents uriComponents = getBaseUriBuilder()
                 .queryParam("TYPE", "league")
                 .build();
 
-        return restTemplate.getForEntity(uriComponents.toUri(), String.class).getBody();
+        return restTemplate.getForEntity(uriComponents.toUri(), MflLeagueInformation.class).getBody();
     }
 
     public MflRosterResponse fetchRosters() {

@@ -1,7 +1,5 @@
 package bdl.http.models.mfl;
 
-import java.util.List;
-
 public class FreeAgents {
 
     private LeagueUnit leagueUnit;

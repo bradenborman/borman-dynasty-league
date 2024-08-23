@@ -1,3 +1,4 @@
 my-fantasy-league:
   league-id: 32291
   api-url: https://api.myfantasyleague.com
+  user-agent: bormanmyfantasyleague
