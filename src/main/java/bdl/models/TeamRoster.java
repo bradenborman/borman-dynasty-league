@@ -1,13 +1,17 @@
 package bdl.models;
 
 import java.util.List;
+import java.util.Map;
 
 public class TeamRoster {
 
     private String teamId;
+    private String teamOwnersName;
     private String fantasyTeamName;
     private List<Player> playerList;
+    private Map<String, List<Player>> dividedPlayerList;
     private double salaryConsumed;
+    private double capRoom;
 
     public String getTeamId() {
         return teamId;
@@ -15,6 +19,14 @@ public class TeamRoster {
 
     public void setTeamId(String teamId) {
         this.teamId = teamId;
+    }
+
+    public String getTeamOwnersName() {
+        return teamOwnersName;
+    }
+
+    public void setTeamOwnersName(String teamOwnersName) {
+        this.teamOwnersName = teamOwnersName;
     }
 
     public String getFantasyTeamName() {
@@ -33,6 +45,14 @@ public class TeamRoster {
         this.playerList = playerList;
     }
 
+    public Map<String, List<Player>> getDividedPlayerList() {
+        return dividedPlayerList;
+    }
+
+    public void setDividedPlayerList(Map<String, List<Player>> dividedPlayerList) {
+        this.dividedPlayerList = dividedPlayerList;
+    }
+
     public double getSalaryConsumed() {
         return salaryConsumed;
     }
@@ -41,4 +61,11 @@ public class TeamRoster {
         this.salaryConsumed = salaryConsumed;
     }
 
+    public double getCapRoom() {
+        return capRoom;
+    }
+
+    public void setCapRoom(double capRoom) {
+        this.capRoom = capRoom;
+    }
 }

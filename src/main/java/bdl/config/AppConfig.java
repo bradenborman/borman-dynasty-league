@@ -1,5 +1,6 @@
 package bdl.config;
 
+import com.fasterxml.jackson.dataformat.xml.XmlMapper;
 import org.springframework.boot.web.client.RestTemplateBuilder;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -11,6 +12,11 @@ public class AppConfig {
     @Bean
     public RestTemplate restTemplate() {
         return new RestTemplateBuilder().build();
+    }
+
+    @Bean
+    public XmlMapper xmlMapper() {
+        return new XmlMapper();
     }
 
 }

@@ -13,17 +13,23 @@ class MyFantasyLeagueHttpServiceTest {
     @Autowired
     MyFantasyLeagueHttpService myFantasyLeagueHttpService;
 
+    @Test
+    void fetchSalaryInformation() {
+        LoginResponse response = myFantasyLeagueHttpService.attemptLogin("bradenborman@hotmail.com", "Borm0000$$");
+        assert response != null;
+    }
+
 //    @Test
 //    void fetchSharkPlayerRanks() {
 //        SharkPlayerRankings response = myFantasyLeagueHttpService.fetchSharkPlayerRanks(Optional.empty());
 //        assert response != null;
 //    }
 //
-    @Test
-    void fetchSalaryInformation() {
-        SalaryInformation response = myFantasyLeagueHttpService.fetchSalaryInformation();
-        assert response != null;
-    }
+//    @Test
+//    void fetchSalaryInformation() {
+//        SalaryInformation response = myFantasyLeagueHttpService.fetchSalaryInformation();
+//        assert response != null;
+//    }
 //
 //    @Test
 //    void fetchMFLSchedule() {

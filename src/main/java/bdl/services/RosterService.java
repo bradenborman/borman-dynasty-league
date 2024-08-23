@@ -1,6 +1,7 @@
 package bdl.services;
 
 import bdl.http.MyFantasyLeagueHttpService;
+import bdl.http.models.mfl.LeagueFranchise;
 import bdl.http.models.mfl.MflLeagueInformation;
 import bdl.http.models.mfl.Player;
 import bdl.http.models.mfl.SalaryInformation;
@@ -20,13 +21,29 @@ public class RosterService {
         this.httpService = httpService;
     }
 
-    public TeamRoster buildRosterByTeam(String teamId) {
-        List<Player> playerlist = httpService.fetchRosters(Optional.of(teamId)).getFranchises().get(0).getPlayers();
-        SalaryInformation salaryInformation = httpService.fetchSalaryInformation();
-        MflLeagueInformation leagueInformation = httpService.fetchMFLLeagueInfo();
-
-
-        return MflToBdlRosterMapper.mapMflDataToTeamRoster(teamId, playerlist, salaryInformation, leagueInformation);
+    public List<String> allTeamIds(String leagueId) {
+        MflLeagueInformation leagueInformation = httpService.fetchMFLLeagueInfo(leagueId);
+        return leagueInformation.getLeagueFranchises().stream().map(LeagueFranchise::getId).toList();
     }
 
+    public TeamRoster buildRosterByTeam(String teamId, String leagueId) {
+        List<Player> playerList = httpService.fetchRosters(Optional.of(teamId)).getFranchises().get(0).getPlayers();
+        SalaryInformation salaryInformation = httpService.fetchSalaryInformation();
+        MflLeagueInformation leagueInformation = httpService.fetchMFLLeagueInfo(leagueId);
+        return MflToBdlRosterMapper.mapMflDataToTeamRoster(teamId, playerList, salaryInformation, leagueInformation);
+    }
+
+    public List<TeamRoster> allRosters(String leagueId) {
+        SalaryInformation salaryInformation = httpService.fetchSalaryInformation();
+        MflLeagueInformation leagueInformation = httpService.fetchMFLLeagueInfo(leagueId);
+
+        return allTeamIds(leagueId).stream()
+                .map(teamId -> buildRosterByTeam(teamId, salaryInformation, leagueInformation))
+                .toList();
+    }
+
+    private TeamRoster buildRosterByTeam(String teamId, SalaryInformation salaryInformation, MflLeagueInformation leagueInformation) {
+        List<Player> playerList = httpService.fetchRosters(Optional.of(teamId)).getFranchises().get(0).getPlayers();
+        return MflToBdlRosterMapper.mapMflDataToTeamRoster(teamId, playerList, salaryInformation, leagueInformation);
+    }
 }

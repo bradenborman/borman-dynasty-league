@@ -10,6 +10,9 @@ public class LeagueFranchise {
     @JacksonXmlProperty(isAttribute = true)
     private String name;
 
+    @JacksonXmlProperty(isAttribute = true, localName = "owner_name")
+    private String ownerName;
+
     @JacksonXmlProperty(isAttribute = true)
     private String logo;
 
@@ -45,6 +48,14 @@ public class LeagueFranchise {
 
     public void setName(String name) {
         this.name = name;
+    }
+
+    public String getOwnerName() {
+        return ownerName;
+    }
+
+    public void setOwnerName(String ownerName) {
+        this.ownerName = ownerName;
     }
 
     public String getLogo() {
@@ -102,5 +113,4 @@ public class LeagueFranchise {
     public void setAbbrev(String abbrev) {
         this.abbrev = abbrev;
     }
-
 }

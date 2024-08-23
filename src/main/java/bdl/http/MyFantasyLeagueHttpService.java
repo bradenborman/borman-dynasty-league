@@ -2,8 +2,16 @@ package bdl.http;
 
 import bdl.config.MyFantasyLeagueProperties;
 import bdl.http.models.mfl.*;
+import com.fasterxml.jackson.dataformat.xml.XmlMapper;
 import org.springframework.cache.annotation.Cacheable;
+import org.springframework.http.HttpEntity;
+import org.springframework.http.HttpHeaders;
+import org.springframework.http.MediaType;
+import org.springframework.http.ResponseEntity;
+import org.springframework.security.core.AuthenticationException;
 import org.springframework.stereotype.Service;
+import org.springframework.util.LinkedMultiValueMap;
+import org.springframework.util.MultiValueMap;
 import org.springframework.web.client.RestTemplate;
 import org.springframework.web.util.UriComponents;
 import org.springframework.web.util.UriComponentsBuilder;
@@ -14,10 +22,12 @@ import java.util.Optional;
 public class MyFantasyLeagueHttpService {
 
     private final RestTemplate restTemplate;
+    private final XmlMapper xmlMapper;
     private final MyFantasyLeagueProperties myFantasyLeagueProperties;
 
-    public MyFantasyLeagueHttpService(RestTemplate restTemplate, MyFantasyLeagueProperties myFantasyLeagueProperties) {
+    public MyFantasyLeagueHttpService(RestTemplate restTemplate, XmlMapper xmlMapper, MyFantasyLeagueProperties myFantasyLeagueProperties) {
         this.restTemplate = restTemplate;
+        this.xmlMapper = xmlMapper;
         this.myFantasyLeagueProperties = myFantasyLeagueProperties;
     }
 
@@ -29,7 +39,7 @@ public class MyFantasyLeagueHttpService {
     }
 
     @Cacheable(value = "leagueInformation")
-    public MflLeagueInformation fetchMFLLeagueInfo() {
+    public MflLeagueInformation fetchMFLLeagueInfo(String leagueId) {
         UriComponents uriComponents = getBaseUriBuilder()
                 .queryParam("TYPE", "league")
                 .build();
@@ -81,6 +91,27 @@ public class MyFantasyLeagueHttpService {
                 .build();
 
         return restTemplate.getForEntity(uriComponents.toUri(), FreeAgents.class).getBody();
+    }
+
+    public LoginResponse attemptLogin(String username, String password) {
+        MultiValueMap<String, String> requestParams = new LinkedMultiValueMap<>();
+        requestParams.add("USERNAME", username);
+        requestParams.add("PASSWORD", password);
+        requestParams.add("XML", "1");
+
+        HttpHeaders headers = new HttpHeaders();
+        headers.setContentType(MediaType.APPLICATION_FORM_URLENCODED);
+        HttpEntity<MultiValueMap<String, String>> httpEntity = new HttpEntity<>(requestParams, headers);
+
+        ResponseEntity<String> apiResponse = restTemplate.postForEntity(myFantasyLeagueProperties.getApiUrl() + "/2024/login", httpEntity, String.class);
+        LoginResponse loginResponse;
+        try {
+            loginResponse = xmlMapper.readValue(apiResponse.getBody(), LoginResponse.class);
+        } catch (Exception e) {
+            throw new AuthenticationException("Error parsing login response", e) {};
+        }
+        return loginResponse;
+
     }
 
 }
