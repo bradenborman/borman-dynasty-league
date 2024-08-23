@@ -1,13 +1,35 @@
 package bdl.http;
 
+import bdl.http.models.mfl.SharkPlayerRankings;
+import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
+
+import java.util.Optional;
 
 @SpringBootTest
 class MyFantasyLeagueHttpServiceTest {
 
     @Autowired
     MyFantasyLeagueHttpService myFantasyLeagueHttpService;
+
+//    @Test
+//    void fetchMFLSchedule() {
+//        SharkPlayerRankings response = myFantasyLeagueHttpService.fetchSharkPlayerRanks(Optional.empty());
+//        assert response != null;
+//    }
+
+//    @Test
+//    void fetchMFLSchedule() {
+//        SalaryInformation response = myFantasyLeagueHttpService.fetchSalaryInformation();
+//        assert response != null;
+//    }
+
+//    @Test
+//    void fetchMFLSchedule() {
+//        String response = myFantasyLeagueHttpService.fetchMFLSchedule(Optional.empty(), Optional.empty());
+//        assert response != null;
+//    }
 
 //    @Test
 //    void fetchMFLLeagueInfo() {
