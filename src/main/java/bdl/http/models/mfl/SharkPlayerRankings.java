@@ -10,10 +10,9 @@ import java.util.List;
 public class SharkPlayerRankings {
 
     @JacksonXmlProperty(localName = "player")
+    @JacksonXmlElementWrapper(localName = "player", useWrapping = false)
     private List<RankingPlayer> players;
 
-    @JacksonXmlElementWrapper(localName = "player", useWrapping = false)
-    @JacksonXmlProperty
     public List<RankingPlayer> getPlayers() {
         return players;
     }

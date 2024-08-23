@@ -65,9 +65,10 @@ public class MyFantasyLeagueHttpService {
         return restTemplate.getForEntity(uriComponents.toUri(), String.class).getBody();
     }
 
-    public MflRosterResponse fetchRosters() {
+    public MflRosterResponse fetchRosters(Optional<String> franchiseID) {
         UriComponents uriComponents = getBaseUriBuilder()
                 .queryParam("TYPE", "rosters")
+                .queryParamIfPresent("FRANCHISE", franchiseID)
                 .build();
 
         return restTemplate.getForEntity(uriComponents.toUri(), MflRosterResponse.class).getBody();

@@ -1,0 +1,2610 @@
+<?xml version="1.0" encoding="utf-8"?>
+<players timestamp="1724434894" since="Wed Dec 31 7:00:00 p.m. ET 1969">
+    <player id="0151" name="Bills, Buffalo" position="TMWR" team="BUF"/>
+    <player id="0152" name="Colts, Indianapolis" position="TMWR" team="IND"/>
+    <player id="0153" name="Dolphins, Miami" position="TMWR" team="MIA"/>
+    <player id="0154" name="Patriots, New England" position="TMWR" team="NEP"/>
+    <player id="0155" name="Jets, New York" position="TMWR" team="NYJ"/>
+    <player id="0156" name="Bengals, Cincinnati" position="TMWR" team="CIN"/>
+    <player id="0157" name="Browns, Cleveland" position="TMWR" team="CLE"/>
+    <player id="0158" name="Titans, Tennessee" position="TMWR" team="TEN"/>
+    <player id="0159" name="Jaguars, Jacksonville" position="TMWR" team="JAC"/>
+    <player id="0160" name="Steelers, Pittsburgh" position="TMWR" team="PIT"/>
+    <player id="0161" name="Broncos, Denver" position="TMWR" team="DEN"/>
+    <player id="0162" name="Chiefs, Kansas City" position="TMWR" team="KCC"/>
+    <player id="0163" name="Raiders, Las Vegas" position="TMWR" team="LVR"/>
+    <player id="0164" name="Chargers, Los Angeles" position="TMWR" team="LAC"/>
+    <player id="0165" name="Seahawks, Seattle" position="TMWR" team="SEA"/>
+    <player id="0166" name="Cowboys, Dallas" position="TMWR" team="DAL"/>
+    <player id="0167" name="Giants, New York" position="TMWR" team="NYG"/>
+    <player id="0168" name="Eagles, Philadelphia" position="TMWR" team="PHI"/>
+    <player id="0169" name="Cardinals, Arizona" position="TMWR" team="ARI"/>
+    <player id="0170" name="Commanders, Washington" position="TMWR" team="WAS"/>
+    <player id="0171" name="Bears, Chicago" position="TMWR" team="CHI"/>
+    <player id="0172" name="Lions, Detroit" position="TMWR" team="DET"/>
+    <player id="0173" name="Packers, Green Bay" position="TMWR" team="GBP"/>
+    <player id="0174" name="Vikings, Minnesota" position="TMWR" team="MIN"/>
+    <player id="0175" name="Buccaneers, Tampa Bay" position="TMWR" team="TBB"/>
+    <player id="0176" name="Falcons, Atlanta" position="TMWR" team="ATL"/>
+    <player id="0177" name="Panthers, Carolina" position="TMWR" team="CAR"/>
+    <player id="0178" name="Rams, Los Angeles" position="TMWR" team="LAR"/>
+    <player id="0179" name="Saints, New Orleans" position="TMWR" team="NOS"/>
+    <player id="0180" name="49ers, San Francisco" position="TMWR" team="SFO"/>
+    <player id="0181" name="Ravens, Baltimore" position="TMWR" team="BAL"/>
+    <player id="0182" name="Texans, Houston" position="TMWR" team="HOU"/>
+    <player id="0201" name="Bills, Buffalo" position="TMRB" team="BUF"/>
+    <player id="0202" name="Colts, Indianapolis" position="TMRB" team="IND"/>
+    <player id="0203" name="Dolphins, Miami" position="TMRB" team="MIA"/>
+    <player id="0204" name="Patriots, New England" position="TMRB" team="NEP"/>
+    <player id="0205" name="Jets, New York" position="TMRB" team="NYJ"/>
+    <player id="0206" name="Bengals, Cincinnati" position="TMRB" team="CIN"/>
+    <player id="0207" name="Browns, Cleveland" position="TMRB" team="CLE"/>
+    <player id="0208" name="Titans, Tennessee" position="TMRB" team="TEN"/>
+    <player id="0209" name="Jaguars, Jacksonville" position="TMRB" team="JAC"/>
+    <player id="0210" name="Steelers, Pittsburgh" position="TMRB" team="PIT"/>
+    <player id="0211" name="Broncos, Denver" position="TMRB" team="DEN"/>
+    <player id="0212" name="Chiefs, Kansas City" position="TMRB" team="KCC"/>
+    <player id="0213" name="Raiders, Las Vegas" position="TMRB" team="LVR"/>
+    <player id="0214" name="Chargers, Los Angeles" position="TMRB" team="LAC"/>
+    <player id="0215" name="Seahawks, Seattle" position="TMRB" team="SEA"/>
+    <player id="0216" name="Cowboys, Dallas" position="TMRB" team="DAL"/>
+    <player id="0217" name="Giants, New York" position="TMRB" team="NYG"/>
+    <player id="0218" name="Eagles, Philadelphia" position="TMRB" team="PHI"/>
+    <player id="0219" name="Cardinals, Arizona" position="TMRB" team="ARI"/>
+    <player id="0220" name="Commanders, Washington" position="TMRB" team="WAS"/>
+    <player id="0221" name="Bears, Chicago" position="TMRB" team="CHI"/>
+    <player id="0222" name="Lions, Detroit" position="TMRB" team="DET"/>
+    <player id="0223" name="Packers, Green Bay" position="TMRB" team="GBP"/>
+    <player id="0224" name="Vikings, Minnesota" position="TMRB" team="MIN"/>
+    <player id="0225" name="Buccaneers, Tampa Bay" position="TMRB" team="TBB"/>
+    <player id="0226" name="Falcons, Atlanta" position="TMRB" team="ATL"/>
+    <player id="0227" name="Panthers, Carolina" position="TMRB" team="CAR"/>
+    <player id="0228" name="Rams, Los Angeles" position="TMRB" team="LAR"/>
+    <player id="0229" name="Saints, New Orleans" position="TMRB" team="NOS"/>
+    <player id="0230" name="49ers, San Francisco" position="TMRB" team="SFO"/>
+    <player id="0231" name="Ravens, Baltimore" position="TMRB" team="BAL"/>
+    <player id="0232" name="Texans, Houston" position="TMRB" team="HOU"/>
+    <player id="0251" name="Bills, Buffalo" position="TMDL" team="BUF"/>
+    <player id="0252" name="Colts, Indianapolis" position="TMDL" team="IND"/>
+    <player id="0253" name="Dolphins, Miami" position="TMDL" team="MIA"/>
+    <player id="0254" name="Patriots, New England" position="TMDL" team="NEP"/>
+    <player id="0255" name="Jets, New York" position="TMDL" team="NYJ"/>
+    <player id="0256" name="Bengals, Cincinnati" position="TMDL" team="CIN"/>
+    <player id="0257" name="Browns, Cleveland" position="TMDL" team="CLE"/>
+    <player id="0258" name="Titans, Tennessee" position="TMDL" team="TEN"/>
+    <player id="0259" name="Jaguars, Jacksonville" position="TMDL" team="JAC"/>
+    <player id="0260" name="Steelers, Pittsburgh" position="TMDL" team="PIT"/>
+    <player id="0261" name="Broncos, Denver" position="TMDL" team="DEN"/>
+    <player id="0262" name="Chiefs, Kansas City" position="TMDL" team="KCC"/>
+    <player id="0263" name="Raiders, Las Vegas" position="TMDL" team="LVR"/>
+    <player id="0264" name="Chargers, Los Angeles" position="TMDL" team="LAC"/>
+    <player id="0265" name="Seahawks, Seattle" position="TMDL" team="SEA"/>
+    <player id="0266" name="Cowboys, Dallas" position="TMDL" team="DAL"/>
+    <player id="0267" name="Giants, New York" position="TMDL" team="NYG"/>
+    <player id="0268" name="Eagles, Philadelphia" position="TMDL" team="PHI"/>
+    <player id="0269" name="Cardinals, Arizona" position="TMDL" team="ARI"/>
+    <player id="0270" name="Commanders, Washington" position="TMDL" team="WAS"/>
+    <player id="0271" name="Bears, Chicago" position="TMDL" team="CHI"/>
+    <player id="0272" name="Lions, Detroit" position="TMDL" team="DET"/>
+    <player id="0273" name="Packers, Green Bay" position="TMDL" team="GBP"/>
+    <player id="0274" name="Vikings, Minnesota" position="TMDL" team="MIN"/>
+    <player id="0275" name="Buccaneers, Tampa Bay" position="TMDL" team="TBB"/>
+    <player id="0276" name="Falcons, Atlanta" position="TMDL" team="ATL"/>
+    <player id="0277" name="Panthers, Carolina" position="TMDL" team="CAR"/>
+    <player id="0278" name="Rams, Los Angeles" position="TMDL" team="LAR"/>
+    <player id="0279" name="Saints, New Orleans" position="TMDL" team="NOS"/>
+    <player id="0280" name="49ers, San Francisco" position="TMDL" team="SFO"/>
+    <player id="0281" name="Ravens, Baltimore" position="TMDL" team="BAL"/>
+    <player id="0282" name="Texans, Houston" position="TMDL" team="HOU"/>
+    <player id="0301" name="Bills, Buffalo" position="TMLB" team="BUF"/>
+    <player id="0302" name="Colts, Indianapolis" position="TMLB" team="IND"/>
+    <player id="0303" name="Dolphins, Miami" position="TMLB" team="MIA"/>
+    <player id="0304" name="Patriots, New England" position="TMLB" team="NEP"/>
+    <player id="0305" name="Jets, New York" position="TMLB" team="NYJ"/>
+    <player id="0306" name="Bengals, Cincinnati" position="TMLB" team="CIN"/>
+    <player id="0307" name="Browns, Cleveland" position="TMLB" team="CLE"/>
+    <player id="0308" name="Titans, Tennessee" position="TMLB" team="TEN"/>
+    <player id="0309" name="Jaguars, Jacksonville" position="TMLB" team="JAC"/>
+    <player id="0310" name="Steelers, Pittsburgh" position="TMLB" team="PIT"/>
+    <player id="0311" name="Broncos, Denver" position="TMLB" team="DEN"/>
+    <player id="0312" name="Chiefs, Kansas City" position="TMLB" team="KCC"/>
+    <player id="0313" name="Raiders, Las Vegas" position="TMLB" team="LVR"/>
+    <player id="0314" name="Chargers, Los Angeles" position="TMLB" team="LAC"/>
+    <player id="0315" name="Seahawks, Seattle" position="TMLB" team="SEA"/>
+    <player id="0316" name="Cowboys, Dallas" position="TMLB" team="DAL"/>
+    <player id="0317" name="Giants, New York" position="TMLB" team="NYG"/>
+    <player id="0318" name="Eagles, Philadelphia" position="TMLB" team="PHI"/>
+    <player id="0319" name="Cardinals, Arizona" position="TMLB" team="ARI"/>
+    <player id="0320" name="Commanders, Washington" position="TMLB" team="WAS"/>
+    <player id="0321" name="Bears, Chicago" position="TMLB" team="CHI"/>
+    <player id="0322" name="Lions, Detroit" position="TMLB" team="DET"/>
+    <player id="0323" name="Packers, Green Bay" position="TMLB" team="GBP"/>
+    <player id="0324" name="Vikings, Minnesota" position="TMLB" team="MIN"/>
+    <player id="0325" name="Buccaneers, Tampa Bay" position="TMLB" team="TBB"/>
+    <player id="0326" name="Falcons, Atlanta" position="TMLB" team="ATL"/>
+    <player id="0327" name="Panthers, Carolina" position="TMLB" team="CAR"/>
+    <player id="0328" name="Rams, Los Angeles" position="TMLB" team="LAR"/>
+    <player id="0329" name="Saints, New Orleans" position="TMLB" team="NOS"/>
+    <player id="0330" name="49ers, San Francisco" position="TMLB" team="SFO"/>
+    <player id="0331" name="Ravens, Baltimore" position="TMLB" team="BAL"/>
+    <player id="0332" name="Texans, Houston" position="TMLB" team="HOU"/>
+    <player id="0351" name="Bills, Buffalo" position="TMDB" team="BUF"/>
+    <player id="0352" name="Colts, Indianapolis" position="TMDB" team="IND"/>
+    <player id="0353" name="Dolphins, Miami" position="TMDB" team="MIA"/>
+    <player id="0354" name="Patriots, New England" position="TMDB" team="NEP"/>
+    <player id="0355" name="Jets, New York" position="TMDB" team="NYJ"/>
+    <player id="0356" name="Bengals, Cincinnati" position="TMDB" team="CIN"/>
+    <player id="0357" name="Browns, Cleveland" position="TMDB" team="CLE"/>
+    <player id="0358" name="Titans, Tennessee" position="TMDB" team="TEN"/>
+    <player id="0359" name="Jaguars, Jacksonville" position="TMDB" team="JAC"/>
+    <player id="0360" name="Steelers, Pittsburgh" position="TMDB" team="PIT"/>
+    <player id="0361" name="Broncos, Denver" position="TMDB" team="DEN"/>
+    <player id="0362" name="Chiefs, Kansas City" position="TMDB" team="KCC"/>
+    <player id="0363" name="Raiders, Las Vegas" position="TMDB" team="LVR"/>
+    <player id="0364" name="Chargers, Los Angeles" position="TMDB" team="LAC"/>
+    <player id="0365" name="Seahawks, Seattle" position="TMDB" team="SEA"/>
+    <player id="0366" name="Cowboys, Dallas" position="TMDB" team="DAL"/>
+    <player id="0367" name="Giants, New York" position="TMDB" team="NYG"/>
+    <player id="0368" name="Eagles, Philadelphia" position="TMDB" team="PHI"/>
+    <player id="0369" name="Cardinals, Arizona" position="TMDB" team="ARI"/>
+    <player id="0370" name="Commanders, Washington" position="TMDB" team="WAS"/>
+    <player id="0371" name="Bears, Chicago" position="TMDB" team="CHI"/>
+    <player id="0372" name="Lions, Detroit" position="TMDB" team="DET"/>
+    <player id="0373" name="Packers, Green Bay" position="TMDB" team="GBP"/>
+    <player id="0374" name="Vikings, Minnesota" position="TMDB" team="MIN"/>
+    <player id="0375" name="Buccaneers, Tampa Bay" position="TMDB" team="TBB"/>
+    <player id="0376" name="Falcons, Atlanta" position="TMDB" team="ATL"/>
+    <player id="0377" name="Panthers, Carolina" position="TMDB" team="CAR"/>
+    <player id="0378" name="Rams, Los Angeles" position="TMDB" team="LAR"/>
+    <player id="0379" name="Saints, New Orleans" position="TMDB" team="NOS"/>
+    <player id="0380" name="49ers, San Francisco" position="TMDB" team="SFO"/>
+    <player id="0381" name="Ravens, Baltimore" position="TMDB" team="BAL"/>
+    <player id="0382" name="Texans, Houston" position="TMDB" team="HOU"/>
+    <player id="0401" name="Bills, Buffalo" position="TMTE" team="BUF"/>
+    <player id="0402" name="Colts, Indianapolis" position="TMTE" team="IND"/>
+    <player id="0403" name="Dolphins, Miami" position="TMTE" team="MIA"/>
+    <player id="0404" name="Patriots, New England" position="TMTE" team="NEP"/>
+    <player id="0405" name="Jets, New York" position="TMTE" team="NYJ"/>
+    <player id="0406" name="Bengals, Cincinnati" position="TMTE" team="CIN"/>
+    <player id="0407" name="Browns, Cleveland" position="TMTE" team="CLE"/>
+    <player id="0408" name="Titans, Tennessee" position="TMTE" team="TEN"/>
+    <player id="0409" name="Jaguars, Jacksonville" position="TMTE" team="JAC"/>
+    <player id="0410" name="Steelers, Pittsburgh" position="TMTE" team="PIT"/>
+    <player id="0411" name="Broncos, Denver" position="TMTE" team="DEN"/>
+    <player id="0412" name="Chiefs, Kansas City" position="TMTE" team="KCC"/>
+    <player id="0413" name="Raiders, Las Vegas" position="TMTE" team="LVR"/>
+    <player id="0414" name="Chargers, Los Angeles" position="TMTE" team="LAC"/>
+    <player id="0415" name="Seahawks, Seattle" position="TMTE" team="SEA"/>
+    <player id="0416" name="Cowboys, Dallas" position="TMTE" team="DAL"/>
+    <player id="0417" name="Giants, New York" position="TMTE" team="NYG"/>
+    <player id="0418" name="Eagles, Philadelphia" position="TMTE" team="PHI"/>
+    <player id="0419" name="Cardinals, Arizona" position="TMTE" team="ARI"/>
+    <player id="0420" name="Commanders, Washington" position="TMTE" team="WAS"/>
+    <player id="0421" name="Bears, Chicago" position="TMTE" team="CHI"/>
+    <player id="0422" name="Lions, Detroit" position="TMTE" team="DET"/>
+    <player id="0423" name="Packers, Green Bay" position="TMTE" team="GBP"/>
+    <player id="0424" name="Vikings, Minnesota" position="TMTE" team="MIN"/>
+    <player id="0425" name="Buccaneers, Tampa Bay" position="TMTE" team="TBB"/>
+    <player id="0426" name="Falcons, Atlanta" position="TMTE" team="ATL"/>
+    <player id="0427" name="Panthers, Carolina" position="TMTE" team="CAR"/>
+    <player id="0428" name="Rams, Los Angeles" position="TMTE" team="LAR"/>
+    <player id="0429" name="Saints, New Orleans" position="TMTE" team="NOS"/>
+    <player id="0430" name="49ers, San Francisco" position="TMTE" team="SFO"/>
+    <player id="0431" name="Ravens, Baltimore" position="TMTE" team="BAL"/>
+    <player id="0432" name="Texans, Houston" position="TMTE" team="HOU"/>
+    <player id="0501" name="Bills, Buffalo" position="Def" team="BUF"/>
+    <player id="0502" name="Colts, Indianapolis" position="Def" team="IND"/>
+    <player id="0503" name="Dolphins, Miami" position="Def" team="MIA"/>
+    <player id="0504" name="Patriots, New England" position="Def" team="NEP"/>
+    <player id="0505" name="Jets, New York" position="Def" team="NYJ"/>
+    <player id="0506" name="Bengals, Cincinnati" position="Def" team="CIN"/>
+    <player id="0507" name="Browns, Cleveland" position="Def" team="CLE"/>
+    <player id="0508" name="Titans, Tennessee" position="Def" team="TEN"/>
+    <player id="0509" name="Jaguars, Jacksonville" position="Def" team="JAC"/>
+    <player id="0510" name="Steelers, Pittsburgh" position="Def" team="PIT"/>
+    <player id="0511" name="Broncos, Denver" position="Def" team="DEN"/>
+    <player id="0512" name="Chiefs, Kansas City" position="Def" team="KCC"/>
+    <player id="0513" name="Raiders, Las Vegas" position="Def" team="LVR"/>
+    <player id="0514" name="Chargers, Los Angeles" position="Def" team="LAC"/>
+    <player id="0515" name="Seahawks, Seattle" position="Def" team="SEA"/>
+    <player id="0516" name="Cowboys, Dallas" position="Def" team="DAL"/>
+    <player id="0517" name="Giants, New York" position="Def" team="NYG"/>
+    <player id="0518" name="Eagles, Philadelphia" position="Def" team="PHI"/>
+    <player id="0519" name="Cardinals, Arizona" position="Def" team="ARI"/>
+    <player id="0520" name="Commanders, Washington" position="Def" team="WAS"/>
+    <player id="0521" name="Bears, Chicago" position="Def" team="CHI"/>
+    <player id="0522" name="Lions, Detroit" position="Def" team="DET"/>
+    <player id="0523" name="Packers, Green Bay" position="Def" team="GBP"/>
+    <player id="0524" name="Vikings, Minnesota" position="Def" team="MIN"/>
+    <player id="0525" name="Buccaneers, Tampa Bay" position="Def" team="TBB"/>
+    <player id="0526" name="Falcons, Atlanta" position="Def" team="ATL"/>
+    <player id="0527" name="Panthers, Carolina" position="Def" team="CAR"/>
+    <player id="0528" name="Rams, Los Angeles" position="Def" team="LAR"/>
+    <player id="0529" name="Saints, New Orleans" position="Def" team="NOS"/>
+    <player id="0530" name="49ers, San Francisco" position="Def" team="SFO"/>
+    <player id="0531" name="Ravens, Baltimore" position="Def" team="BAL"/>
+    <player id="0532" name="Texans, Houston" position="Def" team="HOU"/>
+    <player id="0551" name="Bills, Buffalo" position="ST" team="BUF"/>
+    <player id="0552" name="Colts, Indianapolis" position="ST" team="IND"/>
+    <player id="0553" name="Dolphins, Miami" position="ST" team="MIA"/>
+    <player id="0554" name="Patriots, New England" position="ST" team="NEP"/>
+    <player id="0555" name="Jets, New York" position="ST" team="NYJ"/>
+    <player id="0556" name="Bengals, Cincinnati" position="ST" team="CIN"/>
+    <player id="0557" name="Browns, Cleveland" position="ST" team="CLE"/>
+    <player id="0558" name="Titans, Tennessee" position="ST" team="TEN"/>
+    <player id="0559" name="Jaguars, Jacksonville" position="ST" team="JAC"/>
+    <player id="0560" name="Steelers, Pittsburgh" position="ST" team="PIT"/>
+    <player id="0561" name="Broncos, Denver" position="ST" team="DEN"/>
+    <player id="0562" name="Chiefs, Kansas City" position="ST" team="KCC"/>
+    <player id="0563" name="Raiders, Las Vegas" position="ST" team="LVR"/>
+    <player id="0564" name="Chargers, Los Angeles" position="ST" team="LAC"/>
+    <player id="0565" name="Seahawks, Seattle" position="ST" team="SEA"/>
+    <player id="0566" name="Cowboys, Dallas" position="ST" team="DAL"/>
+    <player id="0567" name="Giants, New York" position="ST" team="NYG"/>
+    <player id="0568" name="Eagles, Philadelphia" position="ST" team="PHI"/>
+    <player id="0569" name="Cardinals, Arizona" position="ST" team="ARI"/>
+    <player id="0570" name="Commanders, Washington" position="ST" team="WAS"/>
+    <player id="0571" name="Bears, Chicago" position="ST" team="CHI"/>
+    <player id="0572" name="Lions, Detroit" position="ST" team="DET"/>
+    <player id="0573" name="Packers, Green Bay" position="ST" team="GBP"/>
+    <player id="0574" name="Vikings, Minnesota" position="ST" team="MIN"/>
+    <player id="0575" name="Buccaneers, Tampa Bay" position="ST" team="TBB"/>
+    <player id="0576" name="Falcons, Atlanta" position="ST" team="ATL"/>
+    <player id="0577" name="Panthers, Carolina" position="ST" team="CAR"/>
+    <player id="0578" name="Rams, Los Angeles" position="ST" team="LAR"/>
+    <player id="0579" name="Saints, New Orleans" position="ST" team="NOS"/>
+    <player id="0580" name="49ers, San Francisco" position="ST" team="SFO"/>
+    <player id="0581" name="Ravens, Baltimore" position="ST" team="BAL"/>
+    <player id="0582" name="Texans, Houston" position="ST" team="HOU"/>
+    <player id="0601" name="Bills, Buffalo" position="Off" team="BUF"/>
+    <player id="0602" name="Colts, Indianapolis" position="Off" team="IND"/>
+    <player id="0603" name="Dolphins, Miami" position="Off" team="MIA"/>
+    <player id="0604" name="Patriots, New England" position="Off" team="NEP"/>
+    <player id="0605" name="Jets, New York" position="Off" team="NYJ"/>
+    <player id="0606" name="Bengals, Cincinnati" position="Off" team="CIN"/>
+    <player id="0607" name="Browns, Cleveland" position="Off" team="CLE"/>
+    <player id="0608" name="Titans, Tennessee" position="Off" team="TEN"/>
+    <player id="0609" name="Jaguars, Jacksonville" position="Off" team="JAC"/>
+    <player id="0610" name="Steelers, Pittsburgh" position="Off" team="PIT"/>
+    <player id="0611" name="Broncos, Denver" position="Off" team="DEN"/>
+    <player id="0612" name="Chiefs, Kansas City" position="Off" team="KCC"/>
+    <player id="0613" name="Raiders, Las Vegas" position="Off" team="LVR"/>
+    <player id="0614" name="Chargers, Los Angeles" position="Off" team="LAC"/>
+    <player id="0615" name="Seahawks, Seattle" position="Off" team="SEA"/>
+    <player id="0616" name="Cowboys, Dallas" position="Off" team="DAL"/>
+    <player id="0617" name="Giants, New York" position="Off" team="NYG"/>
+    <player id="0618" name="Eagles, Philadelphia" position="Off" team="PHI"/>
+    <player id="0619" name="Cardinals, Arizona" position="Off" team="ARI"/>
+    <player id="0620" name="Commanders, Washington" position="Off" team="WAS"/>
+    <player id="0621" name="Bears, Chicago" position="Off" team="CHI"/>
+    <player id="0622" name="Lions, Detroit" position="Off" team="DET"/>
+    <player id="0623" name="Packers, Green Bay" position="Off" team="GBP"/>
+    <player id="0624" name="Vikings, Minnesota" position="Off" team="MIN"/>
+    <player id="0625" name="Buccaneers, Tampa Bay" position="Off" team="TBB"/>
+    <player id="0626" name="Falcons, Atlanta" position="Off" team="ATL"/>
+    <player id="0627" name="Panthers, Carolina" position="Off" team="CAR"/>
+    <player id="0628" name="Rams, Los Angeles" position="Off" team="LAR"/>
+    <player id="0629" name="Saints, New Orleans" position="Off" team="NOS"/>
+    <player id="0630" name="49ers, San Francisco" position="Off" team="SFO"/>
+    <player id="0631" name="Ravens, Baltimore" position="Off" team="BAL"/>
+    <player id="0632" name="Texans, Houston" position="Off" team="HOU"/>
+    <player id="0651" name="Bills, Buffalo" position="TMQB" team="BUF"/>
+    <player id="0652" name="Colts, Indianapolis" position="TMQB" team="IND"/>
+    <player id="0653" name="Dolphins, Miami" position="TMQB" team="MIA"/>
+    <player id="0654" name="Patriots, New England" position="TMQB" team="NEP"/>
+    <player id="0655" name="Jets, New York" position="TMQB" team="NYJ"/>
+    <player id="0656" name="Bengals, Cincinnati" position="TMQB" team="CIN"/>
+    <player id="0657" name="Browns, Cleveland" position="TMQB" team="CLE"/>
+    <player id="0658" name="Titans, Tennessee" position="TMQB" team="TEN"/>
+    <player id="0659" name="Jaguars, Jacksonville" position="TMQB" team="JAC"/>
+    <player id="0660" name="Steelers, Pittsburgh" position="TMQB" team="PIT"/>
+    <player id="0661" name="Broncos, Denver" position="TMQB" team="DEN"/>
+    <player id="0662" name="Chiefs, Kansas City" position="TMQB" team="KCC"/>
+    <player id="0663" name="Raiders, Las Vegas" position="TMQB" team="LVR"/>
+    <player id="0664" name="Chargers, Los Angeles" position="TMQB" team="LAC"/>
+    <player id="0665" name="Seahawks, Seattle" position="TMQB" team="SEA"/>
+    <player id="0666" name="Cowboys, Dallas" position="TMQB" team="DAL"/>
+    <player id="0667" name="Giants, New York" position="TMQB" team="NYG"/>
+    <player id="0668" name="Eagles, Philadelphia" position="TMQB" team="PHI"/>
+    <player id="0669" name="Cardinals, Arizona" position="TMQB" team="ARI"/>
+    <player id="0670" name="Commanders, Washington" position="TMQB" team="WAS"/>
+    <player id="0671" name="Bears, Chicago" position="TMQB" team="CHI"/>
+    <player id="0672" name="Lions, Detroit" position="TMQB" team="DET"/>
+    <player id="0673" name="Packers, Green Bay" position="TMQB" team="GBP"/>
+    <player id="0674" name="Vikings, Minnesota" position="TMQB" team="MIN"/>
+    <player id="0675" name="Buccaneers, Tampa Bay" position="TMQB" team="TBB"/>
+    <player id="0676" name="Falcons, Atlanta" position="TMQB" team="ATL"/>
+    <player id="0677" name="Panthers, Carolina" position="TMQB" team="CAR"/>
+    <player id="0678" name="Rams, Los Angeles" position="TMQB" team="LAR"/>
+    <player id="0679" name="Saints, New Orleans" position="TMQB" team="NOS"/>
+    <player id="0680" name="49ers, San Francisco" position="TMQB" team="SFO"/>
+    <player id="0681" name="Ravens, Baltimore" position="TMQB" team="BAL"/>
+    <player id="0682" name="Texans, Houston" position="TMQB" team="HOU"/>
+    <player id="0701" name="Bills, Buffalo" position="TMPK" team="BUF"/>
+    <player id="0702" name="Colts, Indianapolis" position="TMPK" team="IND"/>
+    <player id="0703" name="Dolphins, Miami" position="TMPK" team="MIA"/>
+    <player id="0704" name="Patriots, New England" position="TMPK" team="NEP"/>
+    <player id="0705" name="Jets, New York" position="TMPK" team="NYJ"/>
+    <player id="0706" name="Bengals, Cincinnati" position="TMPK" team="CIN"/>
+    <player id="0707" name="Browns, Cleveland" position="TMPK" team="CLE"/>
+    <player id="0708" name="Titans, Tennessee" position="TMPK" team="TEN"/>
+    <player id="0709" name="Jaguars, Jacksonville" position="TMPK" team="JAC"/>
+    <player id="0710" name="Steelers, Pittsburgh" position="TMPK" team="PIT"/>
+    <player id="0711" name="Broncos, Denver" position="TMPK" team="DEN"/>
+    <player id="0712" name="Chiefs, Kansas City" position="TMPK" team="KCC"/>
+    <player id="0713" name="Raiders, Las Vegas" position="TMPK" team="LVR"/>
+    <player id="0714" name="Chargers, Los Angeles" position="TMPK" team="LAC"/>
+    <player id="0715" name="Seahawks, Seattle" position="TMPK" team="SEA"/>
+    <player id="0716" name="Cowboys, Dallas" position="TMPK" team="DAL"/>
+    <player id="0717" name="Giants, New York" position="TMPK" team="NYG"/>
+    <player id="0718" name="Eagles, Philadelphia" position="TMPK" team="PHI"/>
+    <player id="0719" name="Cardinals, Arizona" position="TMPK" team="ARI"/>
+    <player id="0720" name="Commanders, Washington" position="TMPK" team="WAS"/>
+    <player id="0721" name="Bears, Chicago" position="TMPK" team="CHI"/>
+    <player id="0722" name="Lions, Detroit" position="TMPK" team="DET"/>
+    <player id="0723" name="Packers, Green Bay" position="TMPK" team="GBP"/>
+    <player id="0724" name="Vikings, Minnesota" position="TMPK" team="MIN"/>
+    <player id="0725" name="Buccaneers, Tampa Bay" position="TMPK" team="TBB"/>
+    <player id="0726" name="Falcons, Atlanta" position="TMPK" team="ATL"/>
+    <player id="0727" name="Panthers, Carolina" position="TMPK" team="CAR"/>
+    <player id="0728" name="Rams, Los Angeles" position="TMPK" team="LAR"/>
+    <player id="0729" name="Saints, New Orleans" position="TMPK" team="NOS"/>
+    <player id="0730" name="49ers, San Francisco" position="TMPK" team="SFO"/>
+    <player id="0731" name="Ravens, Baltimore" position="TMPK" team="BAL"/>
+    <player id="0732" name="Texans, Houston" position="TMPK" team="HOU"/>
+    <player id="0751" name="Bills, Buffalo" position="TMPN" team="BUF"/>
+    <player id="0752" name="Colts, Indianapolis" position="TMPN" team="IND"/>
+    <player id="0753" name="Dolphins, Miami" position="TMPN" team="MIA"/>
+    <player id="0754" name="Patriots, New England" position="TMPN" team="NEP"/>
+    <player id="0755" name="Jets, New York" position="TMPN" team="NYJ"/>
+    <player id="0756" name="Bengals, Cincinnati" position="TMPN" team="CIN"/>
+    <player id="0757" name="Browns, Cleveland" position="TMPN" team="CLE"/>
+    <player id="0758" name="Titans, Tennessee" position="TMPN" team="TEN"/>
+    <player id="0759" name="Jaguars, Jacksonville" position="TMPN" team="JAC"/>
+    <player id="0760" name="Steelers, Pittsburgh" position="TMPN" team="PIT"/>
+    <player id="0761" name="Broncos, Denver" position="TMPN" team="DEN"/>
+    <player id="0762" name="Chiefs, Kansas City" position="TMPN" team="KCC"/>
+    <player id="0763" name="Raiders, Las Vegas" position="TMPN" team="LVR"/>
+    <player id="0764" name="Chargers, Los Angeles" position="TMPN" team="LAC"/>
+    <player id="0765" name="Seahawks, Seattle" position="TMPN" team="SEA"/>
+    <player id="0766" name="Cowboys, Dallas" position="TMPN" team="DAL"/>
+    <player id="0767" name="Giants, New York" position="TMPN" team="NYG"/>
+    <player id="0768" name="Eagles, Philadelphia" position="TMPN" team="PHI"/>
+    <player id="0769" name="Cardinals, Arizona" position="TMPN" team="ARI"/>
+    <player id="0770" name="Commanders, Washington" position="TMPN" team="WAS"/>
+    <player id="0771" name="Bears, Chicago" position="TMPN" team="CHI"/>
+    <player id="0772" name="Lions, Detroit" position="TMPN" team="DET"/>
+    <player id="0773" name="Packers, Green Bay" position="TMPN" team="GBP"/>
+    <player id="0774" name="Vikings, Minnesota" position="TMPN" team="MIN"/>
+    <player id="0775" name="Buccaneers, Tampa Bay" position="TMPN" team="TBB"/>
+    <player id="0776" name="Falcons, Atlanta" position="TMPN" team="ATL"/>
+    <player id="0777" name="Panthers, Carolina" position="TMPN" team="CAR"/>
+    <player id="0778" name="Rams, Los Angeles" position="TMPN" team="LAR"/>
+    <player id="0779" name="Saints, New Orleans" position="TMPN" team="NOS"/>
+    <player id="0780" name="49ers, San Francisco" position="TMPN" team="SFO"/>
+    <player id="0781" name="Ravens, Baltimore" position="TMPN" team="BAL"/>
+    <player id="0782" name="Texans, Houston" position="TMPN" team="HOU"/>
+    <player id="1276" name="Harbaugh, Jim" position="Coach" team="LAC"/>
+    <player id="3144" name="Pederson, Doug" position="Coach" team="JAC"/>
+    <player id="3622" name="Reid, Andy" position="Coach" team="KCC"/>
+    <player id="4925" name="Brees, Drew" position="QB" team="FA"/>
+    <player id="5848" name="Brady, Tom" position="QB" team="FA"/>
+    <player id="6406" name="Pierce, Antonio" position="Coach" team="LVR"/>
+    <player id="7401" name="Roethlisberger, Ben" position="QB" team="FA"/>
+    <player id="7836" name="Rodgers, Aaron" position="QB" team="NYJ"/>
+    <player id="8235" name="McCarthy, Mike" position="Coach" team="DAL"/>
+    <player id="8237" name="Payton, Sean" position="Coach" team="DEN"/>
+    <player id="8269" name="Lewis, Marcedes" position="TE" team="CHI"/>
+    <player id="8274" name="Ryans, DeMeco" position="Coach" team="HOU"/>
+    <player id="8653" name="Tomlin, Mike" position="Coach" team="PIT"/>
+    <player id="8658" name="Peterson, Adrian" position="RB" team="FA"/>
+    <player id="8742" name="Crosby, Mason" position="PK" team="FA"/>
+    <player id="8851" name="Folk, Nick" position="PK" team="TEN"/>
+    <player id="8930" name="Prater, Matt" position="PK" team="ARI"/>
+    <player id="9051" name="Campbell, Calais" position="DT" team="MIA"/>
+    <player id="9064" name="Flacco, Joe" position="QB" team="IND"/>
+    <player id="9086" name="Mayo, Jerod" position="Coach" team="NEP"/>
+    <player id="9099" name="Ryan, Matt" position="QB" team="FA"/>
+    <player id="9151" name="O'Connell, Kevin" position="Coach" team="MIN"/>
+    <player id="9200" name="Slater, Matt" position="WR" team="FA"/>
+    <player id="9207" name="Johnson, Josh" position="QB" team="BAL"/>
+    <player id="9298" name="Harbaugh, John" position="Coach" team="BAL"/>
+    <player id="9424" name="Morris, Raheem" position="Coach" team="ATL"/>
+    <player id="9431" name="Stafford, Matthew" position="QB" team="LAR"/>
+    <player id="9474" name="Cook, Jared" position="TE" team="FA"/>
+    <player id="9596" name="Morstead, Thomas" position="PN" team="NYJ"/>
+    <player id="9686" name="Succop, Ryan" position="PK" team="FA"/>
+    <player id="9694" name="Gano, Graham" position="PK" team="NYG"/>
+    <player id="9714" name="Hoyer, Brian" position="QB" team="FA"/>
+    <player id="9815" name="Suh, Ndamukong" position="DT" team="FA"/>
+    <player id="9826" name="Graham, Brandon" position="DE" team="PHI"/>
+    <player id="9833" name="Pierre-Paul, Jason" position="DE" team="FA"/>
+    <player id="9853" name="Hughes, Jerry" position="DE" team="HOU"/>
+    <player id="9861" name="Jackson, Kareem" position="S" team="BUF"/>
+    <player id="9875" name="Alualu, Tyson" position="DT" team="FA"/>
+    <player id="9899" name="McCoy, Colt" position="QB" team="FA"/>
+    <player id="9902" name="Gronkowski, Rob" position="TE" team="FA"/>
+    <player id="9904" name="Joseph, Linval" position="DT" team="DAL"/>
+    <player id="9925" name="Graham, Jimmy" position="TE" team="FA"/>
+    <player id="9940" name="Woods, Al" position="DT" team="FA"/>
+    <player id="10260" name="Peterson, Patrick" position="CB" team="FA"/>
+    <player id="10262" name="Gabbert, Blaine" position="QB" team="FA"/>
+    <player id="10266" name="Heyward, Cameron" position="DT" team="PIT"/>
+    <player id="10267" name="Miller, Von" position="DE" team="BUF"/>
+    <player id="10269" name="Quinn, Robert" position="DE" team="FA"/>
+    <player id="10271" name="Jones, Julio" position="WR" team="FA"/>
+    <player id="10273" name="Newton, Cam" position="QB" team="FA"/>
+    <player id="10276" name="Ingram, Mark" position="RB" team="FA"/>
+    <player id="10277" name="Houston, Justin" position="DE" team="FA"/>
+    <player id="10292" name="Jordan, Cameron" position="DE" team="NOS"/>
+    <player id="10297" name="Kaepernick, Colin" position="QB" team="FA"/>
+    <player id="10308" name="Cobb, Randall" position="WR" team="FA"/>
+    <player id="10313" name="Dalton, Andy" position="QB" team="CAR"/>
+    <player id="10413" name="Taylor, Tyrod" position="QB" team="NYJ"/>
+    <player id="10457" name="Guy, Lawrence" position="DT" team="FA"/>
+    <player id="10514" name="Bellore, Nick" position="RB" team="FA"/>
+    <player id="10671" name="Bowles, Todd" position="Coach" team="TBB"/>
+    <player id="10693" name="Allen, Dennis" position="Coach" team="NOS"/>
+    <player id="10697" name="Tannehill, Ryan" position="QB" team="FA"/>
+    <player id="10699" name="Foles, Nick" position="QB" team="FA"/>
+    <player id="10700" name="Cousins, Kirk" position="QB" team="ATL"/>
+    <player id="10703" name="Wilson, Russell" position="QB" team="PIT"/>
+    <player id="10729" name="Hilton, T.Y." position="WR" team="FA"/>
+    <player id="10738" name="Jones, Marvin" position="WR" team="FA"/>
+    <player id="10749" name="Ingram, Melvin" position="DE" team="FA"/>
+    <player id="10753" name="Jones, Chandler" position="DE" team="FA"/>
+    <player id="10762" name="Cox, Fletcher" position="DT" team="FA"/>
+    <player id="10766" name="Irvin, Bruce" position="DE" team="FA"/>
+    <player id="10768" name="David, Lavonte" position="LB" team="TBB"/>
+    <player id="10775" name="Wagner, Bobby" position="LB" team="WAS"/>
+    <player id="10783" name="Smith, Harrison" position="S" team="MIN"/>
+    <player id="10789" name="Gilmore, Stephon" position="CB" team="MIN"/>
+    <player id="10814" name="Anger, Bryan" position="PN" team="DAL"/>
+    <player id="10816" name="Davis, Demario" position="LB" team="NOS"/>
+    <player id="10851" name="Norman, Josh" position="CB" team="FA"/>
+    <player id="10862" name="Bullock, Randy" position="PK" team="FA"/>
+    <player id="10868" name="Zuerlein, Greg" position="PK" team="NYJ"/>
+    <player id="10874" name="Bethel, Justin" position="CB" team="FA"/>
+    <player id="10932" name="Bolden, Brandon" position="RB" team="FA"/>
+    <player id="10945" name="Hekker, Johnny" position="PN" team="CAR"/>
+    <player id="10948" name="Keenum, Case" position="QB" team="HOU"/>
+    <player id="10960" name="Gordon, Josh" position="WR" team="FA"/>
+    <player id="10973" name="Beasley, Cole" position="WR" team="FA"/>
+    <player id="10976" name="Tucker, Justin" position="PK" team="BAL"/>
+    <player id="11010" name="Gipson, Tashaun" position="S" team="JAC"/>
+    <player id="11017" name="McLeod, Rodney" position="S" team="CLE"/>
+    <player id="11150" name="Smith, Geno" position="QB" team="SEA"/>
+    <player id="11151" name="Barkley, Matt" position="QB" team="JAC"/>
+    <player id="11182" name="Burkhead, Rex" position="RB" team="FA"/>
+    <player id="11192" name="Bell, Le'Veon" position="RB" team="FA"/>
+    <player id="11222" name="Allen, Keenan" position="WR" team="CHI"/>
+    <player id="11225" name="Patterson, Cordarrelle" position="RB" team="PIT"/>
+    <player id="11228" name="Woods, Robert" position="WR" team="HOU"/>
+    <player id="11232" name="Hopkins, DeAndre" position="WR" team="TEN"/>
+    <player id="11239" name="Goodwin, Marquise" position="WR" team="CLE"/>
+    <player id="11244" name="Kelce, Travis" position="TE" team="KCC"/>
+    <player id="11247" name="Ertz, Zach" position="TE" team="WAS"/>
+    <player id="11265" name="Gholston, William" position="DT" team="TBB"/>
+    <player id="11281" name="Hankins, Johnathan" position="DT" team="SEA"/>
+    <player id="11286" name="Jenkins, John" position="DT" team="LVR"/>
+    <player id="11313" name="Mathieu, Tyrann" position="S" team="NOS"/>
+    <player id="11316" name="Ryan, Logan" position="S" team="FA"/>
+    <player id="11317" name="Poyer, Jordan" position="S" team="MIA"/>
+    <player id="11327" name="Jefferson, Tony" position="S" team="LAC"/>
+    <player id="11348" name="Slay, Darius" position="CB" team="PHI"/>
+    <player id="11359" name="Harmon, Duron" position="S" team="FA"/>
+    <player id="11367" name="Juszczyk, Kyle" position="RB" team="SFO"/>
+    <player id="11375" name="Klein, A.J." position="LB" team="FA"/>
+    <player id="11382" name="Hyde, Micah" position="S" team="FA"/>
+    <player id="11383" name="Martin, Sam" position="PN" team="BUF"/>
+    <player id="11387" name="Hopkins, Dustin" position="PK" team="CLE"/>
+    <player id="11390" name="Murray, Latavius" position="RB" team="FA"/>
+    <player id="11412" name="Williams, Nick" position="DT" team="SFO"/>
+    <player id="11555" name="Davis, Cody" position="S" team="FA"/>
+    <player id="11640" name="Bridgewater, Teddy" position="QB" team="FA"/>
+    <player id="11643" name="McCarron, A.J." position="QB" team="FA"/>
+    <player id="11644" name="Carr, Derek" position="QB" team="NOS"/>
+    <player id="11647" name="Thomas, Logan" position="TE" team="SFO"/>
+    <player id="11670" name="Watkins, Sammy" position="WR" team="FA"/>
+    <player id="11671" name="Evans, Mike" position="WR" team="TBB"/>
+    <player id="11674" name="Cooks, Brandin" position="WR" team="DAL"/>
+    <player id="11675" name="Adams, Davante" position="WR" team="LVR"/>
+    <player id="11676" name="Matthews, Jordan" position="TE" team="CAR"/>
+    <player id="11678" name="Robinson, Allen" position="WR" team="NYG"/>
+    <player id="11679" name="Beckham, Odell" position="WR" team="MIA"/>
+    <player id="11680" name="Landry, Jarvis" position="WR" team="FA"/>
+    <player id="11688" name="Bryant, Martavis" position="WR" team="WAS"/>
+    <player id="11706" name="Clowney, Jadeveon" position="DE" team="CAR"/>
+    <player id="11720" name="Barr, Anthony" position="LB" team="FA"/>
+    <player id="11721" name="Mack, Khalil" position="DE" team="LAC"/>
+    <player id="11723" name="Van Noy, Kyle" position="LB" team="BAL"/>
+    <player id="11728" name="Mosley, C.J." position="LB" team="NYJ"/>
+    <player id="11735" name="Roby, Bradley" position="CB" team="FA"/>
+    <player id="11757" name="Donald, Aaron" position="DT" team="FA"/>
+    <player id="11760" name="Garoppolo, Jimmy" position="QB" team="LAR"/>
+    <player id="11761" name="McKinnon, Jerick" position="RB" team="FA"/>
+    <player id="11764" name="Fuller, Kyle" position="CB" team="FA"/>
+    <player id="11768" name="Ward, Jimmie" position="S" team="HOU"/>
+    <player id="11769" name="Lawrence, Demarcus" position="DE" team="DAL"/>
+    <player id="11772" name="Kirksey, Christian" position="LB" team="FA"/>
+    <player id="11793" name="Jones, DaQuan" position="DT" team="BUF"/>
+    <player id="11807" name="Urban, Brent" position="DT" team="BAL"/>
+    <player id="11840" name="O'Donnell, Pat" position="PN" team="FA"/>
+    <player id="11872" name="Harris, Shelby" position="DT" team="CLE"/>
+    <player id="11886" name="Williams, Damien" position="RB" team="FA"/>
+    <player id="11936" name="Boswell, Chris" position="PK" team="PIT"/>
+    <player id="11938" name="Thielen, Adam" position="WR" team="CAR"/>
+    <player id="11945" name="Santos, Cairo" position="PK" team="CHI"/>
+    <player id="11947" name="McManus, Brandon" position="PK" team="FA"/>
+    <player id="11951" name="Snead, Willie" position="WR" team="MIA"/>
+    <player id="11956" name="Sorensen, Daniel" position="S" team="FA"/>
+    <player id="11985" name="Way, Tress" position="PN" team="WAS"/>
+    <player id="12015" name="Williams, K'Waun" position="CB" team="DEN"/>
+    <player id="12040" name="Smith, Keith" position="RB" team="FA"/>
+    <player id="12075" name="Barrett, Shaq" position="DE" team="FA"/>
+    <player id="12083" name="Autry, Denico" position="DT" team="HOU"/>
+    <player id="12088" name="Phillips, Adrian" position="S" team="FA"/>
+    <player id="12110" name="Brate, Cameron" position="TE" team="FA"/>
+    <player id="12126" name="Purcell, Mike" position="DT" team="FA"/>
+    <player id="12140" name="Winston, Jameis" position="QB" team="CLE"/>
+    <player id="12141" name="Mariota, Marcus" position="QB" team="WAS"/>
+    <player id="12151" name="Gordon, Melvin" position="RB" team="FA"/>
+    <player id="12152" name="Coleman, Tevin" position="RB" team="FA"/>
+    <player id="12155" name="Abdullah, Ameer" position="RB" team="LVR"/>
+    <player id="12164" name="Davis, Mike" position="RB" team="FA"/>
+    <player id="12175" name="Cooper, Amari" position="WR" team="CLE"/>
+    <player id="12176" name="Parker, DeVante" position="WR" team="FA"/>
+    <player id="12181" name="Agholor, Nelson" position="WR" team="BAL"/>
+    <player id="12184" name="Crowder, Jamison" position="WR" team="WAS"/>
+    <player id="12186" name="Diggs, Stefon" position="WR" team="HOU"/>
+    <player id="12187" name="Lockett, Tyler" position="WR" team="SEA"/>
+    <player id="12188" name="Dorsett, Phillip" position="WR" team="DEN"/>
+    <player id="12197" name="Perriman, Breshad" position="WR" team="FA"/>
+    <player id="12212" name="Kroft, Tyler" position="TE" team="FA"/>
+    <player id="12213" name="Bell, Blake" position="TE" team="FA"/>
+    <player id="12215" name="Gregory, Randy" position="DE" team="FA"/>
+    <player id="12217" name="Fowler, Dante" position="DE" team="WAS"/>
+    <player id="12218" name="Armstead, Arik" position="DT" team="JAC"/>
+    <player id="12219" name="Edwards, Mario" position="DT" team="HOU"/>
+    <player id="12221" name="Hunter, Danielle" position="DE" team="HOU"/>
+    <player id="12222" name="Flowers, Trey" position="DE" team="FA"/>
+    <player id="12225" name="Williams, Leonard" position="DT" team="SEA"/>
+    <player id="12229" name="Phillips, Jordan" position="DT" team="DAL"/>
+    <player id="12231" name="Thompson, Shaq" position="LB" team="CAR"/>
+    <player id="12233" name="Alexander, Kwon" position="LB" team="FA"/>
+    <player id="12234" name="Dupree, Bud" position="DE" team="LAC"/>
+    <player id="12238" name="Perryman, Denzel" position="LB" team="LAC"/>
+    <player id="12239" name="Kendricks, Eric" position="LB" team="DAL"/>
+    <player id="12245" name="Peters, Marcus" position="CB" team="FA"/>
+    <player id="12250" name="Collins, Landon" position="LB" team="FA"/>
+    <player id="12255" name="Quinn, Dan" position="Coach" team="WAS"/>
+    <player id="12257" name="Conley, Chris" position="WR" team="SFO"/>
+    <player id="12261" name="Montgomery, Ty" position="RB" team="FA"/>
+    <player id="12263" name="Waller, Darren" position="TE" team="FA"/>
+    <player id="12270" name="Smith, Preston" position="DE" team="GBP"/>
+    <player id="12275" name="Rowe, Eric" position="S" team="FA"/>
+    <player id="12276" name="Darby, Ronald" position="CB" team="JAC"/>
+    <player id="12278" name="Golden, Markus" position="DE" team="FA"/>
+    <player id="12280" name="Clark, Frank" position="DE" team="FA"/>
+    <player id="12287" name="Hicks, Jordan" position="LB" team="CLE"/>
+    <player id="12288" name="Anderson, Henry" position="DT" team="FA"/>
+    <player id="12291" name="Nelson, Steven" position="CB" team="FA"/>
+    <player id="12292" name="Blackson, Angelo" position="DT" team="DEN"/>
+    <player id="12301" name="Smith, Za'Darius" position="DE" team="CLE"/>
+    <player id="12302" name="Wilson, Damien" position="LB" team="DAL"/>
+    <player id="12305" name="Jarrett, Grady" position="DT" team="ATL"/>
+    <player id="12308" name="Amos, Adrian" position="S" team="JAC"/>
+    <player id="12309" name="Pruitt, MyCole" position="TE" team="PIT"/>
+    <player id="12311" name="McCain, Bobby" position="S" team="MIN"/>
+    <player id="12317" name="Uzomah, C.J." position="TE" team="FA"/>
+    <player id="12323" name="Pinion, Bradley" position="PN" team="ATL"/>
+    <player id="12325" name="Burton, Michael" position="RB" team="DEN"/>
+    <player id="12326" name="Mayo, David" position="LB" team="FA"/>
+    <player id="12328" name="Boyle, Nick" position="TE" team="FA"/>
+    <player id="12349" name="Diggs, Quandre" position="S" team="TEN"/>
+    <player id="12361" name="Nunez-Roches, Rakeem" position="DT" team="NYG"/>
+    <player id="12378" name="Swaim, Geoff" position="TE" team="FA"/>
+    <player id="12381" name="Siemian, Trevor" position="QB" team="FA"/>
+    <player id="12386" name="Brown, Malcolm" position="RB" team="FA"/>
+    <player id="12394" name="Carter, DeAndre" position="WR" team="CHI"/>
+    <player id="12437" name="Myers, Jason" position="PK" team="SEA"/>
+    <player id="12443" name="Kumerow, Jake" position="WR" team="FA"/>
+    <player id="12447" name="Mostert, Raheem" position="RB" team="MIA"/>
+    <player id="12464" name="Byrd, Damiere" position="WR" team="BUF"/>
+    <player id="12476" name="Heinicke, Taylor" position="QB" team="ATL"/>
+    <player id="12481" name="Hewitt, Neville" position="LB" team="HOU"/>
+    <player id="12486" name="Marlowe, Dean" position="S" team="FA"/>
+    <player id="12539" name="Campbell, Dan" position="Coach" team="DET"/>
+    <player id="12589" name="Hill, Troy" position="CB" team="CAR"/>
+    <player id="12608" name="Winchester, James" position="TE" team="KCC"/>
+    <player id="12610" name="Wentz, Carson" position="QB" team="KCC"/>
+    <player id="12611" name="Goff, Jared" position="QB" team="DET"/>
+    <player id="12616" name="Brissett, Jacoby" position="QB" team="NEP"/>
+    <player id="12620" name="Prescott, Dak" position="QB" team="DAL"/>
+    <player id="12621" name="Allen, Brandon" position="QB" team="SFO"/>
+    <player id="12623" name="Driskel, Jeff" position="QB" team="WAS"/>
+    <player id="12625" name="Elliott, Ezekiel" position="RB" team="DAL"/>
+    <player id="12626" name="Henry, Derrick" position="RB" team="BAL"/>
+    <player id="12630" name="Drake, Kenyan" position="RB" team="FA"/>
+    <player id="12635" name="Williams, Jonathan" position="RB" team="FA"/>
+    <player id="12645" name="Treadwell, Laquon" position="WR" team="IND"/>
+    <player id="12647" name="Fuller, Will" position="WR" team="FA"/>
+    <player id="12650" name="Boyd, Tyler" position="WR" team="TEN"/>
+    <player id="12652" name="Thomas, Michael" position="WR" team="FA"/>
+    <player id="12658" name="Shepard, Sterling" position="WR" team="TBB"/>
+    <player id="12676" name="Henry, Hunter" position="TE" team="NEP"/>
+    <player id="12677" name="Hooper, Austin" position="TE" team="NEP"/>
+    <player id="12678" name="Higbee, Tyler" position="TE" team="LAR"/>
+    <player id="12680" name="Vannett, Nick" position="TE" team="TEN"/>
+    <player id="12686" name="Bosa, Joey" position="DE" team="LAC"/>
+    <player id="12687" name="Lawson, Shaq" position="DE" team="FA"/>
+    <player id="12688" name="Buckner, DeForest" position="DT" team="IND"/>
+    <player id="12691" name="Ogbah, Emmanuel" position="DT" team="MIA"/>
+    <player id="12697" name="Robinson, A'Shawn" position="DT" team="CAR"/>
+    <player id="12698" name="Reed, Jarran" position="DT" team="SEA"/>
+    <player id="12699" name="Billings, Andrew" position="DT" team="CHI"/>
+    <player id="12700" name="Johnson, Austin" position="DT" team="BUF"/>
+    <player id="12701" name="Smith, Jaylon" position="LB" team="FA"/>
+    <player id="12702" name="Jack, Myles" position="LB" team="FA"/>
+    <player id="12711" name="Ramsey, Jalen" position="CB" team="MIA"/>
+    <player id="12714" name="Fuller, Kendall" position="CB" team="MIA"/>
+    <player id="12715" name="Apple, Eli" position="CB" team="FA"/>
+    <player id="12716" name="Mills, Jalen" position="CB" team="FA"/>
+    <player id="12718" name="Bell, Vonn" position="S" team="CIN"/>
+    <player id="12720" name="Kearse, Jayron" position="S" team="FA"/>
+    <player id="12734" name="Floyd, Leonard" position="DE" team="SFO"/>
+    <player id="12735" name="Rankins, Sheldon" position="DT" team="CIN"/>
+    <player id="12736" name="Neal, Keanu" position="S" team="FA"/>
+    <player id="12738" name="Burns, Artie" position="CB" team="SEA"/>
+    <player id="12739" name="Clark, Kenny" position="DT" team="GBP"/>
+    <player id="12741" name="Jones, Chris" position="DT" team="KCC"/>
+    <player id="12742" name="Howard, Xavien" position="CB" team="FA"/>
+    <player id="12744" name="Ward, Jihad" position="DT" team="MIN"/>
+    <player id="12745" name="Jones, Deion" position="LB" team="BUF"/>
+    <player id="12750" name="Bradberry, James" position="S" team="PHI"/>
+    <player id="12751" name="Gotsis, Adam" position="DT" team="FA"/>
+    <player id="12752" name="Byard, Kevin" position="S" team="CHI"/>
+    <player id="12754" name="Collins, Maliek" position="DT" team="SFO"/>
+    <player id="12756" name="Ngakoue, Yannick" position="DE" team="FA"/>
+    <player id="12758" name="Bullard, Jonathan" position="DT" team="MIN"/>
+    <player id="12760" name="Worley, Daryl" position="S" team="BAL"/>
+    <player id="12762" name="Vigil, Nick" position="LB" team="DAL"/>
+    <player id="12764" name="Hargrave, Javon" position="DT" team="SFO"/>
+    <player id="12767" name="Simmons, Justin" position="S" team="ATL"/>
+    <player id="12772" name="Murray, Eric" position="S" team="HOU"/>
+    <player id="12773" name="Moore, Chris" position="WR" team="ARI"/>
+    <player id="12776" name="Killebrew, Miles" position="S" team="PIT"/>
+    <player id="12779" name="Campbell, De'Vondre" position="LB" team="SFO"/>
+    <player id="12780" name="Ridgeway, Hassan" position="DT" team="FA"/>
+    <player id="12782" name="Onyemata, David" position="DT" team="ATL"/>
+    <player id="12783" name="Bush, Deon" position="S" team="KCC"/>
+    <player id="12785" name="Robinson, Demarcus" position="WR" team="LAR"/>
+    <player id="12788" name="Martinez, Blake" position="LB" team="FA"/>
+    <player id="12791" name="Lowry, Dean" position="DT" team="PIT"/>
+    <player id="12795" name="Judon, Matt" position="DE" team="ATL"/>
+    <player id="12796" name="Jefferson, Quinton" position="DT" team="CLE"/>
+    <player id="12801" name="Hill, Tyreek" position="WR" team="MIA"/>
+    <player id="12802" name="Reader, D.J." position="DT" team="DET"/>
+    <player id="12813" name="Houston-Carson, DeAndre" position="S" team="FA"/>
+    <player id="12814" name="Grant, Jakeem" position="WR" team="ATL"/>
+    <player id="12815" name="Sudfeld, Nate" position="QB" team="DET"/>
+    <player id="12828" name="Grugier-Hill, Kamu" position="LB" team="MIN"/>
+    <player id="12831" name="Roberts, Elandon" position="LB" team="PIT"/>
+    <player id="12834" name="Seymour, Kevon" position="CB" team="FA"/>
+    <player id="12842" name="Dixon, Riley" position="PN" team="DEN"/>
+    <player id="12845" name="Washington, Dwayne" position="RB" team="DEN"/>
+    <player id="12851" name="Matakevich, Tyler" position="LB" team="PIT"/>
+    <player id="12859" name="Anderson, Stephen" position="TE" team="FA"/>
+    <player id="12860" name="Fairbairn, Ka'imi" position="PK" team="HOU"/>
+    <player id="12910" name="Harris, Erik" position="S" team="FA"/>
+    <player id="12913" name="Erickson, Alex" position="WR" team="FA"/>
+    <player id="12923" name="Ham, C.J." position="RB" team="MIN"/>
+    <player id="12930" name="Chosen, Robbie" position="WR" team="SFO"/>
+    <player id="12948" name="Okwara, Romeo" position="DE" team="FA"/>
+    <player id="12952" name="Pierce, Michael" position="DT" team="BAL"/>
+    <player id="12955" name="Manhertz, Chris" position="TE" team="NYG"/>
+    <player id="12956" name="Lutz, Wil" position="PK" team="DEN"/>
+    <player id="12976" name="Hamilton, Antonio" position="CB" team="ATL"/>
+    <player id="12978" name="Goodwin, C.J." position="CB" team="DAL"/>
+    <player id="12979" name="Williams, DeShawn" position="DT" team="BUF"/>
+    <player id="12985" name="Littleton, Cory" position="LB" team="FA"/>
+    <player id="12987" name="Hyder, Kerry" position="DE" team="FA"/>
+    <player id="12988" name="Jones, Jonathan" position="CB" team="NEP"/>
+    <player id="12990" name="Farley, Matthias" position="S" team="FA"/>
+    <player id="12998" name="Adams, Andrew" position="S" team="FA"/>
+    <player id="13065" name="Tomlinson, Eric" position="TE" team="IND"/>
+    <player id="13066" name="Raymond, Kalif" position="WR" team="DET"/>
+    <player id="13085" name="Fox, Morgan" position="DT" team="LAC"/>
+    <player id="13108" name="McKissic, J.D." position="RB" team="FA"/>
+    <player id="13111" name="McVay, Sean" position="Coach" team="LAR"/>
+    <player id="13112" name="McDermott, Sean" position="Coach" team="BUF"/>
+    <player id="13113" name="Watson, Deshaun" position="QB" team="CLE"/>
+    <player id="13115" name="Trubisky, Mitchell" position="QB" team="BUF"/>
+    <player id="13116" name="Mahomes, Patrick" position="QB" team="KCC"/>
+    <player id="13119" name="Dobbs, Joshua" position="QB" team="SFO"/>
+    <player id="13124" name="Rush, Cooper" position="QB" team="DAL"/>
+    <player id="13125" name="Beathard, C.J." position="QB" team="JAC"/>
+    <player id="13127" name="Peterman, Nathan" position="QB" team="LVR"/>
+    <player id="13128" name="Cook, Dalvin" position="RB" team="FA"/>
+    <player id="13129" name="Fournette, Leonard" position="RB" team="FA"/>
+    <player id="13130" name="McCaffrey, Christian" position="RB" team="SFO"/>
+    <player id="13131" name="Mixon, Joe" position="RB" team="HOU"/>
+    <player id="13132" name="Kamara, Alvin" position="RB" team="NOS"/>
+    <player id="13133" name="Perine, Samaje" position="RB" team="DEN"/>
+    <player id="13134" name="Foreman, D'Onta" position="RB" team="CLE"/>
+    <player id="13136" name="Clement, Corey" position="RB" team="FA"/>
+    <player id="13138" name="Hunt, Kareem" position="RB" team="FA"/>
+    <player id="13139" name="Williams, Jamaal" position="RB" team="NOS"/>
+    <player id="13143" name="McNichols, Jeremy" position="RB" team="WAS"/>
+    <player id="13146" name="Conner, James" position="RB" team="ARI"/>
+    <player id="13148" name="Ogunbowale, Dare" position="RB" team="HOU"/>
+    <player id="13153" name="Davis, Corey" position="WR" team="FA"/>
+    <player id="13154" name="Williams, Mike" position="WR" team="NYJ"/>
+    <player id="13155" name="Ross, John" position="WR" team="PHI"/>
+    <player id="13156" name="Smith-Schuster, JuJu" position="WR" team="FA"/>
+    <player id="13157" name="Samuel, Curtis" position="WR" team="BUF"/>
+    <player id="13163" name="Godwin, Chris" position="WR" team="TBB"/>
+    <player id="13164" name="Kupp, Cooper" position="WR" team="LAR"/>
+    <player id="13168" name="Reynolds, Josh" position="WR" team="DEN"/>
+    <player id="13172" name="Brown, Noah" position="WR" team="HOU"/>
+    <player id="13176" name="Jones, Zay" position="WR" team="ARI"/>
+    <player id="13188" name="Howard, O.J." position="TE" team="FA"/>
+    <player id="13189" name="Engram, Evan" position="TE" team="JAC"/>
+    <player id="13192" name="Njoku, David" position="TE" team="CLE"/>
+    <player id="13193" name="Smith, Jonnu" position="TE" team="MIA"/>
+    <player id="13198" name="Garrett, Myles" position="DE" team="CLE"/>
+    <player id="13199" name="Thomas, Solomon" position="DT" team="NYJ"/>
+    <player id="13201" name="Barnett, Derek" position="DE" team="HOU"/>
+    <player id="13202" name="Lawson, Carl" position="DE" team="DAL"/>
+    <player id="13203" name="Rochell, Isaac" position="DE" team="FA"/>
+    <player id="13204" name="Harris, Charles" position="DE" team="FA"/>
+    <player id="13208" name="Allen, Jonathan" position="DT" team="WAS"/>
+    <player id="13211" name="Watkins, Carlos" position="DT" team="LAR"/>
+    <player id="13212" name="Wormley, Chris" position="DT" team="FA"/>
+    <player id="13214" name="Watt, T.J." position="DE" team="PIT"/>
+    <player id="13216" name="Cunningham, Zach" position="LB" team="FA"/>
+    <player id="13220" name="Riley, Duke" position="LB" team="MIA"/>
+    <player id="13221" name="Davis, Jarrad" position="LB" team="FA"/>
+    <player id="13222" name="McMillan, Raekwon" position="LB" team="NEP"/>
+    <player id="13223" name="Humphrey, Marlon" position="CB" team="BAL"/>
+    <player id="13224" name="Lattimore, Marshon" position="CB" team="NOS"/>
+    <player id="13225" name="Jones, Sidney" position="CB" team="FA"/>
+    <player id="13226" name="Jackson, Adoree" position="CB" team="FA"/>
+    <player id="13227" name="Lewis, Jourdan" position="CB" team="DAL"/>
+    <player id="13228" name="Hooker, Malik" position="S" team="DAL"/>
+    <player id="13229" name="Jackson, Eddie" position="S" team="BAL"/>
+    <player id="13230" name="Adams, Jamal" position="S" team="TEN"/>
+    <player id="13231" name="Peppers, Jabrill" position="S" team="NEP"/>
+    <player id="13232" name="King, Desmond" position="CB" team="HOU"/>
+    <player id="13233" name="Shanahan, Kyle" position="Coach" team="SFO"/>
+    <player id="13234" name="Mack, Marlon" position="RB" team="FA"/>
+    <player id="13236" name="Everett, Gerald" position="TE" team="CHI"/>
+    <player id="13245" name="Reddick, Haason" position="DE" team="NYJ"/>
+    <player id="13246" name="Alie-Cox, Mo" position="TE" team="IND"/>
+    <player id="13249" name="White, Tre'Davious" position="CB" team="LAR"/>
+    <player id="13251" name="Baker, Budda" position="S" team="ARI"/>
+    <player id="13252" name="Maye, Marcus" position="S" team="MIA"/>
+    <player id="13253" name="Williams, Marcus" position="S" team="BAL"/>
+    <player id="13256" name="Bowser, Tyus" position="DE" team="FA"/>
+    <player id="13257" name="Evans, Justin" position="S" team="FA"/>
+    <player id="13258" name="Walker, DeMarcus" position="DE" team="CHI"/>
+    <player id="13260" name="Tomlinson, Dalvin" position="DT" team="CLE"/>
+    <player id="13262" name="Kpassagnon, Tanoh" position="DE" team="NOS"/>
+    <player id="13263" name="Awuzie, Chidobe" position="CB" team="TEN"/>
+    <player id="13265" name="Ogunjobi, Larry" position="DT" team="PIT"/>
+    <player id="13266" name="Witherspoon, Ahkello" position="CB" team="FA"/>
+    <player id="13267" name="Smoot, Dawuane" position="DE" team="BUF"/>
+    <player id="13268" name="Anzalone, Alex" position="LB" team="DET"/>
+    <player id="13270" name="Moreau, Fabian" position="CB" team="MIN"/>
+    <player id="13273" name="Griffin, Shaq" position="CB" team="MIN"/>
+    <player id="13274" name="Johnson, John" position="S" team="LAR"/>
+    <player id="13275" name="Adams, Montravius" position="DT" team="PIT"/>
+    <player id="13276" name="Sutton, Cameron" position="CB" team="PIT"/>
+    <player id="13277" name="Golladay, Kenny" position="WR" team="FA"/>
+    <player id="13281" name="Douglas, Rasul" position="CB" team="BUF"/>
+    <player id="13284" name="Hendrickson, Trey" position="DE" team="CIN"/>
+    <player id="13286" name="Johnson, Jaleel" position="DT" team="FA"/>
+    <player id="13288" name="Jenkins, Rayshawn" position="S" team="SEA"/>
+    <player id="13289" name="Hollins, Mack" position="WR" team="BUF"/>
+    <player id="13290" name="Cohen, Tarik" position="RB" team="FA"/>
+    <player id="13293" name="Reeves-Maybin, Jalen" position="LB" team="DET"/>
+    <player id="13294" name="Ebukam, Samson" position="DE" team="IND"/>
+    <player id="13296" name="Wise, Deatrich" position="DT" team="NEP"/>
+    <player id="13298" name="Stewart, Grover" position="DT" team="IND"/>
+    <player id="13299" name="Kittle, George" position="TE" team="SFO"/>
+    <player id="13301" name="Kazee, Damontae" position="S" team="PIT"/>
+    <player id="13303" name="Elliott, Jake" position="PK" team="PHI"/>
+    <player id="13304" name="Brown, Jayon" position="LB" team="FA"/>
+    <player id="13306" name="Walker, Anthony" position="LB" team="MIA"/>
+    <player id="13307" name="Milano, Matt" position="LB" team="BUF"/>
+    <player id="13308" name="Agnew, Jamal" position="WR" team="JAC"/>
+    <player id="13313" name="McKenzie, Isaiah" position="WR" team="NYG"/>
+    <player id="13315" name="Saubert, Eric" position="TE" team="SFO"/>
+    <player id="13316" name="Taylor, Trent" position="WR" team="SFO"/>
+    <player id="13317" name="Godchaux, Davon" position="DT" team="NEP"/>
+    <player id="13319" name="Jones, Aaron" position="RB" team="MIN"/>
+    <player id="13322" name="Clark, Chuck" position="S" team="NYJ"/>
+    <player id="13325" name="Woods, Xavier" position="S" team="CAR"/>
+    <player id="13326" name="Armah, Alexander" position="RB" team="FA"/>
+    <player id="13332" name="Jones, D.J." position="DT" team="DEN"/>
+    <player id="13336" name="Ledbetter, Jeremiah" position="DT" team="JAC"/>
+    <player id="13338" name="Wilson, Brandon" position="S" team="IND"/>
+    <player id="13339" name="Ford, Rudy" position="S" team="CAR"/>
+    <player id="13343" name="Odenigbo, Ifeadi" position="LB" team="NYJ"/>
+    <player id="13347" name="Gonzalez, Zane" position="PK" team="FA"/>
+    <player id="13348" name="Moore, David" position="WR" team="CAR"/>
+    <player id="13354" name="Butker, Harrison" position="PK" team="KCC"/>
+    <player id="13377" name="Patrick, Tim" position="WR" team="DEN"/>
+    <player id="13378" name="Breida, Matt" position="RB" team="SFO"/>
+    <player id="13382" name="Seals-Jones, Ricky" position="TE" team="FA"/>
+    <player id="13403" name="Koo, Younghoe" position="PK" team="ATL"/>
+    <player id="13404" name="Ekeler, Austin" position="RB" team="WAS"/>
+    <player id="13412" name="Cole, Keelan" position="WR" team="FA"/>
+    <player id="13414" name="Hilton, Mike" position="CB" team="CIN"/>
+    <player id="13416" name="Walker, P.J." position="QB" team="SEA"/>
+    <player id="13418" name="Bourne, Kendrick" position="WR" team="NEP"/>
+    <player id="13423" name="Cole, Dylan" position="LB" team="FA"/>
+    <player id="13424" name="Hill, Taysom" position="QB" team="NOS"/>
+    <player id="13426" name="Morrow, Nicholas" position="LB" team="BUF"/>
+    <player id="13427" name="Tonyan, Robert" position="TE" team="MIN"/>
+    <player id="13430" name="Haack, Matt" position="PN" team="FA"/>
+    <player id="13431" name="Sanchez, Rigoberto" position="PN" team="IND"/>
+    <player id="13434" name="Robertson-Harris, Roy" position="DT" team="JAC"/>
+    <player id="13447" name="Wilson, Eric" position="LB" team="GBP"/>
+    <player id="13448" name="Butler, Adam" position="DT" team="LVR"/>
+    <player id="13455" name="Ricard, Patrick" position="RB" team="BAL"/>
+    <player id="13470" name="Moore, Kenny" position="CB" team="IND"/>
+    <player id="13479" name="Davis, Michael" position="CB" team="WAS"/>
+    <player id="13488" name="Pascal, Zach" position="WR" team="ARI"/>
+    <player id="13547" name="Maulet, Art" position="CB" team="BAL"/>
+    <player id="13585" name="Zylstra, Brandon" position="WR" team="FA"/>
+    <player id="13589" name="Allen, Josh" position="QB" team="BUF"/>
+    <player id="13590" name="Mayfield, Baker" position="QB" team="TBB"/>
+    <player id="13592" name="Darnold, Sam" position="QB" team="MIN"/>
+    <player id="13593" name="Jackson, Lamar" position="QB" team="BAL"/>
+    <player id="13595" name="Rudolph, Mason" position="QB" team="TEN"/>
+    <player id="13598" name="White, Mike" position="QB" team="MIA"/>
+    <player id="13604" name="Barkley, Saquon" position="RB" team="PHI"/>
+    <player id="13606" name="Jones, Ronald" position="RB" team="FA"/>
+    <player id="13608" name="Penny, Rashaad" position="RB" team="FA"/>
+    <player id="13610" name="Chubb, Nick" position="RB" team="CLE"/>
+    <player id="13617" name="Freeman, Royce" position="RB" team="DAL"/>
+    <player id="13619" name="Kelly, John" position="RB" team="BAL"/>
+    <player id="13622" name="Hines, Nyheim" position="RB" team="CLE"/>
+    <player id="13623" name="Williams, Darrel" position="RB" team="FA"/>
+    <player id="13629" name="Ridley, Calvin" position="WR" team="TEN"/>
+    <player id="13630" name="Sutton, Courtland" position="WR" team="DEN"/>
+    <player id="13631" name="Washington, James" position="WR" team="FA"/>
+    <player id="13632" name="Lazard, Allen" position="WR" team="NYJ"/>
+    <player id="13633" name="Kirk, Christian" position="WR" team="JAC"/>
+    <player id="13634" name="Pettis, Dante" position="WR" team="CHI"/>
+    <player id="13635" name="Moore, D.J." position="WR" team="CHI"/>
+    <player id="13637" name="St. Brown, Equanimeous" position="WR" team="NOS"/>
+    <player id="13638" name="Berrios, Braxton" position="WR" team="MIA"/>
+    <player id="13639" name="Miller, Anthony" position="WR" team="FA"/>
+    <player id="13641" name="McCloud, Ray-Ray" position="WR" team="ATL"/>
+    <player id="13645" name="Smith, Tre'Quan" position="WR" team="DET"/>
+    <player id="13646" name="Gallup, Michael" position="WR" team="FA"/>
+    <player id="13652" name="Wilson, Cedrick" position="WR" team="NOS"/>
+    <player id="13662" name="Coutee, Keke" position="WR" team="FA"/>
+    <player id="13666" name="Fountain, Daurice" position="WR" team="DET"/>
+    <player id="13668" name="Chark, D.J." position="WR" team="LAC"/>
+    <player id="13671" name="Andrews, Mark" position="TE" team="BAL"/>
+    <player id="13672" name="Gesicki, Mike" position="TE" team="CIN"/>
+    <player id="13674" name="Goedert, Dallas" position="TE" team="PHI"/>
+    <player id="13675" name="Conklin, Tyler" position="TE" team="NYJ"/>
+    <player id="13676" name="Smythe, Durham" position="TE" team="MIA"/>
+    <player id="13678" name="Thomas, Ian" position="TE" team="CAR"/>
+    <player id="13680" name="Hurst, Hayden" position="TE" team="LAC"/>
+    <player id="13681" name="Chubb, Bradley" position="DE" team="MIA"/>
+    <player id="13682" name="Key, Arden" position="DE" team="TEN"/>
+    <player id="13683" name="Hand, Da'Shawn" position="DT" team="MIA"/>
+    <player id="13684" name="Hubbard, Sam" position="DE" team="CIN"/>
+    <player id="13685" name="Okoronkwo, Ogbonnia" position="DE" team="CLE"/>
+    <player id="13687" name="Lewis, Tyquan" position="DE" team="IND"/>
+    <player id="13688" name="Davenport, Marcus" position="DE" team="DET"/>
+    <player id="13690" name="Sweat, Josh" position="DE" team="PHI"/>
+    <player id="13691" name="Hurst, Maurice" position="DT" team="CLE"/>
+    <player id="13692" name="Vea, Vita" position="DT" team="TBB"/>
+    <player id="13693" name="Phillips, Harrison" position="DT" team="MIN"/>
+    <player id="13694" name="Settle, Tim" position="DT" team="HOU"/>
+    <player id="13695" name="Bryan, Taven" position="DT" team="IND"/>
+    <player id="13696" name="Smith, Roquan" position="LB" team="BAL"/>
+    <player id="13697" name="Edmunds, Tremaine" position="LB" team="CHI"/>
+    <player id="13698" name="Jefferson, Malik" position="LB" team="DET"/>
+    <player id="13699" name="Evans, Rashaan" position="LB" team="FA"/>
+    <player id="13700" name="Landry, Harold" position="DE" team="TEN"/>
+    <player id="13702" name="Jewell, Josey" position="LB" team="CAR"/>
+    <player id="13703" name="Carter, Lorenzo" position="DE" team="ATL"/>
+    <player id="13704" name="Nwosu, Uchenna" position="DE" team="SEA"/>
+    <player id="13706" name="Baker, Jerome" position="LB" team="SEA"/>
+    <player id="13707" name="Ward, Denzel" position="CB" team="CLE"/>
+    <player id="13709" name="Oliver, Isaiah" position="S" team="NYJ"/>
+    <player id="13710" name="Davis, Carlton" position="CB" team="DET"/>
+    <player id="13711" name="Wallace, Levi" position="CB" team="DEN"/>
+    <player id="13713" name="Fitzpatrick, Minkah" position="S" team="PIT"/>
+    <player id="13714" name="James, Derwin" position="S" team="LAC"/>
+    <player id="13715" name="Harrison, Ronnie" position="S" team="IND"/>
+    <player id="13716" name="Edmunds, Terrell" position="S" team="JAC"/>
+    <player id="13717" name="Reid, Justin" position="S" team="KCC"/>
+    <player id="13718" name="Carlson, Daniel" position="PK" team="LVR"/>
+    <player id="13719" name="Pineiro, Eddy" position="PK" team="CAR"/>
+    <player id="13723" name="Payne, Da'Ron" position="DT" team="WAS"/>
+    <player id="13724" name="James, Richie" position="WR" team="FA"/>
+    <player id="13726" name="Edmonds, Chase" position="RB" team="TBB"/>
+    <player id="13727" name="Vander Esch, Leighton" position="LB" team="FA"/>
+    <player id="13730" name="Alexander, Jaire" position="CB" team="GBP"/>
+    <player id="13731" name="Hughes, Mike" position="CB" team="ATL"/>
+    <player id="13733" name="Leonard, Shaquille" position="LB" team="FA"/>
+    <player id="13736" name="Stewart, M.J." position="S" team="HOU"/>
+    <player id="13737" name="Bates, Jessie" position="S" team="ATL"/>
+    <player id="13738" name="Jackson, Donte" position="CB" team="PIT"/>
+    <player id="13742" name="Hill, B.J." position="DT" team="CIN"/>
+    <player id="13743" name="Warner, Fred" position="LB" team="SFO"/>
+    <player id="13744" name="Shepherd, Nathan" position="DT" team="NOS"/>
+    <player id="13745" name="Nnadi, Derrick" position="DT" team="KCC"/>
+    <player id="13746" name="Green, Rasheem" position="DE" team="FA"/>
+    <player id="13747" name="Walker, Tracy" position="S" team="SFO"/>
+    <player id="13748" name="Jones, Justin" position="DT" team="ARI"/>
+    <player id="13750" name="Burks, Oren" position="LB" team="PHI"/>
+    <player id="13752" name="Moore, Tarvarius" position="S" team="CHI"/>
+    <player id="13753" name="Akins, Jordan" position="TE" team="CLE"/>
+    <player id="13754" name="Yiadom, Isaac" position="CB" team="SFO"/>
+    <player id="13755" name="Holmes, Jalyn" position="DE" team="NYJ"/>
+    <player id="13759" name="Armstrong, Dorance" position="DE" team="WAS"/>
+    <player id="13760" name="Whitehead, Jordan" position="S" team="TBB"/>
+    <player id="13762" name="White, Kyzir" position="LB" team="ARI"/>
+    <player id="13763" name="Dissly, Will" position="TE" team="LAC"/>
+    <player id="13764" name="Johnson, Taron" position="CB" team="BUF"/>
+    <player id="13767" name="Maddox, Avonte" position="CB" team="PHI"/>
+    <player id="13769" name="Street, Kentavius" position="DT" team="ATL"/>
+    <player id="13770" name="Franklin-Myers, John" position="DT" team="DEN"/>
+    <player id="13771" name="Haynes, Marquis" position="DE" team="FA"/>
+    <player id="13772" name="Schultz, Dalton" position="TE" team="HOU"/>
+    <player id="13774" name="Reed, D.J." position="CB" team="NYJ"/>
+    <player id="13775" name="Bentley, Ja'Whaun" position="LB" team="NEP"/>
+    <player id="13776" name="Watson, Justin" position="WR" team="KCC"/>
+    <player id="13777" name="Nichols, Bilal" position="DT" team="ARI"/>
+    <player id="13778" name="Flowers, Tre" position="CB" team="JAC"/>
+    <player id="13781" name="Avery, Genard" position="DE" team="IND"/>
+    <player id="13782" name="Dickson, Michael" position="PN" team="SEA"/>
+    <player id="13785" name="Neal, Siran" position="CB" team="MIA"/>
+    <player id="13791" name="Scott, J.K." position="PN" team="LAC"/>
+    <player id="13793" name="Valdes-Scantling, Marquez" position="WR" team="BUF"/>
+    <player id="13798" name="Fatukasi, Foley" position="DT" team="HOU"/>
+    <player id="13802" name="Martin, Jake" position="DE" team="CHI"/>
+    <player id="13806" name="Elliott, DeShon" position="S" team="PIT"/>
+    <player id="13809" name="Gage, Russell" position="WR" team="BAL"/>
+    <player id="13810" name="Joseph-Day, Sebastian" position="DT" team="TEN"/>
+    <player id="13811" name="Smith, Tremon" position="CB" team="DEN"/>
+    <player id="13813" name="Oluokun, Foyesade" position="LB" team="JAC"/>
+    <player id="13814" name="Scott, Boston" position="RB" team="LAR"/>
+    <player id="13825" name="McGough, Alex" position="QB" team="FA"/>
+    <player id="13826" name="Adams, Matthew" position="LB" team="NYG"/>
+    <player id="13832" name="Sanders, Jason" position="PK" team="MIA"/>
+    <player id="13836" name="Smith, Andre" position="LB" team="DEN"/>
+    <player id="13837" name="Franklin, Zaire" position="LB" team="IND"/>
+    <player id="13838" name="Bawden, Nick" position="RB" team="HOU"/>
+    <player id="13839" name="Sieler, Zach" position="DT" team="MIA"/>
+    <player id="13840" name="Stroman, Greg" position="CB" team="CHI"/>
+    <player id="13844" name="Cooke, Logan" position="PN" team="JAC"/>
+    <player id="13846" name="Woodside, Logan" position="QB" team="CIN"/>
+    <player id="13848" name="Johnston, Cam" position="PN" team="PIT"/>
+    <player id="13850" name="Edwards, Gus" position="RB" team="LAC"/>
+    <player id="13862" name="Cracraft, River" position="WR" team="MIA"/>
+    <player id="13863" name="Pringle, Byron" position="WR" team="WAS"/>
+    <player id="13864" name="Ward, Greg" position="WR" team="IND"/>
+    <player id="13868" name="Boone, Mike" position="RB" team="CAR"/>
+    <player id="13869" name="Bojorquez, Corey" position="PN" team="CLE"/>
+    <player id="13871" name="Hilliard, Dontrell" position="RB" team="FA"/>
+    <player id="13873" name="Boyle, Tim" position="QB" team="HOU"/>
+    <player id="13879" name="Allen, Kyle" position="QB" team="PIT"/>
+    <player id="13880" name="Arnold, Dan" position="TE" team="FA"/>
+    <player id="13882" name="Kirkwood, Keith" position="WR" team="BAL"/>
+    <player id="13888" name="Gardeck, Dennis" position="DE" team="ARI"/>
+    <player id="13893" name="Sherfield, Trent" position="WR" team="MIN"/>
+    <player id="13895" name="Sims, Cam" position="WR" team="FA"/>
+    <player id="13898" name="Joseph, Greg" position="PK" team="GBP"/>
+    <player id="13906" name="Cabinda, Jason" position="LB" team="FA"/>
+    <player id="13909" name="Maher, Brett" position="PK" team="FA"/>
+    <player id="13910" name="Powell, Brandon" position="WR" team="MIN"/>
+    <player id="13913" name="Niemann, Ben" position="LB" team="DET"/>
+    <player id="13914" name="Herndon, Tre" position="CB" team="NYG"/>
+    <player id="13917" name="Jackson, J.C." position="CB" team="FA"/>
+    <player id="13918" name="Johnson, Danny" position="CB" team="FA"/>
+    <player id="13919" name="Firkser, Anthony" position="TE" team="NYJ"/>
+    <player id="13920" name="Ward, Charvarius" position="CB" team="SFO"/>
+    <player id="13926" name="Board, Chris" position="LB" team="BAL"/>
+    <player id="13927" name="Dickerson, Matt" position="DT" team="KCC"/>
+    <player id="13929" name="Obada, Efe" position="DE" team="WAS"/>
+    <player id="13930" name="Turner, Zeke" position="LB" team="FA"/>
+    <player id="13933" name="Ford, Poona" position="DT" team="LAC"/>
+    <player id="13934" name="Facyson, Brandon" position="CB" team="LVR"/>
+    <player id="13939" name="Odum, George" position="S" team="SFO"/>
+    <player id="13940" name="Mundt, Johnny" position="TE" team="MIN"/>
+    <player id="13942" name="Gray, J.T." position="S" team="NOS"/>
+    <player id="13943" name="Davis, Tae" position="LB" team="CAR"/>
+    <player id="13952" name="Luvu, Frankie" position="LB" team="WAS"/>
+    <player id="13953" name="Thomas, Tavierre" position="CB" team="TBB"/>
+    <player id="13959" name="Williams, Darious" position="CB" team="LAR"/>
+    <player id="13963" name="Hodge, KhaDarel" position="WR" team="ATL"/>
+    <player id="13965" name="Tupou, Josh" position="DT" team="BAL"/>
+    <player id="13968" name="Mullens, Nick" position="QB" team="MIN"/>
+    <player id="13970" name="Brown, Tony" position="CB" team="CLE"/>
+    <player id="13980" name="Badgley, Mike" position="PK" team="DET"/>
+    <player id="13987" name="Spillane, Robert" position="LB" team="LVR"/>
+    <player id="13988" name="Dwelley, Ross" position="TE" team="ATL"/>
+    <player id="13994" name="Brown, Pharaoh" position="TE" team="SEA"/>
+    <player id="13998" name="Moseley, Emmanuel" position="CB" team="DET"/>
+    <player id="14011" name="Igwebuike, Godwin" position="RB" team="FA"/>
+    <player id="14012" name="Ford, Mike" position="CB" team="HOU"/>
+    <player id="14013" name="Sullivan, Chandon" position="CB" team="PIT"/>
+    <player id="14017" name="Wilson, Jeffery" position="RB" team="MIA"/>
+    <player id="14024" name="Delaney, Dee" position="S" team="BUF"/>
+    <player id="14028" name="Neal, Ryan" position="S" team="TBB"/>
+    <player id="14037" name="Davis, Jalen" position="CB" team="CIN"/>
+    <player id="14043" name="Leavitt, Dallin" position="S" team="FA"/>
+    <player id="14050" name="LaFleur, Matt" position="Coach" team="GBP"/>
+    <player id="14054" name="Taylor, Zac" position="Coach" team="CIN"/>
+    <player id="14056" name="Murray, Kyler" position="QB" team="ARI"/>
+    <player id="14057" name="Lock, Drew" position="QB" team="NYG"/>
+    <player id="14059" name="Jones, Daniel" position="QB" team="NYG"/>
+    <player id="14060" name="Jackson, Tyree" position="TE" team="FA"/>
+    <player id="14061" name="McSorley, Trace" position="QB" team="WAS"/>
+    <player id="14062" name="Grier, Will" position="QB" team="PHI"/>
+    <player id="14063" name="Stidham, Jarrett" position="QB" team="DEN"/>
+    <player id="14065" name="Rypien, Brett" position="QB" team="CHI"/>
+    <player id="14067" name="Minshew, Gardner" position="QB" team="LVR"/>
+    <player id="14069" name="Stick, Easton" position="QB" team="LAC"/>
+    <player id="14071" name="Montgomery, David" position="RB" team="DET"/>
+    <player id="14072" name="Snell, Benny" position="RB" team="FA"/>
+    <player id="14073" name="Jacobs, Josh" position="RB" team="GBP"/>
+    <player id="14075" name="Harris, Damien" position="RB" team="FA"/>
+    <player id="14076" name="Williams, Trayveon" position="RB" team="CIN"/>
+    <player id="14079" name="Sanders, Miles" position="RB" team="CAR"/>
+    <player id="14080" name="Singletary, Devin" position="RB" team="NYG"/>
+    <player id="14081" name="Gaskin, Myles" position="RB" team="MIN"/>
+    <player id="14083" name="Homer, Travis" position="RB" team="CHI"/>
+    <player id="14085" name="Pollard, Tony" position="RB" team="TEN"/>
+    <player id="14086" name="Hill, Justice" position="RB" team="BAL"/>
+    <player id="14087" name="Henderson, Darrell" position="RB" team="FA"/>
+    <player id="14095" name="Johnson, Ty" position="RB" team="BUF"/>
+    <player id="14096" name="Ozigbo, Devine" position="RB" team="FA"/>
+    <player id="14097" name="Ollison, Qadree" position="RB" team="FA"/>
+    <player id="14101" name="Harry, N'Keal" position="TE" team="MIN"/>
+    <player id="14102" name="Metcalf, DK" position="WR" team="SEA"/>
+    <player id="14104" name="Brown, A.J." position="WR" team="PHI"/>
+    <player id="14105" name="Brown, Marquise" position="WR" team="KCC"/>
+    <player id="14106" name="Butler, Hakeem" position="WR" team="CIN"/>
+    <player id="14108" name="Dortch, Greg" position="WR" team="ARI"/>
+    <player id="14109" name="McLaurin, Terry" position="WR" team="WAS"/>
+    <player id="14110" name="Sills, David" position="WR" team="DEN"/>
+    <player id="14112" name="Campbell, Parris" position="WR" team="PHI"/>
+    <player id="14113" name="Hardman, Mecole" position="WR" team="KCC"/>
+    <player id="14118" name="Humphrey, Lil'Jordan" position="WR" team="DEN"/>
+    <player id="14121" name="Isabella, Andy" position="WR" team="BUF"/>
+    <player id="14122" name="Slayton, Darius" position="WR" team="NYG"/>
+    <player id="14123" name="Renfrow, Hunter" position="WR" team="FA"/>
+    <player id="14125" name="Boykin, Miles" position="WR" team="NYG"/>
+    <player id="14126" name="Williams, Preston" position="WR" team="FA"/>
+    <player id="14127" name="Meyers, Jakobi" position="WR" team="LVR"/>
+    <player id="14131" name="Morgan, Stanley" position="WR" team="NOS"/>
+    <player id="14136" name="Samuel, Deebo" position="WR" team="SFO"/>
+    <player id="14137" name="Fant, Noah" position="TE" team="SEA"/>
+    <player id="14138" name="Hockenson, T.J." position="TE" team="MIN"/>
+    <player id="14141" name="Smith, Irv" position="TE" team="KCC"/>
+    <player id="14143" name="Knox, Dawson" position="TE" team="BUF"/>
+    <player id="14146" name="Sample, Drew" position="TE" team="CIN"/>
+    <player id="14147" name="Bosa, Nick" position="DE" team="SFO"/>
+    <player id="14148" name="Sweat, Montez" position="DE" team="CHI"/>
+    <player id="14149" name="Gary, Rashan" position="DE" team="GBP"/>
+    <player id="14150" name="Bryant, Austin" position="DE" team="FA"/>
+    <player id="14151" name="Ferrell, Clelin" position="DE" team="WAS"/>
+    <player id="14153" name="Allen, Zach" position="DT" team="DEN"/>
+    <player id="14154" name="Nelson, Anthony" position="DE" team="TBB"/>
+    <player id="14155" name="Collier, L.J." position="DT" team="ARI"/>
+    <player id="14157" name="Williams, Quinnen" position="DT" team="NYJ"/>
+    <player id="14158" name="Oliver, Ed" position="DT" team="BUF"/>
+    <player id="14159" name="Lawrence, Dexter" position="DT" team="NYG"/>
+    <player id="14160" name="Buggs, Isaiah" position="DT" team="FA"/>
+    <player id="14161" name="Tillery, Jerry" position="DT" team="MIN"/>
+    <player id="14162" name="Wilkins, Christian" position="DT" team="LVR"/>
+    <player id="14163" name="Simmons, Jeffery" position="DT" team="TEN"/>
+    <player id="14164" name="Jones, Dre'Mont" position="DT" team="SEA"/>
+    <player id="14167" name="Hines-Allen, Josh" position="DE" team="JAC"/>
+    <player id="14168" name="White, Devin" position="LB" team="PHI"/>
+    <player id="14169" name="Wilson, Mack" position="LB" team="ARI"/>
+    <player id="14170" name="Bush, Devin" position="LB" team="CLE"/>
+    <player id="14171" name="Burns, Brian" position="DE" team="NYG"/>
+    <player id="14176" name="Winovich, Chase" position="DE" team="MIA"/>
+    <player id="14179" name="Love, Julian" position="S" team="SEA"/>
+    <player id="14180" name="Murphy, Byron" position="CB" team="MIN"/>
+    <player id="14181" name="Mullen, Trayvon" position="CB" team="BAL"/>
+    <player id="14182" name="Hooker, Amani" position="S" team="TEN"/>
+    <player id="14184" name="Abram, Johnathan" position="S" team="NOS"/>
+    <player id="14186" name="Rapp, Taylor" position="S" team="BUF"/>
+    <player id="14196" name="Perez, Luis" position="QB" team="LAC"/>
+    <player id="14197" name="Savage, Darnell" position="S" team="JAC"/>
+    <player id="14198" name="Ya-Sin, Rock" position="CB" team="SFO"/>
+    <player id="14199" name="Murphy-Bunting, Sean" position="CB" team="ARI"/>
+    <player id="14200" name="Tavai, Jahlani" position="LB" team="NEP"/>
+    <player id="14201" name="Williams, Joejuan" position="CB" team="NOS"/>
+    <player id="14205" name="Johnson, Lonnie" position="S" team="HOU"/>
+    <player id="14206" name="Hill, Trysten" position="DT" team="NEP"/>
+    <player id="14207" name="Thornhill, Juan" position="S" team="CLE"/>
+    <player id="14208" name="Johnson, Diontae" position="WR" team="CAR"/>
+    <player id="14209" name="Oliver, Josh" position="TE" team="MIN"/>
+    <player id="14210" name="Pratt, Germaine" position="LB" team="CIN"/>
+    <player id="14211" name="Long, David" position="CB" team="NYG"/>
+    <player id="14212" name="Takitaki, Sione" position="LB" team="NEP"/>
+    <player id="14213" name="Harris, Will" position="S" team="NOS"/>
+    <player id="14215" name="Saunders, Khalen" position="DT" team="NOS"/>
+    <player id="14217" name="Barton, Cody" position="LB" team="DEN"/>
+    <player id="14218" name="Okereke, Bobby" position="LB" team="NYG"/>
+    <player id="14219" name="Dean, Jamel" position="CB" team="TBB"/>
+    <player id="14220" name="Ximines, Oshane" position="DE" team="NEP"/>
+    <player id="14221" name="Williams, Quincy" position="LB" team="NYJ"/>
+    <player id="14222" name="Edwards, Mike" position="S" team="BUF"/>
+    <player id="14223" name="Mattison, Alexander" position="RB" team="LVR"/>
+    <player id="14224" name="Gardner-Johnson, Chauncey" position="S" team="PHI"/>
+    <player id="14225" name="Crosby, Maxx" position="DE" team="LVR"/>
+    <player id="14227" name="Wishnowsky, Mitch" position="PN" team="SFO"/>
+    <player id="14230" name="Redwine, Sheldrick" position="S" team="WAS"/>
+    <player id="14231" name="Wesco, Trevon" position="TE" team="FA"/>
+    <player id="14235" name="Tranquill, Drue" position="LB" team="KCC"/>
+    <player id="14236" name="Amadi, Ugo" position="CB" team="NOS"/>
+    <player id="14237" name="Gaines, Greg" position="DT" team="TBB"/>
+    <player id="14238" name="Cominsky, John" position="DE" team="DET"/>
+    <player id="14239" name="Moreau, Foster" position="TE" team="NOS"/>
+    <player id="14240" name="Gentry, Zach" position="TE" team="LVR"/>
+    <player id="14244" name="Gay, Matt" position="PK" team="IND"/>
+    <player id="14245" name="Oruwariye, Amani" position="CB" team="JAC"/>
+    <player id="14247" name="Greenlaw, Dre" position="LB" team="SFO"/>
+    <player id="14249" name="Van Ginkel, Andrew" position="DE" team="MIN"/>
+    <player id="14250" name="Hollins, Justin" position="DE" team="WAS"/>
+    <player id="14251" name="Cashman, Blake" position="LB" team="MIN"/>
+    <player id="14252" name="Jackson, Michael" position="CB" team="CAR"/>
+    <player id="14254" name="Omenihu, Charles" position="DE" team="KCC"/>
+    <player id="14256" name="Bailey, Jake" position="PN" team="MIA"/>
+    <player id="14257" name="Speed, E.J." position="LB" team="IND"/>
+    <player id="14258" name="Seibert, Austin" position="PK" team="NYJ"/>
+    <player id="14260" name="Holcomb, Cole" position="LB" team="PIT"/>
+    <player id="14263" name="Ballentine, Corey" position="CB" team="GBP"/>
+    <player id="14266" name="Hollman, Ka'dar" position="CB" team="BAL"/>
+    <player id="14267" name="Winfree, Juwann" position="WR" team="IND"/>
+    <player id="14268" name="Long, David" position="LB" team="MIA"/>
+    <player id="14269" name="Watts, Armon" position="DT" team="NEP"/>
+    <player id="14270" name="Epps, Marcus" position="S" team="LVR"/>
+    <player id="14278" name="Shelley, Duke" position="CB" team="MIN"/>
+    <player id="14280" name="Miller, Scotty" position="WR" team="PIT"/>
+    <player id="14283" name="Wilson, Donovan" position="S" team="DAL"/>
+    <player id="14286" name="Boyd, Kris" position="CB" team="HOU"/>
+    <player id="14292" name="Summers, Ty" position="LB" team="DET"/>
+    <player id="14294" name="Sweeney, Tommy" position="TE" team="CHI"/>
+    <player id="14302" name="Scott, Nick" position="S" team="CAR"/>
+    <player id="14303" name="Elliss, Kaden" position="LB" team="ATL"/>
+    <player id="14310" name="Bell, Quinton" position="DE" team="MIA"/>
+    <player id="14315" name="Dulin, Ashton" position="WR" team="IND"/>
+    <player id="14316" name="Hart, Penny" position="WR" team="FA"/>
+    <player id="14317" name="Doss, Keelan" position="WR" team="FA"/>
+    <player id="14319" name="Beck, Andrew" position="RB" team="HOU"/>
+    <player id="14321" name="Thompson, Cody" position="WR" team="TBB"/>
+    <player id="14322" name="Edwards, T.J." position="LB" team="CHI"/>
+    <player id="14328" name="Wingard, Andrew" position="S" team="JAC"/>
+    <player id="14331" name="Johnson, D'Ernest" position="RB" team="JAC"/>
+    <player id="14337" name="Guyton, Jalen" position="WR" team="LVR"/>
+    <player id="14341" name="Parham, Donald" position="TE" team="LAC"/>
+    <player id="14355" name="Wells, David" position="TE" team="TBB"/>
+    <player id="14358" name="Browning, Jake" position="QB" team="CIN"/>
+    <player id="14359" name="Johnson, Jakob" position="RB" team="NYG"/>
+    <player id="14363" name="Rader, Kevin" position="TE" team="NOS"/>
+    <player id="14368" name="Walter, Austin" position="RB" team="FA"/>
+    <player id="14370" name="Hudson, Tanner" position="TE" team="CIN"/>
+    <player id="14377" name="Anderson, Abdullah" position="DE" team="TEN"/>
+    <player id="14379" name="Woods, Josh" position="LB" team="FA"/>
+    <player id="14384" name="Reed, Malik" position="DE" team="FA"/>
+    <player id="14400" name="Ledbetter, Jonathan" position="DE" team="FA"/>
+    <player id="14401" name="Eguavoen, Sam" position="LB" team="NYJ"/>
+    <player id="14405" name="Granderson, Carl" position="DE" team="NOS"/>
+    <player id="14412" name="Singleton, Alex" position="LB" team="DEN"/>
+    <player id="14414" name="Owens, Jonathan" position="S" team="CHI"/>
+    <player id="14420" name="Ingold, Alec" position="RB" team="MIA"/>
+    <player id="14426" name="Wright, Matthew" position="PK" team="PIT"/>
+    <player id="14434" name="Reaves, Jeremy" position="S" team="WAS"/>
+    <player id="14442" name="Kuntz, Christian" position="LB" team="PIT"/>
+    <player id="14467" name="Phillips, Del'Shawn" position="LB" team="HOU"/>
+    <player id="14472" name="Dodson, Tyrel" position="LB" team="SEA"/>
+    <player id="14486" name="Montgomery, D.J." position="WR" team="IND"/>
+    <player id="14489" name="Gillan, Jamie" position="PN" team="NYG"/>
+    <player id="14495" name="Gifford, Luke" position="LB" team="TEN"/>
+    <player id="14503" name="Kennedy, Tom" position="WR" team="DET"/>
+    <player id="14506" name="Pittman, Anthony" position="LB" team="WAS"/>
+    <player id="14509" name="Bolton, Curtis" position="LB" team="MIA"/>
+    <player id="14518" name="Thompson, Jalen" position="S" team="ARI"/>
+    <player id="14519" name="Kunaszyk, Jordan" position="LB" team="MIN"/>
+    <player id="14533" name="Taylor, Malik" position="WR" team="NYJ"/>
+    <player id="14543" name="Harris, Darius" position="LB" team="DAL"/>
+    <player id="14549" name="Webster, Nsimba" position="WR" team="CHI"/>
+    <player id="14551" name="Irwin, Trenton" position="WR" team="CIN"/>
+    <player id="14552" name="Blasingame, Khari" position="RB" team="CHI"/>
+    <player id="14555" name="Olszewski, Gunner" position="WR" team="NYG"/>
+    <player id="14558" name="Harty, Deonte" position="WR" team="BAL"/>
+    <player id="14561" name="Smith, Jeff" position="WR" team="FA"/>
+    <player id="14590" name="Al-Shaair, Azeez" position="LB" team="HOU"/>
+    <player id="14592" name="Zaccheaus, Olamide" position="WR" team="WAS"/>
+    <player id="14595" name="Strong, Kevin" position="DT" team="FA"/>
+    <player id="14600" name="Slye, Joey" position="PK" team="NEP"/>
+    <player id="14612" name="Laird, Patrick" position="RB" team="FA"/>
+    <player id="14613" name="Sims, Steven" position="WR" team="HOU"/>
+    <player id="14624" name="Abernathy, Micah" position="S" team="ATL"/>
+    <player id="14630" name="Cole, A.J." position="PN" team="LVR"/>
+    <player id="14650" name="Vizcaino, Tristan" position="PK" team="FA"/>
+    <player id="14652" name="Givens, Kevin" position="DT" team="SFO"/>
+    <player id="14669" name="Nixon, Keisean" position="CB" team="GBP"/>
+    <player id="14670" name="Ekuale, Daniel" position="DT" team="NEP"/>
+    <player id="14672" name="Reeder, Troy" position="LB" team="LAR"/>
+    <player id="14675" name="Tuttle, Shy" position="DT" team="CAR"/>
+    <player id="14676" name="Phillips, Kyle" position="DE" team="FA"/>
+    <player id="14702" name="Teamer, Roderic" position="S" team="NOS"/>
+    <player id="14716" name="Harris, Jonathan" position="DT" team="MIA"/>
+    <player id="14717" name="McLaughlin, Chase" position="PK" team="TBB"/>
+    <player id="14722" name="Needham, Nik" position="CB" team="MIA"/>
+    <player id="14727" name="Reynolds, Craig" position="RB" team="DET"/>
+    <player id="14752" name="Horsted, Jesper" position="TE" team="CAR"/>
+    <player id="14776" name="Stefanski, Kevin" position="Coach" team="CLE"/>
+    <player id="14777" name="Burrow, Joe" position="QB" team="CIN"/>
+    <player id="14778" name="Tagovailoa, Tua" position="QB" team="MIA"/>
+    <player id="14779" name="Herbert, Justin" position="QB" team="LAC"/>
+    <player id="14780" name="Eason, Jacob" position="QB" team="FA"/>
+    <player id="14781" name="Fromm, Jake" position="QB" team="DET"/>
+    <player id="14782" name="Love, Jordan" position="QB" team="GBP"/>
+    <player id="14783" name="Hurts, Jalen" position="QB" team="PHI"/>
+    <player id="14789" name="Huntley, Tyler" position="QB" team="CLE"/>
+    <player id="14797" name="Swift, D'Andre" position="RB" team="CHI"/>
+    <player id="14798" name="Moss, Zack" position="RB" team="CIN"/>
+    <player id="14799" name="Akers, Cam" position="RB" team="HOU"/>
+    <player id="14800" name="Dobbins, J.K." position="RB" team="LAC"/>
+    <player id="14801" name="Benjamin, Eno" position="RB" team="FA"/>
+    <player id="14802" name="Taylor, Jonathan" position="RB" team="IND"/>
+    <player id="14803" name="Edwards-Helaire, Clyde" position="RB" team="KCC"/>
+    <player id="14804" name="McFarland, Anthony" position="RB" team="MIA"/>
+    <player id="14805" name="Dillon, AJ" position="RB" team="GBP"/>
+    <player id="14806" name="Perine, Lamical" position="RB" team="PIT"/>
+    <player id="14807" name="Kelley, Joshua" position="RB" team="NYG"/>
+    <player id="14808" name="Evans, Darrynton" position="RB" team="BUF"/>
+    <player id="14810" name="Vaughn, Ke'Shawn" position="RB" team="SFO"/>
+    <player id="14811" name="Ahmed, Salvon" position="RB" team="FA"/>
+    <player id="14813" name="Robinson, James" position="RB" team="NOS"/>
+    <player id="14815" name="Dallas, DeeJay" position="RB" team="ARI"/>
+    <player id="14817" name="Taylor, Patrick" position="RB" team="SFO"/>
+    <player id="14821" name="Hasty, JaMycal" position="RB" team="NEP"/>
+    <player id="14823" name="Dowdle, Rico" position="RB" team="DAL"/>
+    <player id="14827" name="Taylor, J.J." position="RB" team="HOU"/>
+    <player id="14828" name="Jones, Tony" position="RB" team="ARI"/>
+    <player id="14832" name="Lamb, CeeDee" position="WR" team="DAL"/>
+    <player id="14833" name="Jeudy, Jerry" position="WR" team="CLE"/>
+    <player id="14834" name="Ruggs, Henry" position="WR" team="FA"/>
+    <player id="14835" name="Higgins, Tee" position="WR" team="CIN"/>
+    <player id="14836" name="Jefferson, Justin" position="WR" team="MIN"/>
+    <player id="14837" name="Hamler, KJ" position="WR" team="BUF"/>
+    <player id="14838" name="Shenault, Laviska" position="WR" team="SEA"/>
+    <player id="14839" name="Reagor, Jalen" position="WR" team="NEP"/>
+    <player id="14840" name="Aiyuk, Brandon" position="WR" team="SFO"/>
+    <player id="14841" name="Claypool, Chase" position="WR" team="FA"/>
+    <player id="14842" name="Pittman, Michael" position="WR" team="IND"/>
+    <player id="14843" name="Bowden, Lynn" position="WR" team="FA"/>
+    <player id="14844" name="Edwards, Bryan" position="WR" team="FA"/>
+    <player id="14845" name="Davis, Gabriel" position="WR" team="JAC"/>
+    <player id="14846" name="Mims, Denzel" position="WR" team="JAC"/>
+    <player id="14847" name="Duvernay, Devin" position="WR" team="JAC"/>
+    <player id="14848" name="Proche, James" position="WR" team="CLE"/>
+    <player id="14849" name="Hodgins, Isaiah" position="WR" team="NYG"/>
+    <player id="14850" name="Cephus, Quintez" position="WR" team="HOU"/>
+    <player id="14852" name="Gibson, Antonio" position="RB" team="NEP"/>
+    <player id="14853" name="Johnson, Collin" position="WR" team="CHI"/>
+    <player id="14855" name="Mack, Austin" position="WR" team="FA"/>
+    <player id="14857" name="Peoples-Jones, Donovan" position="WR" team="DET"/>
+    <player id="14858" name="Jefferson, Van" position="WR" team="PIT"/>
+    <player id="14859" name="Jackson, Trishton" position="WR" team="MIN"/>
+    <player id="14860" name="Jennings, Jauan" position="WR" team="SFO"/>
+    <player id="14861" name="Johnson, Juwan" position="TE" team="NOS"/>
+    <player id="14862" name="Reed, Joe" position="WR" team="FA"/>
+    <player id="14864" name="Johnson, Tyler" position="WR" team="LAR"/>
+    <player id="14865" name="Swain, Freddie" position="WR" team="CHI"/>
+    <player id="14867" name="Kmet, Cole" position="TE" team="CHI"/>
+    <player id="14868" name="Hopkins, Brycen" position="TE" team="FA"/>
+    <player id="14870" name="Trautman, Adam" position="TE" team="DEN"/>
+    <player id="14871" name="Parkinson, Colby" position="TE" team="LAR"/>
+    <player id="14873" name="Okwuegbunam, Albert" position="TE" team="PHI"/>
+    <player id="14875" name="Bryant, Harrison" position="TE" team="LVR"/>
+    <player id="14876" name="Deguara, Josiah" position="TE" team="JAC"/>
+    <player id="14877" name="Young, Chase" position="DE" team="NOS"/>
+    <player id="14878" name="Gross-Matos, Yetur" position="DE" team="SFO"/>
+    <player id="14879" name="Epenesa, A.J." position="DE" team="BUF"/>
+    <player id="14880" name="Kareem, Khalid" position="DE" team="CHI"/>
+    <player id="14882" name="Greenard, Jonathan" position="DE" team="MIN"/>
+    <player id="14883" name="Davidson, Marlon" position="DT" team="TEN"/>
+    <player id="14887" name="Simmons, Isaiah" position="S" team="NYG"/>
+    <player id="14888" name="Chaisson, K'Lavon" position="DE" team="CAR"/>
+    <player id="14889" name="Murray, Kenneth" position="LB" team="TEN"/>
+    <player id="14890" name="Phillips, Jacob" position="LB" team="HOU"/>
+    <player id="14891" name="Harrison, Malik" position="LB" team="BAL"/>
+    <player id="14892" name="Brooks, Jordyn" position="LB" team="MIA"/>
+    <player id="14893" name="Baun, Zack" position="LB" team="PHI"/>
+    <player id="14894" name="Jennings, Anfernee" position="DE" team="NEP"/>
+    <player id="14896" name="Queen, Patrick" position="LB" team="PIT"/>
+    <player id="14897" name="Brown, Derrick" position="DT" team="CAR"/>
+    <player id="14898" name="Davis, Raekwon" position="DT" team="IND"/>
+    <player id="14899" name="Kinlaw, Javon" position="DT" team="NYJ"/>
+    <player id="14900" name="Madubuike, Justin" position="DT" team="BAL"/>
+    <player id="14901" name="Gallimore, Neville" position="DT" team="MIA"/>
+    <player id="14902" name="Okudah, Jeff" position="CB" team="HOU"/>
+    <player id="14903" name="Diggs, Trevon" position="CB" team="DAL"/>
+    <player id="14904" name="Fulton, Kristian" position="CB" team="LAC"/>
+    <player id="14905" name="Henderson, CJ" position="CB" team="HOU"/>
+    <player id="14907" name="Delpit, Grant" position="S" team="CLE"/>
+    <player id="14908" name="McKinney, Xavier" position="S" team="GBP"/>
+    <player id="14909" name="Winfield, Antoine" position="S" team="TBB"/>
+    <player id="14910" name="Jones, Brandon" position="S" team="DEN"/>
+    <player id="14911" name="Davis, Ashtyn" position="S" team="NYJ"/>
+    <player id="14912" name="Blankenship, Rodrigo" position="PK" team="FA"/>
+    <player id="14917" name="Patrick, Jacques" position="RB" team="FA"/>
+    <player id="14918" name="Terrell, A.J." position="CB" team="ATL"/>
+    <player id="14919" name="Igbinoghene, Noah" position="CB" team="WAS"/>
+    <player id="14921" name="Dugger, Kyle" position="S" team="NEP"/>
+    <player id="14922" name="Blacklock, Ross" position="DT" team="FA"/>
+    <player id="14923" name="Taylor, Darrell" position="DE" team="SEA"/>
+    <player id="14924" name="Johnson, Jaylon" position="CB" team="CHI"/>
+    <player id="14925" name="Uche, Josh" position="DE" team="NEP"/>
+    <player id="14926" name="Gay, Willie" position="LB" team="NOS"/>
+    <player id="14927" name="Chinn, Jeremy" position="S" team="WAS"/>
+    <player id="14928" name="Wilson, Logan" position="LB" team="CIN"/>
+    <player id="14929" name="Okwara, Julian" position="DE" team="PHI"/>
+    <player id="14930" name="Hamilton, Davon" position="DT" team="JAC"/>
+    <player id="14931" name="Ojemudia, Michael" position="CB" team="ARI"/>
+    <player id="14932" name="Lewis, Terrell" position="DE" team="PHI"/>
+    <player id="14933" name="Blackmon, Julian" position="S" team="IND"/>
+    <player id="14934" name="Elliott, Jordan" position="DT" team="SFO"/>
+    <player id="14935" name="Dantzler, Cameron" position="CB" team="FA"/>
+    <player id="14936" name="Asiasi, Devin" position="TE" team="FA"/>
+    <player id="14937" name="Agim, McTelvin" position="DT" team="HOU"/>
+    <player id="14938" name="Muse, Tanner" position="LB" team="JAC"/>
+    <player id="14939" name="Keene, Dalton" position="TE" team="HOU"/>
+    <player id="14940" name="Highsmith, Alex" position="DE" team="PIT"/>
+    <player id="14942" name="Burgess, Terrell" position="S" team="BUF"/>
+    <player id="14943" name="Davis-Gaither, Akeem" position="LB" team="CIN"/>
+    <player id="14944" name="Holmes, Darnay" position="CB" team="NYG"/>
+    <player id="14946" name="Fotu, Leki" position="DT" team="NYJ"/>
+    <player id="14947" name="Wonnum, D.J." position="DE" team="CAR"/>
+    <player id="14948" name="Walker, Mykal" position="LB" team="WAS"/>
+    <player id="14950" name="Wallace, K'Von" position="S" team="SEA"/>
+    <player id="14951" name="Lynch, James" position="DT" team="MIN"/>
+    <player id="14953" name="Dye, Troy" position="LB" team="LAC"/>
+    <player id="14954" name="Hawkins, Jaylinn" position="S" team="NEP"/>
+    <player id="14955" name="Scott, Josiah" position="CB" team="FA"/>
+    <player id="14956" name="Sneed, L'Jarius" position="CB" team="TEN"/>
+    <player id="14957" name="Robertson, Amik" position="CB" team="DET"/>
+    <player id="14958" name="Quarterman, Shaquille" position="LB" team="LAC"/>
+    <player id="14962" name="Gipson, Trevis" position="DE" team="JAC"/>
+    <player id="14963" name="Thomas, Daniel" position="S" team="JAC"/>
+    <player id="14964" name="Hall, Bryce" position="CB" team="TBB"/>
+    <player id="14966" name="Hudson, Khaleke" position="LB" team="NOS"/>
+    <player id="14967" name="Vildor, Kindle" position="CB" team="DET"/>
+    <player id="14971" name="Washington, Broderick" position="DT" team="BAL"/>
+    <player id="14974" name="Mooney, Darnell" position="WR" team="ATL"/>
+    <player id="14975" name="Murchison, Larrell" position="DT" team="LAR"/>
+    <player id="14977" name="Osborn, K.J." position="WR" team="NEP"/>
+    <player id="14978" name="Danna, Michael" position="DE" team="KCC"/>
+    <player id="14979" name="Strnad, Justin" position="LB" team="DEN"/>
+    <player id="14980" name="Brown, Cam" position="LB" team="MIA"/>
+    <player id="14982" name="Gilman, Alohi" position="S" team="LAC"/>
+    <player id="14983" name="Bass, Tyler" position="PK" team="BUF"/>
+    <player id="14984" name="Woerner, Charlie" position="TE" team="ATL"/>
+    <player id="14985" name="Mann, Braden" position="PN" team="PHI"/>
+    <player id="14987" name="Davis, Khalil" position="DT" team="HOU"/>
+    <player id="14988" name="Bradley, Shaun" position="LB" team="FA"/>
+    <player id="14991" name="Fuller, Jordan" position="S" team="CAR"/>
+    <player id="14992" name="Watkins, Quez" position="WR" team="PIT"/>
+    <player id="14995" name="Metellus, Josh" position="S" team="MIN"/>
+    <player id="14996" name="Davis, Tyler" position="TE" team="GBP"/>
+    <player id="14997" name="Rodgers, Isaiah" position="CB" team="PHI"/>
+    <player id="15000" name="Bailey, Markus" position="LB" team="ARI"/>
+    <player id="15001" name="Curl, Kamren" position="S" team="LAR"/>
+    <player id="15002" name="Coughlin, Carter" position="LB" team="NYG"/>
+    <player id="15003" name="Stone, Geno" position="S" team="CIN"/>
+    <player id="15004" name="Thomas-Oliver, Stantley" position="CB" team="FA"/>
+    <player id="15007" name="Smith-Williams, James" position="DE" team="ATL"/>
+    <player id="15010" name="Toohill, Casey" position="DE" team="BUF"/>
+    <player id="15016" name="Jackson, Dane" position="CB" team="CAR"/>
+    <player id="15026" name="Sullivan, Stephen" position="TE" team="FA"/>
+    <player id="15027" name="Cleveland, Tyrie" position="WR" team="IND"/>
+    <player id="15029" name="Crowder, Tae" position="LB" team="FA"/>
+    <player id="15032" name="Fox, Jack" position="PN" team="DET"/>
+    <player id="15034" name="Callaway, Marquez" position="WR" team="FA"/>
+    <player id="15035" name="Wolford, John" position="QB" team="TBB"/>
+    <player id="15040" name="Williams, Ty'Son" position="RB" team="FA"/>
+    <player id="15041" name="Cager, Lawrence" position="TE" team="NYG"/>
+    <player id="15042" name="Ward, Jonathan" position="RB" team="PIT"/>
+    <player id="15046" name="Merritt, Kirk" position="WR" team="FA"/>
+    <player id="15049" name="Bachie, Joe" position="LB" team="CIN"/>
+    <player id="15051" name="Townsend, Tommy" position="PN" team="HOU"/>
+    <player id="15054" name="Ricci, Giovanni" position="TE" team="CLE"/>
+    <player id="15063" name="Harris, De'Jon" position="LB" team="FA"/>
+    <player id="15070" name="Fortson, Jody" position="TE" team="MIA"/>
+    <player id="15076" name="Rozeboom, Christian" position="LB" team="LAR"/>
+    <player id="15079" name="Bassey, Essang" position="CB" team="DET"/>
+    <player id="15080" name="Togiai, Noah" position="TE" team="FA"/>
+    <player id="15081" name="Wharton, Tershawn" position="DT" team="KCC"/>
+    <player id="15082" name="Barnes, Krys" position="LB" team="ARI"/>
+    <player id="15089" name="Roach, Malcolm" position="DT" team="DEN"/>
+    <player id="15093" name="Copeland, Marquise" position="DT" team="FA"/>
+    <player id="15094" name="Locke, P.J." position="S" team="DEN"/>
+    <player id="15097" name="McKeon, Sean" position="TE" team="DET"/>
+    <player id="15103" name="Gilliam, Reggie" position="RB" team="BUF"/>
+    <player id="15109" name="Westbrook-Ikhine, Nick" position="WR" team="TEN"/>
+    <player id="15110" name="Thurman, Nick" position="DT" team="CAR"/>
+    <player id="15117" name="Flannigan-Fowles, Demetrius" position="LB" team="SFO"/>
+    <player id="15121" name="Huff, Bryce" position="DE" team="PHI"/>
+    <player id="15124" name="Pierre, James" position="CB" team="WAS"/>
+    <player id="15129" name="Dorsey, Khalil" position="CB" team="DET"/>
+    <player id="15137" name="Arnold, Grayland" position="S" team="FA"/>
+    <player id="15140" name="Lewis, Cam" position="S" team="BUF"/>
+    <player id="15141" name="Gill, Cam" position="DE" team="CAR"/>
+    <player id="15142" name="Hall, Tyler" position="CB" team="FA"/>
+    <player id="15148" name="Franklin, Sam" position="S" team="CAR"/>
+    <player id="15151" name="Welch, Kristian" position="LB" team="GBP"/>
+    <player id="15165" name="Jones, Benito" position="DT" team="MIA"/>
+    <player id="15173" name="Tart, Teair" position="DT" team="LAC"/>
+    <player id="15177" name="Bryant, Myles" position="CB" team="HOU"/>
+    <player id="15183" name="Hinton, Kendall" position="WR" team="FA"/>
+    <player id="15191" name="Price, Bobby" position="CB" team="ATL"/>
+    <player id="15194" name="Christiansen, Cole" position="LB" team="KCC"/>
+    <player id="15203" name="Lynch, Blake" position="LB" team="SEA"/>
+    <player id="15212" name="Gaziano, Joe" position="DT" team="JAC"/>
+    <player id="15225" name="Riley, Elijah" position="S" team="NYG"/>
+    <player id="15229" name="Green, A.J." position="CB" team="MIN"/>
+    <player id="15234" name="Sirianni, Nick" position="Coach" team="PHI"/>
+    <player id="15235" name="Saleh, Robert" position="Coach" team="NYJ"/>
+    <player id="15237" name="Lawrence, Trevor" position="QB" team="JAC"/>
+    <player id="15238" name="Fields, Justin" position="QB" team="PIT"/>
+    <player id="15239" name="Wilson, Zach" position="QB" team="DEN"/>
+    <player id="15240" name="Lance, Trey" position="QB" team="DAL"/>
+    <player id="15241" name="Jones, Mac" position="QB" team="JAC"/>
+    <player id="15242" name="Trask, Kyle" position="QB" team="TBB"/>
+    <player id="15243" name="Mond, Kellen" position="QB" team="FA"/>
+    <player id="15244" name="Franks, Feleipe" position="TE" team="CAR"/>
+    <player id="15246" name="Book, Ian" position="QB" team="KCC"/>
+    <player id="15248" name="Buechele, Shane" position="QB" team="BUF"/>
+    <player id="15250" name="Ehlinger, Sam" position="QB" team="IND"/>
+    <player id="15252" name="Mills, Davis" position="QB" team="HOU"/>
+    <player id="15253" name="Etienne, Travis" position="RB" team="JAC"/>
+    <player id="15254" name="Harris, Najee" position="RB" team="PIT"/>
+    <player id="15255" name="Gainwell, Kenneth" position="RB" team="PHI"/>
+    <player id="15256" name="Williams, Javonte" position="RB" team="DEN"/>
+    <player id="15257" name="Sermon, Trey" position="RB" team="IND"/>
+    <player id="15258" name="Carter, Michael" position="RB" team="ARI"/>
+    <player id="15259" name="Stevenson, Rhamondre" position="RB" team="NEP"/>
+    <player id="15260" name="Patterson, Jaret" position="RB" team="LAC"/>
+    <player id="15261" name="Hubbard, Chuba" position="RB" team="CAR"/>
+    <player id="15262" name="Jefferson, Jermar" position="RB" team="DET"/>
+    <player id="15263" name="Mitchell, Elijah" position="RB" team="SFO"/>
+    <player id="15270" name="Felton, Demetric" position="RB" team="IND"/>
+    <player id="15271" name="Herbert, Khalil" position="RB" team="CHI"/>
+    <player id="15272" name="Rountree, Larry" position="RB" team="FA"/>
+    <player id="15275" name="Evans, Chris" position="RB" team="CIN"/>
+    <player id="15277" name="Jackson, Deon" position="RB" team="NYJ"/>
+    <player id="15281" name="Chase, Ja'Marr" position="WR" team="CIN"/>
+    <player id="15282" name="Smith, DeVonta" position="WR" team="PHI"/>
+    <player id="15283" name="Moore, Rondale" position="WR" team="ATL"/>
+    <player id="15284" name="Waddle, Jaylen" position="WR" team="MIA"/>
+    <player id="15285" name="Wallace, Tylan" position="WR" team="BAL"/>
+    <player id="15286" name="Williams, Seth" position="WR" team="JAC"/>
+    <player id="15287" name="St. Brown, Amon-Ra" position="WR" team="DET"/>
+    <player id="15288" name="Moore, Elijah" position="WR" team="CLE"/>
+    <player id="15289" name="Toney, Kadarius" position="WR" team="KCC"/>
+    <player id="15290" name="Collins, Nico" position="WR" team="HOU"/>
+    <player id="15292" name="Brown, Dyami" position="WR" team="WAS"/>
+    <player id="15293" name="Bateman, Rashod" position="WR" team="BAL"/>
+    <player id="15296" name="Schwartz, Anthony" position="WR" team="MIA"/>
+    <player id="15297" name="Rodgers, Amari" position="WR" team="FA"/>
+    <player id="15298" name="Smith, Shi" position="WR" team="FA"/>
+    <player id="15301" name="Atwell, Tutu" position="WR" team="LAR"/>
+    <player id="15302" name="Eskridge, D'Wayne" position="WR" team="SEA"/>
+    <player id="15303" name="Fehoko, Simi" position="WR" team="LAC"/>
+    <player id="15304" name="Darby, Frank" position="WR" team="FA"/>
+    <player id="15306" name="Nixon, Tre" position="WR" team="FA"/>
+    <player id="15308" name="Marshall, Terrace" position="WR" team="CAR"/>
+    <player id="15313" name="McMath, Racey" position="WR" team="DAL"/>
+    <player id="15316" name="Powell, Cornell" position="WR" team="KCC"/>
+    <player id="15319" name="Palmer, Josh" position="WR" team="LAC"/>
+    <player id="15321" name="Darden, Jaelon" position="WR" team="CLE"/>
+    <player id="15324" name="Watkins, Austin" position="WR" team="PHI"/>
+    <player id="15326" name="Milne, Dax" position="WR" team="LVR"/>
+    <player id="15329" name="Pitts, Kyle" position="TE" team="ATL"/>
+    <player id="15330" name="Jordan, Brevin" position="TE" team="HOU"/>
+    <player id="15331" name="Freiermuth, Pat" position="TE" team="PIT"/>
+    <player id="15332" name="Tremble, Tommy" position="TE" team="CAR"/>
+    <player id="15333" name="McKitty, Tre'" position="TE" team="BUF"/>
+    <player id="15334" name="Long, Hunter" position="TE" team="LAR"/>
+    <player id="15335" name="Farrell, Luke" position="TE" team="JAC"/>
+    <player id="15337" name="Gray, Noah" position="TE" team="KCC"/>
+    <player id="15339" name="Yeboah, Kenny" position="TE" team="NYJ"/>
+    <player id="15341" name="Morris, Quintin" position="TE" team="BUF"/>
+    <player id="15343" name="Davidson, Zach" position="TE" team="BUF"/>
+    <player id="15344" name="Bates, John" position="TE" team="WAS"/>
+    <player id="15345" name="Paye, Kwity" position="DE" team="IND"/>
+    <player id="15346" name="Rousseau, Gregory" position="DE" team="BUF"/>
+    <player id="15347" name="Weaver, Rashad" position="DE" team="TEN"/>
+    <player id="15348" name="Basham, Carlos" position="DE" team="NYG"/>
+    <player id="15349" name="Phillips, Jaelan" position="DE" team="MIA"/>
+    <player id="15350" name="Parsons, Micah" position="DE" team="DAL"/>
+    <player id="15351" name="Owusu-Koramoah, Jeremiah" position="LB" team="CLE"/>
+    <player id="15352" name="Collins, Zaven" position="DE" team="ARI"/>
+    <player id="15353" name="Surratt, Chazz" position="LB" team="NYJ"/>
+    <player id="15355" name="Bolton, Nick" position="LB" team="KCC"/>
+    <player id="15356" name="Browning, Baron" position="DE" team="DEN"/>
+    <player id="15357" name="Barmore, Christian" position="DT" team="NEP"/>
+    <player id="15358" name="Togiai, Tommy" position="DT" team="ATL"/>
+    <player id="15359" name="Tufele, Jay" position="DT" team="CIN"/>
+    <player id="15360" name="Farley, Caleb" position="CB" team="TEN"/>
+    <player id="15361" name="Horn, Jaycee" position="CB" team="CAR"/>
+    <player id="15362" name="Surtain II, Patrick" position="CB" team="DEN"/>
+    <player id="15363" name="Melifonwu, Ifeatu" position="S" team="DET"/>
+    <player id="15364" name="Cisco, Andre" position="S" team="JAC"/>
+    <player id="15365" name="Moehrig, Trevon" position="S" team="LVR"/>
+    <player id="15366" name="Holland, Jevon" position="S" team="MIA"/>
+    <player id="15367" name="Nasirildeen, Hamsah" position="LB" team="FA"/>
+    <player id="15368" name="McPherson, Evan" position="PK" team="CIN"/>
+    <player id="15369" name="Patterson, Riley" position="PK" team="FA"/>
+    <player id="15371" name="Adams, Myles" position="DT" team="SEA"/>
+    <player id="15373" name="Davis, Jamin" position="LB" team="WAS"/>
+    <player id="15375" name="Newsome, Greg" position="CB" team="CLE"/>
+    <player id="15376" name="Turner, Payton" position="DE" team="NOS"/>
+    <player id="15377" name="Stokes, Eric" position="CB" team="GBP"/>
+    <player id="15378" name="Oweh, Jayson" position="DE" team="BAL"/>
+    <player id="15379" name="Tryon, Joe" position="DE" team="TBB"/>
+    <player id="15380" name="Campbell, Tyson" position="CB" team="JAC"/>
+    <player id="15381" name="Grant, Richie" position="S" team="ATL"/>
+    <player id="15382" name="Onwuzurike, Levi" position="DT" team="DET"/>
+    <player id="15383" name="Joseph, Kelvin" position="CB" team="KCC"/>
+    <player id="15384" name="Samuel, Asante" position="CB" team="LAC"/>
+    <player id="15385" name="Ojulari, Azeez" position="DE" team="NYG"/>
+    <player id="15386" name="Odeyingbo, Dayo" position="DE" team="IND"/>
+    <player id="15387" name="Werner, Pete" position="LB" team="NOS"/>
+    <player id="15388" name="Ossai, Joseph" position="DE" team="CIN"/>
+    <player id="15389" name="Robinson, Aaron" position="CB" team="FA"/>
+    <player id="15390" name="McNeill, Alim" position="DT" team="DET"/>
+    <player id="15391" name="Williams, Milton" position="DT" team="PHI"/>
+    <player id="15392" name="St-Juste, Benjamin" position="CB" team="WAS"/>
+    <player id="15393" name="Odighizuwa, Osa" position="DT" team="DAL"/>
+    <player id="15394" name="Adebo, Paulson" position="CB" team="NOS"/>
+    <player id="15395" name="Koonce, Malcolm" position="DE" team="LVR"/>
+    <player id="15396" name="Deablo, Divine" position="LB" team="LVR"/>
+    <player id="15397" name="Golston, Chauncey" position="DE" team="DAL"/>
+    <player id="15398" name="Jones, Patrick" position="DE" team="MIN"/>
+    <player id="15399" name="Rice, Monty" position="LB" team="FA"/>
+    <player id="15400" name="Perkins, Ronnie" position="DE" team="DEN"/>
+    <player id="15401" name="Wright, Nahshon" position="CB" team="MIN"/>
+    <player id="15402" name="Molden, Elijah" position="S" team="TEN"/>
+    <player id="15403" name="Thomas, Ambry" position="CB" team="SFO"/>
+    <player id="15404" name="Jones, Ernest" position="LB" team="LAR"/>
+    <player id="15405" name="Stephens, Brandon" position="CB" team="BAL"/>
+    <player id="15407" name="Fitzpatrick, Dez" position="WR" team="PIT"/>
+    <player id="15408" name="Sample, Cameron" position="DE" team="CIN"/>
+    <player id="15409" name="Barnes, Derrick" position="LB" team="DET"/>
+    <player id="15410" name="Cox, Jabril" position="LB" team="MIN"/>
+    <player id="15411" name="Smith, Elerson" position="DE" team="LVR"/>
+    <player id="15412" name="Brown, Bobby" position="DT" team="LAR"/>
+    <player id="15413" name="Rumph, Chris" position="DE" team="LAC"/>
+    <player id="15414" name="Nwangwu, Kene" position="RB" team="MIN"/>
+    <player id="15415" name="Smith, Jordan" position="DE" team="FA"/>
+    <player id="15417" name="McPhearson, Zech" position="CB" team="PHI"/>
+    <player id="15418" name="Bynum, Camryn" position="S" team="MIN"/>
+    <player id="15419" name="Granson, Kylen" position="TE" team="IND"/>
+    <player id="15420" name="Rochell, Robert" position="CB" team="GBP"/>
+    <player id="15421" name="Robinson, Janarius" position="DE" team="LVR"/>
+    <player id="15422" name="Wilson, Marco" position="CB" team="NEP"/>
+    <player id="15423" name="Brown, Tre" position="CB" team="SEA"/>
+    <player id="15424" name="Johnson, Buddy" position="LB" team="DAL"/>
+    <player id="15425" name="Harris, Jacob" position="WR" team="PHI"/>
+    <player id="15428" name="Sherwood, Jamien" position="LB" team="NYJ"/>
+    <player id="15429" name="Graham, Ta'Quon" position="DT" team="ATL"/>
+    <player id="15430" name="Sterns, Caden" position="S" team="PHI"/>
+    <player id="15431" name="Fields, Tony" position="LB" team="CLE"/>
+    <player id="15432" name="Carter, Michael" position="CB" team="NYJ"/>
+    <player id="15433" name="Loudermilk, Isaiahh" position="DT" team="PIT"/>
+    <player id="15434" name="Smith-Marsette, Ihmir" position="WR" team="CAR"/>
+    <player id="15436" name="Wade, Shaun" position="CB" team="NEP"/>
+    <player id="15437" name="Forrest, Darrick" position="S" team="WAS"/>
+    <player id="15440" name="Taylor, Keith" position="CB" team="KCC"/>
+    <player id="15441" name="Hobbs, Nate" position="CB" team="LVR"/>
+    <player id="15442" name="LeCounte, Richard" position="S" team="FA"/>
+    <player id="15443" name="Wallow, Garret" position="LB" team="TEN"/>
+    <player id="15445" name="Lenoir, Deommodore" position="CB" team="SFO"/>
+    <player id="15446" name="Slaton, Tedarrell" position="DT" team="GBP"/>
+    <player id="15447" name="Brown, Earnest" position="DE" team="TBB"/>
+    <player id="15448" name="Pinnock, Jason" position="S" team="NYG"/>
+    <player id="15449" name="Britt, K.J." position="LB" team="TBB"/>
+    <player id="15450" name="McGrone, Cameron" position="LB" team="IND"/>
+    <player id="15451" name="Jean-Charles, Shemar" position="CB" team="NOS"/>
+    <player id="15452" name="Hufanga, Talanoa" position="S" team="SFO"/>
+    <player id="15453" name="Ogundeji, Adetokunbo" position="DE" team="FA"/>
+    <player id="15454" name="Williams, Avery" position="RB" team="ATL"/>
+    <player id="15456" name="Niemann, Nick" position="LB" team="LAC"/>
+    <player id="15458" name="Tuipulotu, Marlon" position="DT" team="PHI"/>
+    <player id="15460" name="Bohanna, Quinton" position="DT" team="TEN"/>
+    <player id="15461" name="Lopez, Roy" position="DT" team="ARI"/>
+    <player id="15462" name="Brightwell, Gary" position="RB" team="JAC"/>
+    <player id="15464" name="Echols, Brandin" position="CB" team="NYJ"/>
+    <player id="15467" name="Camp, Jalen" position="WR" team="FA"/>
+    <player id="15468" name="Dimukeje, Victor" position="DE" team="ARI"/>
+    <player id="15469" name="Hamlin, Damar" position="S" team="BUF"/>
+    <player id="15473" name="McDuffie, Isaiah" position="LB" team="GBP"/>
+    <player id="15476" name="Mukuamu, Israel" position="S" team="DAL"/>
+    <player id="15478" name="Strachan, Mike" position="WR" team="CAR"/>
+    <player id="15480" name="Funk, Jake" position="RB" team="DET"/>
+    <player id="15481" name="Johnson, Patrick" position="DE" team="PHI"/>
+    <player id="15484" name="Cooper, Jonathon" position="DE" team="DEN"/>
+    <player id="15488" name="Doaks, Gerrid" position="RB" team="FA"/>
+    <player id="15490" name="Toney, Shaka" position="DE" team="DAL"/>
+    <player id="15491" name="Skowronek, Ben" position="WR" team="HOU"/>
+    <player id="15492" name="Tonga, Khyiris" position="DT" team="ARI"/>
+    <player id="15496" name="Harvin, Pressley" position="PN" team="SFO"/>
+    <player id="15498" name="Stuard, Grant" position="LB" team="IND"/>
+    <player id="15499" name="Gillikin, Blake" position="PN" team="ARI"/>
+    <player id="15500" name="Siposs, Arryn" position="PN" team="FA"/>
+    <player id="15505" name="Huntley, Caleb" position="RB" team="FA"/>
+    <player id="15506" name="Bushman, Matt" position="TE" team="FA"/>
+    <player id="15510" name="Washington, Ar'Darius" position="S" team="BAL"/>
+    <player id="15515" name="Snowden, Charles" position="DE" team="LVR"/>
+    <player id="15521" name="Ogbongbemiga, Amen" position="LB" team="CHI"/>
+    <player id="15523" name="Ammendola, Matt" position="PK" team="FA"/>
+    <player id="15527" name="Key, Devon" position="S" team="DEN"/>
+    <player id="15528" name="Wilkerson, Kristian" position="WR" team="LVR"/>
+    <player id="15529" name="Winston, Easop" position="WR" team="SEA"/>
+    <player id="15533" name="Gore, Derrick" position="RB" team="FA"/>
+    <player id="15535" name="Kinsey, Mason" position="WR" team="TEN"/>
+    <player id="15536" name="Bootle, DiCaprio" position="CB" team="CAR"/>
+    <player id="15538" name="Rhattigan, Jon" position="LB" team="SEA"/>
+    <player id="15541" name="Stoll, Jack" position="TE" team="NYG"/>
+    <player id="15543" name="Griffith, Jonas" position="LB" team="DEN"/>
+    <player id="15546" name="Parker, AJ" position="CB" team="FA"/>
+    <player id="15549" name="Jacobs, Jerry" position="CB" team="LAR"/>
+    <player id="15559" name="Williams, Jonah" position="DT" team="MIN"/>
+    <player id="15563" name="Wilcox, Mitchell" position="TE" team="NEP"/>
+    <player id="15564" name="Hesse, Parker" position="TE" team="DET"/>
+    <player id="15565" name="Hoecht, Michael" position="DE" team="LAR"/>
+    <player id="15568" name="Chachere, Andre" position="S" team="ARI"/>
+    <player id="15586" name="Johnson, Caleb" position="LB" team="JAC"/>
+    <player id="15595" name="Campbell, Elijah" position="S" team="MIA"/>
+    <player id="15604" name="Zylstra, Shane" position="TE" team="DET"/>
+    <player id="15614" name="McCloud, Nick" position="CB" team="NYG"/>
+    <player id="15618" name="Jones, Naquan" position="DT" team="ARI"/>
+    <player id="15622" name="Robinson, Curtis" position="LB" team="SFO"/>
+    <player id="15626" name="Wright, Brock" position="TE" team="DET"/>
+    <player id="15650" name="Prentice, Adam" position="RB" team="NOS"/>
+    <player id="15668" name="Waitman, Corliss" position="PN" team="CHI"/>
+    <player id="15671" name="Bandy, Michael" position="WR" team="DEN"/>
+    <player id="15681" name="Elliss, Christian" position="LB" team="NEP"/>
+    <player id="15687" name="McDaniel, Mike" position="Coach" team="MIA"/>
+    <player id="15688" name="Daboll, Brian" position="Coach" team="NYG"/>
+    <player id="15690" name="Eberflus, Matt" position="Coach" team="CHI"/>
+    <player id="15691" name="Corral, Matt" position="QB" team="MIN"/>
+    <player id="15692" name="Pickett, Kenny" position="QB" team="PHI"/>
+    <player id="15693" name="Howell, Sam" position="QB" team="SEA"/>
+    <player id="15694" name="Willis, Malik" position="QB" team="TEN"/>
+    <player id="15696" name="Zappe, Bailey" position="QB" team="NEP"/>
+    <player id="15697" name="Ridder, Desmond" position="QB" team="ARI"/>
+    <player id="15698" name="Purdy, Brock" position="QB" team="SFO"/>
+    <player id="15699" name="Thompson, Skylar" position="QB" team="MIA"/>
+    <player id="15702" name="McKee, Tanner" position="QB" team="PHI"/>
+    <player id="15708" name="Hall, Breece" position="RB" team="NYJ"/>
+    <player id="15709" name="Spiller, Isaiah" position="RB" team="LAC"/>
+    <player id="15710" name="Williams, Kyren" position="RB" team="LAR"/>
+    <player id="15711" name="Walker III, Kenneth" position="RB" team="SEA"/>
+    <player id="15712" name="Allgeier, Tyler" position="RB" team="ATL"/>
+    <player id="15713" name="Ford, Jerome" position="RB" team="CLE"/>
+    <player id="15714" name="White, Zamir" position="RB" team="LVR"/>
+    <player id="15715" name="Cook, James" position="RB" team="BUF"/>
+    <player id="15716" name="Robinson, Brian" position="RB" team="WAS"/>
+    <player id="15717" name="Pierce, Dameon" position="RB" team="HOU"/>
+    <player id="15718" name="Badie, Tyler" position="RB" team="DEN"/>
+    <player id="15719" name="Harris, Kevin" position="RB" team="NEP"/>
+    <player id="15720" name="Haskins, Hassan" position="RB" team="TEN"/>
+    <player id="15721" name="White, Rachaad" position="RB" team="TBB"/>
+    <player id="15723" name="Chandler, Ty" position="RB" team="MIN"/>
+    <player id="15725" name="Conner, Snoop" position="RB" team="DAL"/>
+    <player id="15726" name="Rivers, Ronnie" position="RB" team="LAR"/>
+    <player id="15727" name="Knight, Zonovan" position="RB" team="DET"/>
+    <player id="15729" name="Corbin, Jashaun" position="RB" team="FA"/>
+    <player id="15730" name="Goodson, Tyler" position="RB" team="IND"/>
+    <player id="15733" name="Strong Jr., Pierre" position="RB" team="CLE"/>
+    <player id="15734" name="Ingram, Keaontay" position="RB" team="KCC"/>
+    <player id="15738" name="Davis, Malik" position="RB" team="DAL"/>
+    <player id="15742" name="Warren, Jaylen" position="RB" team="PIT"/>
+    <player id="15743" name="McCormick, Sincere" position="RB" team="LVR"/>
+    <player id="15746" name="Davis-Price, Tyrion" position="RB" team="PHI"/>
+    <player id="15748" name="Ebner, Trestan" position="RB" team="FA"/>
+    <player id="15749" name="Pacheco, Isiah" position="RB" team="KCC"/>
+    <player id="15751" name="London, Drake" position="WR" team="ATL"/>
+    <player id="15752" name="Burks, Treylon" position="WR" team="TEN"/>
+    <player id="15753" name="Wilson, Garrett" position="WR" team="NYJ"/>
+    <player id="15754" name="Olave, Chris" position="WR" team="NOS"/>
+    <player id="15755" name="Dotson, Jahan" position="WR" team="PHI"/>
+    <player id="15756" name="Williams, Jameson" position="WR" team="DET"/>
+    <player id="15757" name="Robinson, Wan'Dale" position="WR" team="NYG"/>
+    <player id="15758" name="Bell, David" position="WR" team="CLE"/>
+    <player id="15759" name="Metchie, John" position="WR" team="HOU"/>
+    <player id="15761" name="Shakir, Khalil" position="WR" team="BUF"/>
+    <player id="15762" name="Pickens, George" position="WR" team="PIT"/>
+    <player id="15763" name="Ross, Justyn" position="WR" team="KCC"/>
+    <player id="15766" name="Moore, Skyy" position="WR" team="KCC"/>
+    <player id="15767" name="Jones, Velus" position="WR" team="CHI"/>
+    <player id="15768" name="Pierce, Alec" position="WR" team="IND"/>
+    <player id="15771" name="Martin, Tay" position="WR" team="SFO"/>
+    <player id="15772" name="Covey, Britain" position="WR" team="PHI"/>
+    <player id="15775" name="Sanders, Braylon" position="WR" team="MIA"/>
+    <player id="15777" name="Austin III, Calvin" position="WR" team="PIT"/>
+    <player id="15779" name="Doubs, Romeo" position="WR" team="GBP"/>
+    <player id="15780" name="Ezukanma, Erik" position="WR" team="MIA"/>
+    <player id="15782" name="Gray, Danny" position="WR" team="SFO"/>
+    <player id="15783" name="Johnson, Johnny" position="WR" team="HOU"/>
+    <player id="15785" name="Melton, Bo" position="WR" team="GBP"/>
+    <player id="15786" name="Nailor, Jalen" position="WR" team="MIN"/>
+    <player id="15787" name="Thornton, Tyquan" position="WR" team="NEP"/>
+    <player id="15788" name="Tolbert, Jalen" position="WR" team="DAL"/>
+    <player id="15789" name="Watson, Christian" position="WR" team="GBP"/>
+    <player id="15792" name="Woods, Michael" position="WR" team="CLE"/>
+    <player id="15794" name="McBride, Trey" position="TE" team="ARI"/>
+    <player id="15795" name="Kolar, Charlie" position="TE" team="BAL"/>
+    <player id="15796" name="Ruckert, Jeremy" position="TE" team="NYJ"/>
+    <player id="15797" name="Dulcich, Greg" position="TE" team="DEN"/>
+    <player id="15798" name="Likely, Isaiah" position="TE" team="BAL"/>
+    <player id="15799" name="Ferguson, Jake" position="TE" team="DAL"/>
+    <player id="15800" name="Heyward, Connor" position="TE" team="PIT"/>
+    <player id="15802" name="Otton, Cade" position="TE" team="TBB"/>
+    <player id="15803" name="Turner, Cole" position="TE" team="WAS"/>
+    <player id="15804" name="Calcaterra, Grant" position="TE" team="PHI"/>
+    <player id="15805" name="Hutchinson, Aidan" position="DE" team="DET"/>
+    <player id="15806" name="Thibodeaux, Kayvon" position="DE" team="NYG"/>
+    <player id="15807" name="Ojabo, David" position="DE" team="BAL"/>
+    <player id="15808" name="Karlaftis, George" position="DE" team="KCC"/>
+    <player id="15809" name="Johnson, Jermaine" position="DE" team="NYJ"/>
+    <player id="15810" name="Sanders, Myjai" position="DE" team="FA"/>
+    <player id="15811" name="Jackson, Drake" position="DE" team="SFO"/>
+    <player id="15812" name="Hall, Logan" position="DT" team="TBB"/>
+    <player id="15813" name="Enagbare, Kingsley" position="DE" team="GBP"/>
+    <player id="15814" name="Thomas, Cameron" position="DE" team="ARI"/>
+    <player id="15815" name="Walker, Travon" position="DE" team="JAC"/>
+    <player id="15816" name="Winfrey, Perrion" position="DT" team="FA"/>
+    <player id="15817" name="Davis, Jordan" position="DT" team="PHI"/>
+    <player id="15818" name="Leal, DeMarvin" position="DT" team="PIT"/>
+    <player id="15819" name="Wyatt, Devonte" position="DT" team="GBP"/>
+    <player id="15820" name="Mathis, Phidarian" position="DT" team="WAS"/>
+    <player id="15821" name="Dean, Nakobe" position="LB" team="PHI"/>
+    <player id="15822" name="Lloyd, Devin" position="LB" team="JAC"/>
+    <player id="15823" name="Harris, Christian" position="LB" team="HOU"/>
+    <player id="15824" name="Tindall, Channing" position="LB" team="MIA"/>
+    <player id="15825" name="Beavers, Darrian" position="LB" team="FA"/>
+    <player id="15826" name="Clark, Damone" position="LB" team="DAL"/>
+    <player id="15827" name="Domann, JoJo" position="LB" team="TEN"/>
+    <player id="15828" name="Smith, Brandon" position="LB" team="PHI"/>
+    <player id="15829" name="Asamoah, Brian" position="LB" team="MIN"/>
+    <player id="15830" name="Muma, Chad" position="LB" team="JAC"/>
+    <player id="15831" name="Chenal, Leo" position="LB" team="KCC"/>
+    <player id="15832" name="Stingley Jr., Derek" position="CB" team="HOU"/>
+    <player id="15833" name="Gardner, Sauce" position="CB" team="NYJ"/>
+    <player id="15834" name="Hamilton, Kyle" position="S" team="BAL"/>
+    <player id="15835" name="Brisker, Jaquan" position="S" team="CHI"/>
+    <player id="15836" name="Hill, Daxton" position="CB" team="CIN"/>
+    <player id="15837" name="Cine, Lewis" position="S" team="MIN"/>
+    <player id="15838" name="McKinley III, Verone" position="S" team="ARI"/>
+    <player id="15839" name="Cross, Nick" position="S" team="IND"/>
+    <player id="15840" name="Woods, Jelani" position="TE" team="IND"/>
+    <player id="15841" name="Toure, Samori" position="WR" team="GBP"/>
+    <player id="15844" name="Allen, Devon" position="WR" team="FA"/>
+    <player id="15845" name="McDuffie, Trent" position="CB" team="KCC"/>
+    <player id="15846" name="Walker, Quay" position="LB" team="GBP"/>
+    <player id="15847" name="Elam, Kaiir" position="CB" team="BUF"/>
+    <player id="15849" name="McCreary, Roger" position="CB" team="TEN"/>
+    <player id="15850" name="Pitre, Jalen" position="S" team="HOU"/>
+    <player id="15851" name="Ebiketie, Arnold" position="DE" team="ATL"/>
+    <player id="15852" name="Gordon, Kyler" position="CB" team="CHI"/>
+    <player id="15853" name="Mafe, Boye" position="DE" team="SEA"/>
+    <player id="15854" name="Booth, Andrew" position="CB" team="DAL"/>
+    <player id="15855" name="Paschal, Josh" position="DE" team="DET"/>
+    <player id="15856" name="Taylor, Alontae" position="CB" team="NOS"/>
+    <player id="15857" name="Williams, Sam" position="DE" team="DAL"/>
+    <player id="15858" name="Andersen, Troy" position="LB" team="ATL"/>
+    <player id="15859" name="Taylor-Britt, Cam" position="CB" team="CIN"/>
+    <player id="15860" name="Cook, Bryan" position="S" team="KCC"/>
+    <player id="15861" name="Bonitto, Nik" position="DE" team="DEN"/>
+    <player id="15862" name="Emerson, Martin" position="CB" team="CLE"/>
+    <player id="15863" name="Jones, Travis" position="DT" team="BAL"/>
+    <player id="15864" name="Wright, Alex" position="DE" team="CLE"/>
+    <player id="15865" name="Woods, JT" position="S" team="LAC"/>
+    <player id="15866" name="Flott, Cordale" position="CB" team="NYG"/>
+    <player id="15867" name="Malone, DeAngelo" position="DE" team="ATL"/>
+    <player id="15868" name="Jones, Marcus" position="CB" team="NEP"/>
+    <player id="15869" name="Bernard, Terrel" position="LB" team="BUF"/>
+    <player id="15870" name="Carter, Zachary" position="DT" team="CIN"/>
+    <player id="15871" name="Joseph, Kerby" position="S" team="DET"/>
+    <player id="15872" name="Bryant, Coby" position="S" team="SEA"/>
+    <player id="15873" name="Bellinger, Daniel" position="TE" team="NYG"/>
+    <player id="15874" name="Butler, Percy" position="S" team="WAS"/>
+    <player id="15875" name="Belton, Dane" position="S" team="NYG"/>
+    <player id="15876" name="Mathis, Damarri" position="CB" team="DEN"/>
+    <player id="15877" name="Uwazurike, Eyioma" position="DT" team="DEN"/>
+    <player id="15878" name="Clemons, Micheal" position="DE" team="NYJ"/>
+    <player id="15879" name="Armour-Davis, Jalyn" position="CB" team="BAL"/>
+    <player id="15880" name="Evans, Akayleb" position="CB" team="MIN"/>
+    <player id="15881" name="Jones, Jack" position="CB" team="LVR"/>
+    <player id="15882" name="York, Cade" position="PK" team="WAS"/>
+    <player id="15883" name="Farrell, Neil" position="DT" team="KCC"/>
+    <player id="15884" name="Stout, Jordan" position="PN" team="BAL"/>
+    <player id="15885" name="Williams, Joshua" position="CB" team="KCC"/>
+    <player id="15886" name="Williams, Damarion" position="CB" team="BAL"/>
+    <player id="15887" name="Camarda, Jake" position="PN" team="TBB"/>
+    <player id="15888" name="Durant, Decobie" position="CB" team="LAR"/>
+    <player id="15889" name="Okonkwo, Chigoziem" position="TE" team="TEN"/>
+    <player id="15890" name="McFadden, Micah" position="LB" team="NYG"/>
+    <player id="15891" name="Davidson, D.J." position="DT" team="NYG"/>
+    <player id="15893" name="Turner-Yell, Delarrin" position="S" team="DEN"/>
+    <player id="15894" name="Woolen, Tariq" position="CB" team="SEA"/>
+    <player id="15895" name="McCollum, Zyon" position="CB" team="TBB"/>
+    <player id="15896" name="Smith, Tyreke" position="DE" team="ARI"/>
+    <player id="15897" name="Johnson, Eric" position="DT" team="IND"/>
+    <player id="15898" name="Ogbonnia, Otito" position="DT" team="LAC"/>
+    <player id="15899" name="Jackson, D'Marco" position="LB" team="NOS"/>
+    <player id="15900" name="Washington, Montrell" position="WR" team="KCC"/>
+    <player id="15901" name="Philips, Kyle" position="WR" team="TEN"/>
+    <player id="15902" name="Otomewo, Esezi" position="DT" team="JAC"/>
+    <player id="15903" name="Anderson, Tycen" position="S" team="CIN"/>
+    <player id="15904" name="Bland, DaRon" position="CB" team="DAL"/>
+    <player id="15905" name="Quitoriano, Teagan" position="TE" team="HOU"/>
+    <player id="15906" name="Womack, Samuel" position="CB" team="SFO"/>
+    <player id="15907" name="Robinson, Dominique" position="DE" team="CHI"/>
+    <player id="15908" name="Butler, Matthew" position="DT" team="LVR"/>
+    <player id="15909" name="Mitchell, James" position="TE" team="DET"/>
+    <player id="15910" name="Ridgeway, John" position="DT" team="WAS"/>
+    <player id="15911" name="Araiza, Matt" position="PN" team="KCC"/>
+    <player id="15912" name="Johnson, Kyron" position="LB" team="PIT"/>
+    <player id="15913" name="Benford, Christian" position="CB" team="BUF"/>
+    <player id="15914" name="Rodriguez, Malcolm" position="LB" team="DET"/>
+    <player id="15915" name="Barno, Amare" position="DE" team="CAR"/>
+    <player id="15916" name="Ogletree, Andrew" position="TE" team="IND"/>
+    <player id="15917" name="Harper, Devin" position="LB" team="CIN"/>
+    <player id="15919" name="Junior, Gregory" position="CB" team="FA"/>
+    <player id="15920" name="Roberts, Sam" position="DT" team="NEP"/>
+    <player id="15921" name="Jackson, Theo" position="S" team="MIN"/>
+    <player id="15922" name="Henningsen, Matt" position="DT" team="DEN"/>
+    <player id="15923" name="Lake, Quentin" position="S" team="LAR"/>
+    <player id="15924" name="Kendrick, Derion" position="CB" team="LAR"/>
+    <player id="15925" name="FitzPatrick, John" position="TE" team="ATL"/>
+    <player id="15926" name="Taylor, Ja'Sir" position="CB" team="LAC"/>
+    <player id="15928" name="Houston, James" position="DE" team="DET"/>
+    <player id="15929" name="Kieft, Ko" position="TE" team="TBB"/>
+    <player id="15930" name="Campbell, Chance" position="LB" team="TEN"/>
+    <player id="15931" name="Davis, Kalia" position="DT" team="SFO"/>
+    <player id="15932" name="Castro-Fields, Tariq" position="CB" team="WAS"/>
+    <player id="15933" name="Brown, Montaric" position="CB" team="JAC"/>
+    <player id="15934" name="Thomas, Isaiah" position="DE" team="CLE"/>
+    <player id="15935" name="Goode, Cameron" position="DE" team="MIA"/>
+    <player id="15936" name="Robinson, Mark" position="LB" team="PIT"/>
+    <player id="15937" name="Muse, Nick" position="TE" team="MIN"/>
+    <player id="15938" name="Carpenter, Tariq" position="LB" team="FA"/>
+    <player id="15939" name="Spector, Baylon" position="LB" team="BUF"/>
+    <player id="15941" name="Young, Dareke" position="WR" team="SEA"/>
+    <player id="15944" name="Leonard, Deane" position="CB" team="LAC"/>
+    <player id="15945" name="Lucas, Chase" position="CB" team="SFO"/>
+    <player id="15946" name="Thomas II, Rodney" position="S" team="IND"/>
+    <player id="15947" name="Holmes, Christian" position="CB" team="NYG"/>
+    <player id="15950" name="Watson, Jaylen" position="CB" team="KCC"/>
+    <player id="15951" name="Matthew, Christian" position="CB" team="BAL"/>
+    <player id="15953" name="Brown, Brittain" position="RB" team="LVR"/>
+    <player id="15954" name="Gunter, Jeff" position="DE" team="FA"/>
+    <player id="15955" name="Yeast, Russ" position="S" team="LAR"/>
+    <player id="15956" name="Hicks, Elijah" position="S" team="CHI"/>
+    <player id="15957" name="Gill, Trenton" position="PN" team="DEN"/>
+    <player id="15958" name="Luketa, Jesse" position="DE" team="ARI"/>
+    <player id="15959" name="Johnson, Nazeeh" position="CB" team="KCC"/>
+    <player id="15965" name="Chestnut, Julius" position="RB" team="TEN"/>
+    <player id="15970" name="Krull, Lucas" position="TE" team="DEN"/>
+    <player id="15972" name="Mason, Jordan" position="RB" team="SFO"/>
+    <player id="15973" name="Blackshear, Raheem" position="RB" team="CAR"/>
+    <player id="15975" name="Sanborn, Jack" position="LB" team="CHI"/>
+    <player id="15977" name="Thompkins, Deven" position="WR" team="FA"/>
+    <player id="15979" name="Dicker, Cameron" position="PK" team="LAC"/>
+    <player id="15981" name="Turpin, KaVontae" position="WR" team="DAL"/>
+    <player id="15983" name="Houston, Dennis" position="WR" team="NYG"/>
+    <player id="15984" name="Charles, Irvin" position="WR" team="NYJ"/>
+    <player id="15985" name="Bell, Markquese" position="S" team="DAL"/>
+    <player id="15987" name="Johnson, Brandon" position="WR" team="DEN"/>
+    <player id="15989" name="Jobe, Josh" position="CB" team="PHI"/>
+    <player id="15990" name="Rogers, Armani" position="TE" team="PHI"/>
+    <player id="15991" name="Conner, Tanner" position="TE" team="MIA"/>
+    <player id="15993" name="McCutcheon, Lance" position="WR" team="NYJ"/>
+    <player id="15995" name="Turner, DJ" position="WR" team="LVR"/>
+    <player id="15996" name="Virgil, Jalen" position="WR" team="DEN"/>
+    <player id="15999" name="Ahmed, Ramiz" position="PK" team="FA"/>
+    <player id="16000" name="Hendershot, Peyton" position="TE" team="DAL"/>
+    <player id="16003" name="Vilain, Luiji" position="DE" team="CAR"/>
+    <player id="16004" name="Masterson, Luke" position="LB" team="LVR"/>
+    <player id="16005" name="Jones, Tim" position="WR" team="JAC"/>
+    <player id="16007" name="Hinish, Kurt" position="DT" team="HOU"/>
+    <player id="16008" name="Ross, Josh" position="LB" team="BAL"/>
+    <player id="16009" name="Gibbens, Jack" position="LB" team="TEN"/>
+    <player id="16010" name="Wright, Ryan" position="PN" team="MIN"/>
+    <player id="16011" name="Stonehouse, Ryan" position="PN" team="TEN"/>
+    <player id="16012" name="Alford, Dee" position="CB" team="ATL"/>
+    <player id="16013" name="Landman, Nate" position="LB" team="ATL"/>
+    <player id="16014" name="Adams, Tony" position="S" team="NYJ"/>
+    <player id="16015" name="Pryor, Kendric" position="WR" team="CIN"/>
+    <player id="16016" name="Kohou, Kader" position="CB" team="MIA"/>
+    <player id="16017" name="Hummel, Jake" position="LB" team="LAR"/>
+    <player id="16018" name="Blankenship, Reed" position="S" team="PHI"/>
+    <player id="16019" name="Hansen, Jake" position="LB" team="HOU"/>
+    <player id="16022" name="Brown, Anthony" position="QB" team="LVR"/>
+    <player id="16023" name="Bell, D'Anthony" position="S" team="CLE"/>
+    <player id="16024" name="Horne, Timmy" position="DT" team="NYG"/>
+    <player id="16025" name="Hairston, Troy" position="RB" team="HOU"/>
+    <player id="16026" name="Jones, Jaylon" position="CB" team="CHI"/>
+    <player id="16029" name="Avery, Tre" position="CB" team="TEN"/>
+    <player id="16030" name="Fox, Tomon" position="DE" team="NYG"/>
+    <player id="16037" name="Baccellia, Andre" position="WR" team="ARI"/>
+    <player id="16043" name="Havrisik, Lucas" position="PK" team="FA"/>
+    <player id="16045" name="Schooler, Brenden" position="S" team="NEP"/>
+    <player id="16050" name="Webb, Raleigh" position="WR" team="TBB"/>
+    <player id="16052" name="Webb, Sam" position="CB" team="LVR"/>
+    <player id="16054" name="Blackwell, Josh" position="CB" team="CHI"/>
+    <player id="16055" name="Jonathan, Kingsley" position="DE" team="BUF"/>
+    <player id="16058" name="Herring, Malik" position="DE" team="KCC"/>
+    <player id="16063" name="McCrary-Ball, Marcelino" position="LB" team="NYJ"/>
+    <player id="16064" name="Flowers, Dallis" position="CB" team="IND"/>
+    <player id="16066" name="Alexander, Maurice" position="WR" team="DET"/>
+    <player id="16072" name="Cochrane, Jack" position="LB" team="KCC"/>
+    <player id="16075" name="Blount, Joey" position="S" team="ARI"/>
+    <player id="16080" name="Shaheed, Rashid" position="WR" team="NOS"/>
+    <player id="16087" name="Anderson, Ryder" position="DE" team="NYG"/>
+    <player id="16091" name="Stille, Ben" position="DT" team="ARI"/>
+    <player id="16094" name="Russell, J.J." position="LB" team="TBB"/>
+    <player id="16099" name="Wooten, Chandler" position="LB" team="CAR"/>
+    <player id="16102" name="Pola-Mao, Isaiah" position="S" team="LVR"/>
+    <player id="16113" name="Smartt, Stone" position="TE" team="LAC"/>
+    <player id="16118" name="Brown, Mike" position="S" team="TEN"/>
+    <player id="16120" name="Trammell, Austin" position="WR" team="JAC"/>
+    <player id="16121" name="Thomas, Keir" position="DE" team="LAR"/>
+    <player id="16132" name="Layne, Raheem" position="S" team="NYG"/>
+    <player id="16138" name="Olubi, Segun" position="LB" team="IND"/>
+    <player id="16139" name="Baker, Darrell" position="CB" team="IND"/>
+    <player id="16141" name="Ali, Josh" position="WR" team="ATL"/>
+    <player id="16145" name="McMillian, Ja'Quan" position="CB" team="DEN"/>
+    <player id="16147" name="Steichen, Shane" position="Coach" team="IND"/>
+    <player id="16148" name="Young, Bryce" position="QB" team="CAR"/>
+    <player id="16149" name="Levis, Will" position="QB" team="TEN"/>
+    <player id="16150" name="Stroud, C.J." position="QB" team="HOU"/>
+    <player id="16151" name="Hooker, Hendon" position="QB" team="DET"/>
+    <player id="16152" name="Richardson, Anthony" position="QB" team="IND"/>
+    <player id="16153" name="Bennett, Stetson" position="QB" team="LAR"/>
+    <player id="16154" name="Hall, Jaren" position="QB" team="MIN"/>
+    <player id="16155" name="Duggan, Max" position="QB" team="FA"/>
+    <player id="16156" name="Haener, Jake" position="QB" team="NOS"/>
+    <player id="16157" name="Cunningham, Malik" position="WR" team="BAL"/>
+    <player id="16158" name="Thompson-Robinson, Dorian" position="QB" team="CLE"/>
+    <player id="16159" name="O'Connell, Aidan" position="QB" team="LVR"/>
+    <player id="16160" name="Tune, Clayton" position="QB" team="ARI"/>
+    <player id="16161" name="Robinson, Bijan" position="RB" team="ATL"/>
+    <player id="16162" name="Gibbs, Jahmyr" position="RB" team="DET"/>
+    <player id="16163" name="Evans, Zach" position="RB" team="LAR"/>
+    <player id="16164" name="Bigsby, Tank" position="RB" team="JAC"/>
+    <player id="16165" name="Spears, Tyjae" position="RB" team="TEN"/>
+    <player id="16166" name="Tucker, Sean" position="RB" team="TBB"/>
+    <player id="16167" name="Achane, De'Von" position="RB" team="MIA"/>
+    <player id="16168" name="Abanikanda, Israel" position="RB" team="NYJ"/>
+    <player id="16169" name="Charbonnet, Zach" position="RB" team="SEA"/>
+    <player id="16170" name="McIntosh, Kenny" position="RB" team="SEA"/>
+    <player id="16171" name="Miller, Kendre" position="RB" team="NOS"/>
+    <player id="16172" name="Ibrahim, Mohamed" position="RB" team="MIN"/>
+    <player id="16173" name="Gray, Eric" position="RB" team="NYG"/>
+    <player id="16174" name="Rodriguez, Chris" position="RB" team="WAS"/>
+    <player id="16175" name="Johnson, Roschon" position="RB" team="CHI"/>
+    <player id="16176" name="Vaughn, Deuce" position="RB" team="DAL"/>
+    <player id="16178" name="Mitchell, Keaton" position="RB" team="BAL"/>
+    <player id="16179" name="McBride, DeWayne" position="RB" team="MIN"/>
+    <player id="16180" name="Hull, Evan" position="RB" team="IND"/>
+    <player id="16181" name="Brown, Chase" position="RB" team="CIN"/>
+    <player id="16182" name="Peoples, Camerun" position="RB" team="FA"/>
+    <player id="16183" name="Hyatt, Jalin" position="WR" team="NYG"/>
+    <player id="16184" name="Reed, Jayden" position="WR" team="GBP"/>
+    <player id="16185" name="Smith-Njigba, Jaxon" position="WR" team="SEA"/>
+    <player id="16186" name="Addison, Jordan" position="WR" team="MIN"/>
+    <player id="16187" name="Downs, Josh" position="WR" team="IND"/>
+    <player id="16188" name="Johnston, Quentin" position="WR" team="LAC"/>
+    <player id="16189" name="Mims, Marvin" position="WR" team="DEN"/>
+    <player id="16190" name="Flowers, Zay" position="WR" team="BAL"/>
+    <player id="16191" name="Tillman, Cedric" position="WR" team="CLE"/>
+    <player id="16192" name="Washington, Parker" position="WR" team="JAC"/>
+    <player id="16193" name="Boutte, Kayshon" position="WR" team="NEP"/>
+    <player id="16194" name="Rice, Rashee" position="WR" team="KCC"/>
+    <player id="16195" name="Wicks, Dontayvion" position="WR" team="GBP"/>
+    <player id="16196" name="Perry, A.T." position="WR" team="NOS"/>
+    <player id="16197" name="Mingo, Jonathan" position="WR" team="CAR"/>
+    <player id="16198" name="Jarrett, Rakim" position="WR" team="TBB"/>
+    <player id="16199" name="Palmer, Trey" position="WR" team="TBB"/>
+    <player id="16201" name="Hutchinson, Xavier" position="WR" team="HOU"/>
+    <player id="16202" name="Bell, Ronnie" position="WR" team="SFO"/>
+    <player id="16203" name="Jones, Charlie" position="WR" team="CIN"/>
+    <player id="16204" name="Dell, Tank" position="WR" team="HOU"/>
+    <player id="16205" name="Scott, Tyler" position="WR" team="CHI"/>
+    <player id="16206" name="Wilson, Michael" position="WR" team="ARI"/>
+    <player id="16207" name="Iosivas, Andrei" position="WR" team="CIN"/>
+    <player id="16210" name="Shorter, Justin" position="WR" team="BUF"/>
+    <player id="16211" name="Nacua, Puka" position="WR" team="LAR"/>
+    <player id="16212" name="Mayer, Michael" position="TE" team="LVR"/>
+    <player id="16213" name="Kincaid, Dalton" position="TE" team="BUF"/>
+    <player id="16214" name="LaPorta, Sam" position="TE" team="DET"/>
+    <player id="16215" name="Musgrave, Luke" position="TE" team="GBP"/>
+    <player id="16216" name="Washington, Darnell" position="TE" team="PIT"/>
+    <player id="16217" name="Latu, Cameron" position="TE" team="SFO"/>
+    <player id="16218" name="Durham, Payne" position="TE" team="TBB"/>
+    <player id="16219" name="Allen, Davis" position="TE" team="LAR"/>
+    <player id="16220" name="Mallory, Will" position="TE" team="IND"/>
+    <player id="16221" name="Schoonmaker, Luke" position="TE" team="DAL"/>
+    <player id="16222" name="Kraft, Tucker" position="TE" team="GBP"/>
+    <player id="16223" name="Anderson, Will" position="DE" team="HOU"/>
+    <player id="16224" name="Murphy, Myles" position="DE" team="CIN"/>
+    <player id="16225" name="Ojulari, BJ" position="DE" team="ARI"/>
+    <player id="16226" name="Wilson, Tyree" position="DE" team="LVR"/>
+    <player id="16227" name="Harrison, Zach" position="DE" team="ATL"/>
+    <player id="16228" name="Smith, Nolan" position="DE" team="PHI"/>
+    <player id="16229" name="Carter, Andre" position="DE" team="MIN"/>
+    <player id="16230" name="Van Ness, Lukas" position="DE" team="GBP"/>
+    <player id="16231" name="Sanders, Drew" position="LB" team="DEN"/>
+    <player id="16232" name="Morris, Mike" position="DT" team="SEA"/>
+    <player id="16233" name="Carter, Jalen" position="DT" team="PHI"/>
+    <player id="16234" name="Simpson, Trenton" position="LB" team="BAL"/>
+    <player id="16235" name="Hall, Derick" position="DE" team="SEA"/>
+    <player id="16236" name="To'oTo'o, Henry" position="LB" team="HOU"/>
+    <player id="16237" name="Pappoe, Owen" position="LB" team="ARI"/>
+    <player id="16238" name="Sewell, Noah" position="LB" team="CHI"/>
+    <player id="16239" name="Campbell, Jack" position="LB" team="DET"/>
+    <player id="16240" name="Porter Jr., Joey" position="CB" team="PIT"/>
+    <player id="16241" name="Witherspoon, Devon" position="CB" team="SEA"/>
+    <player id="16242" name="Ringo, Kelee" position="CB" team="PHI"/>
+    <player id="16243" name="Smith, Cam" position="CB" team="MIA"/>
+    <player id="16244" name="Branch, Brian" position="S" team="DET"/>
+    <player id="16245" name="Battle, Jordan" position="S" team="CIN"/>
+    <player id="16246" name="Johnson, Antonio" position="S" team="JAC"/>
+    <player id="16247" name="Skinner, JL" position="S" team="DEN"/>
+    <player id="16248" name="Gannon, Jonathan" position="Coach" team="ARI"/>
+    <player id="16249" name="Kuntz, Zack" position="TE" team="NYJ"/>
+    <player id="16250" name="Ngata, Joseph" position="WR" team="PHI"/>
+    <player id="16251" name="Gonzalez, Christian" position="CB" team="NEP"/>
+    <player id="16252" name="McDonald, Will" position="DE" team="NYJ"/>
+    <player id="16253" name="Forbes, Emmanuel" position="CB" team="WAS"/>
+    <player id="16254" name="Kancey, Calijah" position="DT" team="TBB"/>
+    <player id="16255" name="Banks, Deonte" position="CB" team="NYG"/>
+    <player id="16256" name="Bresee, Bryan" position="DT" team="NOS"/>
+    <player id="16257" name="Anudike-Uzomah, Felix" position="DE" team="KCC"/>
+    <player id="16258" name="Smith, Mazi" position="DT" team="DAL"/>
+    <player id="16259" name="Martin, Brodric" position="DT" team="DET"/>
+    <player id="16260" name="Foskey, Isaiah" position="DE" team="NOS"/>
+    <player id="16261" name="Brents, Julius" position="CB" team="IND"/>
+    <player id="16262" name="White, Keion" position="DT" team="NEP"/>
+    <player id="16263" name="Martin, Jartavius" position="S" team="WAS"/>
+    <player id="16264" name="Benton, Keeanu" position="DT" team="PIT"/>
+    <player id="16265" name="Dexter, Gervon" position="DT" team="CHI"/>
+    <player id="16266" name="Tuipulotu, Tuli" position="DE" team="LAC"/>
+    <player id="16267" name="Stevenson, Tyrique" position="CB" team="CHI"/>
+    <player id="16268" name="Turner, DJ" position="CB" team="CIN"/>
+    <player id="16269" name="Strange, Brenton" position="TE" team="JAC"/>
+    <player id="16270" name="Pickens, Zacch" position="DT" team="CHI"/>
+    <player id="16271" name="Brown, Sydney" position="S" team="PHI"/>
+    <player id="16272" name="Cooney, Nolan" position="PN" team="TBB"/>
+    <player id="16273" name="Young, Byron" position="DT" team="LVR"/>
+    <player id="16274" name="Williams, Garrett" position="CB" team="ARI"/>
+    <player id="16275" name="Mapu, Marte" position="S" team="NEP"/>
+    <player id="16276" name="Young, Byron" position="DE" team="LAR"/>
+    <player id="16277" name="Johnson, DJ" position="DE" team="CAR"/>
+    <player id="16278" name="Diaby, YaYa" position="DE" team="TBB"/>
+    <player id="16279" name="Moss, Riley" position="CB" team="DEN"/>
+    <player id="16280" name="Henley, Daiyan" position="LB" team="LAC"/>
+    <player id="16281" name="Brown, Ji'Ayir" position="S" team="SFO"/>
+    <player id="16282" name="Turner, Kobie" position="DT" team="LAR"/>
+    <player id="16283" name="Overshown, DeMarvion" position="LB" team="DAL"/>
+    <player id="16284" name="Williams, Dorian" position="LB" team="BUF"/>
+    <player id="16285" name="Ika, Siaki" position="DT" team="CLE"/>
+    <player id="16286" name="Moody, Jake" position="PK" team="SFO"/>
+    <player id="16287" name="Tucker, Tre" position="WR" team="LVR"/>
+    <player id="16288" name="Blackmon, Mekhi" position="CB" team="MIN"/>
+    <player id="16289" name="Bennett, Jakorian" position="CB" team="LVR"/>
+    <player id="16290" name="Horton, Dylan" position="DE" team="HOU"/>
+    <player id="16291" name="Adebawore, Adetomiwa" position="DT" team="IND"/>
+    <player id="16292" name="Ryland, Chad" position="PK" team="NEP"/>
+    <player id="16293" name="Phillips, Clark" position="CB" team="ATL"/>
+    <player id="16294" name="Wooden, Colby" position="DT" team="GBP"/>
+    <player id="16295" name="Conner, Chamarri" position="S" team="KCC"/>
+    <player id="16296" name="Miller, Ventrell" position="LB" team="JAC"/>
+    <player id="16297" name="Young, Cameron" position="DT" team="SEA"/>
+    <player id="16298" name="Robinson, Tavius" position="DE" team="BAL"/>
+    <player id="16299" name="Davis, Derius" position="WR" team="LAC"/>
+    <player id="16300" name="McGuire, Isaiah" position="DE" team="CLE"/>
+    <player id="16301" name="Fehoko, Viliami" position="DT" team="DAL"/>
+    <player id="16302" name="Lacy, Tyler" position="DT" team="JAC"/>
+    <player id="16303" name="Herbig, Nick" position="DE" team="PIT"/>
+    <player id="16304" name="Ward, Jay" position="S" team="MIN"/>
+    <player id="16305" name="Abdullah, Yasir" position="LB" team="JAC"/>
+    <player id="16306" name="Henry, K.J." position="DE" team="WAS"/>
+    <player id="16307" name="Rush, Darius" position="CB" team="PIT"/>
+    <player id="16308" name="Roy, Jaquelin" position="DT" team="MIN"/>
+    <player id="16309" name="Mitchell, Cameron" position="CB" team="CLE"/>
+    <player id="16310" name="Robinson, Jammie" position="S" team="CAR"/>
+    <player id="16311" name="Howden, Jordan" position="S" team="NOS"/>
+    <player id="16312" name="Whyle, Josh" position="TE" team="TEN"/>
+    <player id="16313" name="Clifford, Sean" position="QB" team="GBP"/>
+    <player id="16314" name="Dennis, SirVocea" position="LB" team="TBB"/>
+    <player id="16315" name="Luter, Darrell" position="CB" team="SFO"/>
+    <player id="16316" name="Kelly, Kyu Blu" position="CB" team="WAS"/>
+    <player id="16317" name="Scott, Daniel" position="S" team="IND"/>
+    <player id="16318" name="Hampton, Nick" position="LB" team="LAR"/>
+    <player id="16319" name="Smith, Terell" position="CB" team="CHI"/>
+    <player id="16320" name="Thompson, BJ" position="DE" team="KCC"/>
+    <player id="16321" name="Smith, Christopher" position="S" team="LVR"/>
+    <player id="16322" name="Beal, Robert" position="DE" team="SFO"/>
+    <player id="16323" name="Scott, Eric" position="CB" team="DAL"/>
+    <player id="16324" name="Brooks, Karl" position="DT" team="GBP"/>
+    <player id="16325" name="Clark, Kei'Trel" position="CB" team="ARI"/>
+    <player id="16326" name="Hayes, Josh" position="CB" team="TBB"/>
+    <player id="16327" name="Tomlinson, Tre" position="CB" team="LAR"/>
+    <player id="16328" name="Barnes, Zaire" position="LB" team="NYJ"/>
+    <player id="16329" name="Mathis, Ochaun" position="DE" team="LAR"/>
+    <player id="16330" name="Baringer, Bryce" position="PN" team="NEP"/>
+    <player id="16331" name="Coburn, Keondre" position="DT" team="TEN"/>
+    <player id="16332" name="Ramirez, Jose" position="DE" team="TBB"/>
+    <player id="16333" name="Higgins, Elijah" position="TE" team="ARI"/>
+    <player id="16334" name="Reed, Jerrick" position="S" team="SEA"/>
+    <player id="16335" name="Matlock, Scott" position="DT" team="LAC"/>
+    <player id="16336" name="Braswell, Christian" position="CB" team="JAC"/>
+    <player id="16337" name="Burney, Amari" position="LB" team="LVR"/>
+    <player id="16338" name="Bernard-Converse, Jarrick" position="CB" team="NYJ"/>
+    <player id="16339" name="Carlson, Anders" position="PK" team="GBP"/>
+    <player id="16341" name="Hawkins, Tre" position="CB" team="NYG"/>
+    <player id="16342" name="Douglas, Demario" position="WR" team="NEP"/>
+    <player id="16343" name="Leo, Titus" position="DE" team="IND"/>
+    <player id="16344" name="Stills, Dante" position="DT" team="ARI"/>
+    <player id="16345" name="Speed, Ameer" position="CB" team="IND"/>
+    <player id="16346" name="Winters, Dee" position="LB" team="SFO"/>
+    <player id="16347" name="Robbins, Brad" position="PN" team="CIN"/>
+    <player id="16349" name="Green, Antoine" position="WR" team="FA"/>
+    <player id="16350" name="Jones, Jaylon" position="CB" team="IND"/>
+    <player id="16351" name="Evans, Ethan" position="PN" team="LAR"/>
+    <player id="16352" name="Hellams, DeMarcco" position="S" team="ATL"/>
+    <player id="16354" name="Dowell, Colton" position="WR" team="TEN"/>
+    <player id="16355" name="Silvera, Nesta Jade" position="DT" team="LVR"/>
+    <player id="16356" name="Valentine, Carrington" position="CB" team="GBP"/>
+    <player id="16357" name="Jones, Andre" position="DE" team="WAS"/>
+    <player id="16358" name="Taylor, Jason" position="S" team="LAR"/>
+    <player id="16359" name="Nichols, Lew" position="RB" team="PHI"/>
+    <player id="16361" name="Trice, Cory" position="CB" team="PIT"/>
+    <player id="16362" name="Johnson, Anthony" position="S" team="GBP"/>
+    <player id="16363" name="Riley, Jordon" position="DT" team="NYG"/>
+    <player id="16364" name="Brooks, Jalen" position="WR" team="DAL"/>
+    <player id="16366" name="Ivey, DJ" position="CB" team="CIN"/>
+    <player id="16367" name="Willis, Brayden" position="TE" team="SFO"/>
+    <player id="16368" name="Hill, Brandon" position="S" team="HOU"/>
+    <player id="16369" name="Ojomo, Moro" position="DT" team="PHI"/>
+    <player id="16370" name="Jones, Nic" position="CB" team="KCC"/>
+    <player id="16371" name="Austin, Alex" position="CB" team="NEP"/>
+    <player id="16372" name="Owens, Gervarrius" position="S" team="NYG"/>
+    <player id="16373" name="Graham, Jalen" position="LB" team="SFO"/>
+    <player id="16374" name="Dubose, Grant" position="WR" team="GBP"/>
+    <player id="16375" name="Williamson, Kendall" position="S" team="BUF"/>
+    <player id="16376" name="Johnson, Desjuan" position="DT" team="LAR"/>
+    <player id="16379" name="Ford-Wheaton, Bryce" position="WR" team="NYG"/>
+    <player id="16380" name="Prince, Deneric" position="RB" team="KCC"/>
+    <player id="16382" name="Winstead, Isaiah" position="WR" team="NYJ"/>
+    <player id="16383" name="Pace, Ivan" position="LB" team="MIN"/>
+    <player id="16384" name="Bagent, Tyson" position="QB" team="CHI"/>
+    <player id="16385" name="Demercado, Emari" position="RB" team="ARI"/>
+    <player id="16386" name="Valladay, Xazavian" position="RB" team="NYJ"/>
+    <player id="16387" name="Brooks, Chris" position="RB" team="MIA"/>
+    <player id="16389" name="Durden, David" position="WR" team="DAL"/>
+    <player id="16390" name="McLaughlin, Jaleel" position="RB" team="DEN"/>
+    <player id="16391" name="Luepke, Hunter" position="RB" team="DAL"/>
+    <player id="16392" name="Graham, Alfonzo" position="RB" team="FA"/>
+    <player id="16393" name="Bobo, Jake" position="WR" team="SEA"/>
+    <player id="16395" name="Cropper, Jalen" position="WR" team="DAL"/>
+    <player id="16396" name="Hall, Hassan" position="RB" team="ARI"/>
+    <player id="16399" name="Landers, Matt" position="WR" team="NEP"/>
+    <player id="16401" name="Copeland, Jacob" position="WR" team="PIT"/>
+    <player id="16402" name="Thompson, SaRodorick" position="RB" team="LAR"/>
+    <player id="16403" name="Tinsley, Mitchell" position="WR" team="WAS"/>
+    <player id="16405" name="Romo, John Parker" position="PK" team="FA"/>
+    <player id="16409" name="Dotson, Elijah" position="RB" team="LAC"/>
+    <player id="16410" name="Brown, Tanner" position="PK" team="FA"/>
+    <player id="16412" name="Rourke, Nathan" position="QB" team="FA"/>
+    <player id="16413" name="Heath, Malik" position="WR" team="GBP"/>
+    <player id="16414" name="Aubrey, Brandon" position="PK" team="DAL"/>
+    <player id="16416" name="Gipson, Xavier" position="WR" team="NYJ"/>
+    <player id="16418" name="Land, Isaiah" position="DE" team="IND"/>
+    <player id="16422" name="Remigio, Nikko" position="WR" team="KCC"/>
+    <player id="16423" name="Brownlee, Jason" position="WR" team="NYJ"/>
+    <player id="16424" name="Mims, Jordan" position="RB" team="NOS"/>
+    <player id="16425" name="Hill, Julian" position="TE" team="MIA"/>
+    <player id="16428" name="Smith, Xavier" position="WR" team="LAR"/>
+    <player id="16429" name="Drummond, Dylan" position="WR" team="ATL"/>
+    <player id="16430" name="Jenkins, Jaray" position="WR" team="PIT"/>
+    <player id="16431" name="Jamison, D'Shawn" position="CB" team="CAR"/>
+    <player id="16432" name="Wilson, Emanuel" position="RB" team="GBP"/>
+    <player id="16433" name="Stephens Jr., John" position="TE" team="DAL"/>
+    <player id="16434" name="Podlesny, Jack" position="PK" team="FA"/>
+    <player id="16435" name="Fotheringham, Cole" position="TE" team="LVR"/>
+    <player id="16436" name="Orji, Anfernee" position="LB" team="NOS"/>
+    <player id="16437" name="Cota, Chase" position="WR" team="NYG"/>
+    <player id="16438" name="Merriweather, Ellis" position="RB" team="GBP"/>
+    <player id="16439" name="Diabate, Mohamoud" position="LB" team="CLE"/>
+    <player id="16440" name="Murphy, Caleb" position="LB" team="TEN"/>
+    <player id="16441" name="DeVito, Tommy" position="QB" team="NYG"/>
+    <player id="16442" name="Arias, Daniel" position="WR" team="FA"/>
+    <player id="16443" name="O'Connell, Patrick" position="LB" team="SEA"/>
+    <player id="16444" name="Grupe, Blake" position="PK" team="NOS"/>
+    <player id="16446" name="Watts, Markees" position="DE" team="TBB"/>
+    <player id="16447" name="Vokolek, Travis" position="TE" team="ARI"/>
+    <player id="16448" name="Dean, Trey" position="S" team="FA"/>
+    <player id="16449" name="Garror, Eric" position="CB" team="TEN"/>
+    <player id="16450" name="Thomas, Drake" position="LB" team="SEA"/>
+    <player id="16451" name="Shavers, Tyrell" position="WR" team="BUF"/>
+    <player id="16452" name="Whelan, Daniel" position="PN" team="GBP"/>
+    <player id="16453" name="Cooks, Elijah" position="WR" team="JAC"/>
+    <player id="16454" name="Ricks, Eli" position="CB" team="PHI"/>
+    <player id="16455" name="Cox, Brenton" position="DE" team="GBP"/>
+    <player id="16456" name="Jackson, Kearis" position="WR" team="TEN"/>
+    <player id="16457" name="Izien, Christian" position="CB" team="TBB"/>
+    <player id="16458" name="Hedley, Lou" position="PN" team="NOS"/>
+    <player id="16459" name="Reese, Otis" position="LB" team="TEN"/>
+    <player id="16460" name="Hickman, Ronnie" position="S" team="CLE"/>
+    <player id="16461" name="Sewell, Nephi" position="LB" team="NOS"/>
+    <player id="16462" name="Zentner, Ty" position="PN" team="TEN"/>
+    <player id="16463" name="Merriweather, Kaevon" position="S" team="TBB"/>
+    <player id="16465" name="Thompson, NaJee" position="CB" team="FA"/>
+    <player id="16467" name="Kendall, Anthony" position="CB" team="TEN"/>
+    <player id="16468" name="VanValkenburg, Zach" position="LB" team="LAR"/>
+    <player id="16472" name="Thomas, Juanyeh" position="S" team="DAL"/>
+    <player id="16474" name="Adkins, Nate" position="TE" team="DEN"/>
+    <player id="16475" name="Goodrich, Mario" position="CB" team="NYG"/>
+    <player id="16476" name="Jones, Cam" position="LB" team="KCC"/>
+    <player id="16477" name="Johnson, Quindell" position="S" team="CHI"/>
+    <player id="16483" name="Sims, Ben" position="TE" team="GBP"/>
+    <player id="16484" name="Denbow, Trevor" position="S" team="IND"/>
+    <player id="16485" name="Incoom, Thomas" position="LB" team="DEN"/>
+    <player id="16492" name="Cherelus, Claudin" position="LB" team="CAR"/>
+    <player id="16493" name="Jackson, Matthew" position="S" team="TEN"/>
+    <player id="16494" name="Moon, Jeremiah" position="LB" team="PIT"/>
+    <player id="16496" name="Russell, Brady" position="TE" team="SEA"/>
+    <player id="16499" name="Blair, Chris" position="WR" team="ATL"/>
+    <player id="16502" name="Farmer, Andrew" position="LB" team="LAC"/>
+    <player id="16504" name="Gilmore, Steven" position="CB" team="DET"/>
+    <player id="16507" name="Lassiter, Kwamie" position="WR" team="CIN"/>
+    <player id="16510" name="Pharms, Jeremiah" position="DT" team="NEP"/>
+    <player id="16516" name="Wheat, Tyrus" position="DE" team="DAL"/>
+    <player id="16517" name="Thomas, Charlie" position="LB" team="FA"/>
+    <player id="16519" name="Thomas, Starling" position="CB" team="ARI"/>
+    <player id="16523" name="Wright, Owen" position="RB" team="BAL"/>
+    <player id="16524" name="Williams, Rodney" position="TE" team="PIT"/>
+    <player id="16526" name="Winn, Dresser" position="QB" team="LAR"/>
+    <player id="16527" name="VanSumeren, Ben" position="LB" team="PHI"/>
+    <player id="16528" name="Cook, Alex" position="S" team="CAR"/>
+    <player id="16529" name="Leota, Eku" position="LB" team="CAR"/>
+    <player id="16531" name="Hailassie, Kahlef" position="CB" team="CLE"/>
+    <player id="16532" name="Nowaske, Trevor" position="LB" team="ARI"/>
+    <player id="16533" name="Jackson, Shedrick" position="WR" team="CIN"/>
+    <player id="16535" name="McLendon, TK" position="DE" team="TEN"/>
+    <player id="16537" name="Thompson, Trenton" position="S" team="FA"/>
+    <player id="16542" name="Harris, Jalen" position="DE" team="WAS"/>
+    <player id="16544" name="Pearson, Henry" position="RB" team="FA"/>
+    <player id="16545" name="Whitley, Benton" position="LB" team="NYG"/>
+    <player id="16546" name="Wilson, Divaad" position="CB" team="ARI"/>
+    <player id="16556" name="Bonner, Ethan" position="CB" team="MIA"/>
+    <player id="16576" name="Callahan, Brian" position="Coach" team="TEN"/>
+    <player id="16577" name="Canales, Dave" position="Coach" team="CAR"/>
+    <player id="16578" name="Macdonald, Mike" position="Coach" team="SEA"/>
+    <player id="16579" name="Williams, Caleb" position="QB" team="CHI" status="R"/>
+    <player id="16580" name="Maye, Drake" position="QB" team="NEP" status="R"/>
+    <player id="16581" name="Daniels, Jayden" position="QB" team="WAS" status="R"/>
+    <player id="16582" name="Nix, Bo" position="QB" team="DEN" status="R"/>
+    <player id="16583" name="Penix Jr., Michael" position="QB" team="ATL" status="R"/>
+    <player id="16584" name="McCarthy, J.J." position="QB" team="MIN" status="R"/>
+    <player id="16585" name="Milton, Joe" position="QB" team="NEP" status="R"/>
+    <player id="16586" name="Rattler, Spencer" position="QB" team="NOS" status="R"/>
+    <player id="16587" name="Hartman, Sam" position="QB" team="WAS" status="R"/>
+    <player id="16588" name="Pratt, Michael" position="QB" team="GBP" status="R"/>
+    <player id="16589" name="Travis, Jordan" position="QB" team="NYJ" status="R"/>
+    <player id="16590" name="Tagovailoa, Taulia" position="QB" team="FA" status="R"/>
+    <player id="16591" name="Leary, Devin" position="QB" team="BAL" status="R"/>
+    <player id="16592" name="Plummer, Jack" position="QB" team="CAR" status="R"/>
+    <player id="16593" name="Corum, Blake" position="RB" team="LAR" status="R"/>
+    <player id="16594" name="Benson, Trey" position="RB" team="ARI" status="R"/>
+    <player id="16595" name="Estime, Audric" position="RB" team="DEN" status="R"/>
+    <player id="16596" name="Allen, Braelon" position="RB" team="NYJ" status="R"/>
+    <player id="16597" name="Brooks, Jonathon" position="RB" team="CAR" status="R"/>
+    <player id="16598" name="Irving, Bucky" position="RB" team="TBB" status="R"/>
+    <player id="16599" name="Gore Jr., Frank" position="RB" team="BUF" status="R"/>
+    <player id="16600" name="Schrader, Cody" position="RB" team="SFO" status="R"/>
+    <player id="16601" name="Shipley, Will" position="RB" team="PHI" status="R"/>
+    <player id="16602" name="Williams, Miyan" position="RB" team="FA" status="R"/>
+    <player id="16603" name="Davis, Ray" position="RB" team="BUF" status="R"/>
+    <player id="16604" name="Lloyd, MarShawn" position="RB" team="GBP" status="R"/>
+    <player id="16605" name="McClellan, Jase" position="RB" team="ATL" status="R"/>
+    <player id="16606" name="Milton, Kendall" position="RB" team="PHI" status="R"/>
+    <player id="16607" name="Small, Jabari" position="RB" team="TEN" status="R"/>
+    <player id="16608" name="Holani, George" position="RB" team="SEA" status="R"/>
+    <player id="16609" name="Johnson, Dillon" position="RB" team="FA" status="R"/>
+    <player id="16610" name="Wright, Jaylen" position="RB" team="MIA" status="R"/>
+    <player id="16611" name="Bailey, Emani" position="RB" team="KCC" status="R"/>
+    <player id="16612" name="Steele, Carson" position="RB" team="KCC" status="R"/>
+    <player id="16613" name="Laube, Dylan" position="RB" team="LVR" status="R"/>
+    <player id="16614" name="Harrison Jr., Marvin" position="WR" team="ARI" status="R"/>
+    <player id="16615" name="Nabers, Malik" position="WR" team="NYG" status="R"/>
+    <player id="16616" name="Odunze, Rome" position="WR" team="CHI" status="R"/>
+    <player id="16617" name="Coleman, Keon" position="WR" team="BUF" status="R"/>
+    <player id="16618" name="Thomas Jr., Brian" position="WR" team="JAC" status="R"/>
+    <player id="16619" name="Franklin, Troy" position="WR" team="DEN" status="R"/>
+    <player id="16620" name="Worthy, Xavier" position="WR" team="KCC" status="R"/>
+    <player id="16621" name="Walker, Devontez" position="WR" team="BAL" status="R"/>
+    <player id="16622" name="Pearsall, Ricky" position="WR" team="SFO" status="R"/>
+    <player id="16623" name="Rice, Brenden" position="WR" team="LAC" status="R"/>
+    <player id="16624" name="Thrash, Jamari" position="WR" team="CLE" status="R"/>
+    <player id="16625" name="Wilson, Johnny" position="WR" team="PHI" status="R"/>
+    <player id="16626" name="Mitchell, Adonai" position="WR" team="IND" status="R"/>
+    <player id="16627" name="McConkey, Ladd" position="WR" team="LAC" status="R"/>
+    <player id="16628" name="McMillan, Jalen" position="WR" team="TBB" status="R"/>
+    <player id="16629" name="Wilson, Roman" position="WR" team="PIT" status="R"/>
+    <player id="16630" name="Williams, Isaiah" position="WR" team="DET" status="R"/>
+    <player id="16631" name="Polk, Ja'Lynn" position="WR" team="NEP" status="R"/>
+    <player id="16632" name="Burton, Jermaine" position="WR" team="CIN" status="R"/>
+    <player id="16633" name="Whittington, Jordan" position="WR" team="LAR" status="R"/>
+    <player id="16634" name="Weaver, Xavier" position="WR" team="ARI" status="R"/>
+    <player id="16635" name="McCaffrey, Luke" position="WR" team="WAS" status="R"/>
+    <player id="16636" name="Corley, Malachi" position="WR" team="NYJ" status="R"/>
+    <player id="16637" name="Baker, Javon" position="WR" team="NEP" status="R"/>
+    <player id="16638" name="Franklin, Zakhari" position="WR" team="FA" status="R"/>
+    <player id="16639" name="Legette, Xavier" position="WR" team="CAR" status="R"/>
+    <player id="16640" name="Cowing, Jacob" position="WR" team="SFO" status="R"/>
+    <player id="16641" name="Bowers, Brock" position="TE" team="LVR" status="R"/>
+    <player id="16642" name="Stover, Cade" position="TE" team="HOU" status="R"/>
+    <player id="16643" name="Sanders, Ja'Tavion" position="TE" team="CAR" status="R"/>
+    <player id="16644" name="Sinnott, Ben" position="TE" team="WAS" status="R"/>
+    <player id="16645" name="All, Erick" position="TE" team="CIN" status="R"/>
+    <player id="16646" name="Bell, Jaheim" position="TE" team="NEP" status="R"/>
+    <player id="16647" name="Spann-Ford, Brevyn" position="TE" team="DAL" status="R"/>
+    <player id="16648" name="Wiley, Jared" position="TE" team="KCC" status="R"/>
+    <player id="16649" name="Johnson, Theo" position="TE" team="NYG" status="R"/>
+    <player id="16650" name="Turner, Dallas" position="DE" team="MIN" status="R"/>
+    <player id="16651" name="Latu, Laiatu" position="DE" team="IND" status="R"/>
+    <player id="16652" name="Trice, Bralen" position="DE" team="ATL" status="R"/>
+    <player id="16653" name="Verse, Jared" position="DE" team="LAR" status="R"/>
+    <player id="16654" name="Elliss, Jonah" position="DE" team="DEN" status="R"/>
+    <player id="16655" name="Robinson, Chop" position="DE" team="MIA" status="R"/>
+    <player id="16656" name="Braswell, Chris" position="DE" team="TBB" status="R"/>
+    <player id="16657" name="Dorlus, Brandon" position="DT" team="ATL" status="R"/>
+    <player id="16658" name="Thomas, Xavier" position="DE" team="ARI" status="R"/>
+    <player id="16659" name="Murphy, Gabriel" position="DE" team="MIN" status="R"/>
+    <player id="16660" name="Robinson, Darius" position="DT" team="ARI" status="R"/>
+    <player id="16661" name="Hall Jr., Michael" position="DT" team="CLE" status="R"/>
+    <player id="16662" name="Jenkins, Kris" position="DT" team="CIN" status="R"/>
+    <player id="16663" name="Eboigbe, Justin" position="DT" team="LAC" status="R"/>
+    <player id="16664" name="Trotter Jr., Jeremiah" position="LB" team="PHI" status="R"/>
+    <player id="16665" name="Colson, Junior" position="LB" team="LAC" status="R"/>
+    <player id="16666" name="Eichenberg, Tommy" position="LB" team="LVR" status="R"/>
+    <player id="16667" name="Gray, Cedric" position="LB" team="TEN" status="R"/>
+    <player id="16668" name="Chambers, Steele" position="LB" team="NEP" status="R"/>
+    <player id="16669" name="Ford, Jaylan" position="LB" team="NOS" status="R"/>
+    <player id="16670" name="McKinstry, Kool-Aid" position="CB" team="NOS" status="R"/>
+    <player id="16671" name="Arnold, Terrion" position="CB" team="DET" status="R"/>
+    <player id="16672" name="Lassiter, Kamari" position="CB" team="HOU" status="R"/>
+    <player id="16673" name="Wiggins, Nate" position="CB" team="BAL" status="R"/>
+    <player id="16674" name="King, Kalen" position="CB" team="GBP" status="R"/>
+    <player id="16675" name="DeJean, Cooper" position="CB" team="PHI" status="R"/>
+    <player id="16676" name="Kinchens, Kamren" position="S" team="LAR" status="R"/>
+    <player id="16677" name="Bullard, Javon" position="S" team="GBP" status="R"/>
+    <player id="16678" name="Vaki, Sione" position="RB" team="DET" status="R"/>
+    <player id="16679" name="Nubin, Tyler" position="S" team="NYG" status="R"/>
+    <player id="16680" name="Little, Cam" position="PK" team="JAC" status="R"/>
+    <player id="16681" name="Reichard, Will" position="PK" team="MIN" status="R"/>
+    <player id="16682" name="Slovis, Kedon" position="QB" team="IND" status="R"/>
+    <player id="16683" name="Rees-Zammit, Louis" position="RB" team="KCC" status="R"/>
+    <player id="16684" name="Washington, Malik" position="WR" team="MIA" status="R"/>
+    <player id="16685" name="Ndubuisi, Haggai" position="DT" team="WAS"/>
+    <player id="16686" name="Smith, Ainias" position="WR" team="PHI" status="R"/>
+    <player id="16687" name="Miller, Dante" position="RB" team="NYG" status="R"/>
+    <player id="16688" name="Guerendo, Isaac" position="RB" team="SFO" status="R"/>
+    <player id="16689" name="Murphy, Byron" position="DT" team="SEA" status="R"/>
+    <player id="16690" name="Mitchell, Quinyon" position="CB" team="PHI" status="R"/>
+    <player id="16691" name="Orhorhoro, Ruke" position="DT" team="ATL" status="R"/>
+    <player id="16692" name="Newton, Jer'Zhan" position="DT" team="WAS" status="R"/>
+    <player id="16693" name="Sweat, T'Vondre" position="DT" team="TEN" status="R"/>
+    <player id="16694" name="Fiske, Braden" position="DT" team="LAR" status="R"/>
+    <player id="16695" name="Melton, Max" position="CB" team="ARI" status="R"/>
+    <player id="16696" name="Cooper, Edgerrin" position="LB" team="GBP" status="R"/>
+    <player id="16697" name="Smith, Maason" position="DT" team="JAC" status="R"/>
+    <player id="16698" name="Sainristil, Mike" position="CB" team="WAS" status="R"/>
+    <player id="16699" name="Kneeland, Marshawn" position="DE" team="DAL" status="R"/>
+    <player id="16700" name="Bishop, Cole" position="S" team="BUF" status="R"/>
+    <player id="16701" name="Rakestraw, Ennis" position="CB" team="DET" status="R"/>
+    <player id="16702" name="Green, Renardo" position="CB" team="SFO" status="R"/>
+    <player id="16703" name="Phillips, Andru" position="CB" team="NYG" status="R"/>
+    <player id="16704" name="Wallace, Trevin" position="LB" team="CAR" status="R"/>
+    <player id="16705" name="Bullock, Calen" position="S" team="HOU" status="R"/>
+    <player id="16706" name="Reiman, Tip" position="TE" team="ARI" status="R"/>
+    <player id="16707" name="Liufau, Marist" position="LB" team="DAL" status="R"/>
+    <player id="16708" name="Smith, Tykee" position="S" team="TBB" status="R"/>
+    <player id="16709" name="Jones, Elijah" position="CB" team="ARI" status="R"/>
+    <player id="16710" name="Hopper, Ty'Ron" position="LB" team="GBP" status="R"/>
+    <player id="16711" name="Isaac, Adisa" position="DE" team="BAL" status="R"/>
+    <player id="16712" name="Hunt, Jalyx" position="DE" team="PHI" status="R"/>
+    <player id="16713" name="Carter, DeWayne" position="DT" team="BUF" status="R"/>
+    <player id="16714" name="Jones, Jarrian" position="CB" team="JAC" status="R"/>
+    <player id="16715" name="Jackson, McKinnley" position="DT" team="CIN" status="R"/>
+    <player id="16716" name="Wilson, Payton" position="LB" team="PIT" status="R"/>
+    <player id="16717" name="Taylor-Demerson, Dadrion" position="S" team="ARI" status="R"/>
+    <player id="16718" name="Jackson, Khyree" position="CB" team="FA" status="R"/>
+    <player id="16719" name="Williams, Evan" position="S" team="GBP" status="R"/>
+    <player id="16720" name="Richardson, Decamerion" position="CB" team="LVR" status="R"/>
+    <player id="16721" name="Jefferson, Jordan" position="DT" team="JAC" status="R"/>
+    <player id="16722" name="Knight, Tyrice" position="LB" team="SEA" status="R"/>
+    <player id="16723" name="Barner, AJ" position="TE" team="SEA" status="R"/>
+    <player id="16724" name="Taylor, Tory" position="PN" team="CHI" status="R"/>
+    <player id="16725" name="Mustapha, Malik" position="S" team="SFO" status="R"/>
+    <player id="16726" name="Tampa, T.J." position="CB" team="BAL" status="R"/>
+    <player id="16727" name="Hicks, Jaden" position="S" team="KCC" status="R"/>
+    <player id="16728" name="Pritchett, Nehemiah" position="CB" team="SEA" status="R"/>
+    <player id="16729" name="Still, Tarheeb" position="CB" team="LAC" status="R"/>
+    <player id="16730" name="Magee, Jordan" position="LB" team="WAS" status="R"/>
+    <player id="16731" name="Hart, Cam" position="CB" team="LAC" status="R"/>
+    <player id="16732" name="Gould, Anthony" position="WR" team="IND" status="R"/>
+    <player id="16733" name="Bertrand, JD" position="LB" team="ATL" status="R"/>
+    <player id="16734" name="Booker, Austin" position="DE" team="CHI" status="R"/>
+    <player id="16735" name="Abrams-Draine, Kris" position="CB" team="DEN" status="R"/>
+    <player id="16736" name="Brownlee, Jarvis" position="CB" team="TEN" status="R"/>
+    <player id="16737" name="Newton, Josh" position="CB" team="CIN" status="R"/>
+    <player id="16738" name="Carlies, Jaylon" position="LB" team="IND" status="R"/>
+    <player id="16739" name="Prince, Deantre" position="CB" team="JAC" status="R"/>
+    <player id="16740" name="Jackson, Brennan" position="DE" team="LAR" status="R"/>
+    <player id="16741" name="Smith-Wade, Chau" position="CB" team="CAR" status="R"/>
+    <player id="16742" name="Kamara, Mohamed" position="DE" team="MIA" status="R"/>
+    <player id="16743" name="Ulofoshio, Edefuan" position="LB" team="BUF" status="R"/>
+    <player id="16744" name="Hampton, Dominique" position="S" team="WAS" status="R"/>
+    <player id="16745" name="Simpson, Jaylin" position="CB" team="IND" status="R"/>
+    <player id="16746" name="Ali, Rasheen" position="RB" team="BAL" status="R"/>
+    <player id="16747" name="Tracy, Tyrone" position="RB" team="NYG" status="R"/>
+    <player id="16748" name="Robinson, Keilan" position="RB" team="JAC" status="R"/>
+    <player id="16749" name="Solomon, Javon" position="DE" team="BUF" status="R"/>
+    <player id="16750" name="Oladapo, Kitan" position="S" team="GBP" status="R"/>
+    <player id="16751" name="Means, Bub" position="WR" team="NOS" status="R"/>
+    <player id="16752" name="Davis, Isaiah" position="RB" team="NYJ" status="R"/>
+    <player id="16753" name="Carson, Caelen" position="CB" team="DAL" status="R"/>
+    <player id="16754" name="Stiggers, Qwan'tez" position="CB" team="NYJ" status="R"/>
+    <player id="16755" name="Lee, Logan" position="DT" team="PIT" status="R"/>
+    <player id="16756" name="Dial, Marcellas" position="CB" team="NEP" status="R"/>
+    <player id="16757" name="Vidal, Kimani" position="RB" team="LAC" status="R"/>
+    <player id="16758" name="Jackson, Jha'Quan" position="WR" team="TEN" status="R"/>
+    <player id="16759" name="Muasau, Darius" position="LB" team="NYG" status="R"/>
+    <player id="16760" name="Washington, Casey" position="WR" team="ATL" status="R"/>
+    <player id="16761" name="Hill, Jamal" position="LB" team="HOU" status="R"/>
+    <player id="16762" name="Wingo, Mekhi" position="DT" team="DET" status="R"/>
+    <player id="16763" name="Palmer, Tejhaun" position="WR" team="ARI" status="R"/>
+    <player id="16764" name="James, D.J." position="CB" team="SEA" status="R"/>
+    <player id="16765" name="McLachlan, Tanner" position="TE" team="CIN" status="R"/>
+    <player id="16766" name="Watts, Ryan" position="S" team="PIT" status="R"/>
+    <player id="16767" name="Davis, Tyler" position="DT" team="LAR" status="R"/>
+    <player id="16768" name="Logue, Zion" position="DT" team="ATL" status="R"/>
+    <player id="16769" name="McMorris, Patrick" position="S" team="MIA" status="R"/>
+    <player id="16770" name="Boyd, Khristian" position="DT" team="NOS" status="R"/>
+    <player id="16771" name="Crumedy, Jaden" position="DT" team="CAR" status="R"/>
+    <player id="16772" name="Abraham, Micah" position="CB" team="IND" status="R"/>
+    <player id="16773" name="Jordan, Jawhar" position="RB" team="HOU" status="R"/>
+    <player id="16774" name="Watson, Nathaniel" position="LB" team="CLE" status="R"/>
+    <player id="16775" name="Karty, Joshua" position="PK" team="LAR" status="R"/>
+    <player id="16776" name="Hadden, Kamal" position="CB" team="KCC" status="R"/>
+    <player id="16777" name="Johnson, Cedric" position="DE" team="CIN" status="R"/>
+    <player id="16778" name="Flournoy, Ryan" position="WR" team="DAL" status="R"/>
+    <player id="16779" name="Hardy, Daequan" position="CB" team="BUF" status="R"/>
+    <player id="16780" name="Jean-Baptiste, Javontae" position="DE" team="WAS" status="R"/>
+    <player id="16781" name="Taylor, Trey" position="S" team="LVR" status="R"/>
+    <player id="16782" name="Anthony, Daijahn" position="S" team="CIN" status="R"/>
+    <player id="16783" name="Davis, Jaden" position="CB" team="ARI" status="R"/>
+    <player id="16784" name="Harden, Myles" position="CB" team="CLE" status="R"/>
+    <player id="16785" name="Devonshire, M.J." position="CB" team="LVR" status="R"/>
+    <player id="16786" name="Drake-Rodriguez, Levi" position="DT" team="MIN" status="R"/>
+    <player id="16787" name="Laulu, Jonah" position="DT" team="IND" status="R"/>
+    <player id="16788" name="Vele, Devaughn" position="WR" team="DEN" status="R"/>
+    <player id="16789" name="Cole, Myles" position="DE" team="JAC" status="R"/>
+    <player id="16790" name="Byrd, Solomon" position="DE" team="HOU" status="R"/>
+    <player id="16791" name="Barrett, Michael" position="LB" team="SEA" status="R"/>
+    <player id="16792" name="Washington, Tahj" position="WR" team="MIA" status="R"/>
+    <player id="16793" name="Williams, James" position="LB" team="TEN" status="R"/>
+    <player id="16794" name="Briggs, Jowon" position="DT" team="CLE" status="R"/>
+    <player id="16795" name="Rogers, Justin" position="DT" team="DAL" status="R"/>
+    <player id="16796" name="Culp, Devin" position="TE" team="TBB" status="R"/>
+    <player id="16797" name="Harris, Marcus" position="DT" team="HOU" status="R"/>
+    <player id="16798" name="Kane, Sanoussi" position="S" team="BAL" status="R"/>
+    <player id="16799" name="Bethune, Tatum" position="LB" team="SFO" status="R"/>
+    <player id="16800" name="Harrell, Jaylen" position="DE" team="TEN" status="R"/>
+    <player id="16801" name="Johnson, Cornelius" position="WR" team="LAC" status="R"/>
+    <player id="16802" name="Key, Jaylen" position="S" team="NYJ" status="R"/>
+    <player id="16803" name="Watson, Blake" position="RB" team="DEN" status="R"/>
+    <player id="16804" name="Reed, Austin" position="QB" team="CHI" status="R"/>
+    <player id="16805" name="Shirden, Jaden" position="RB" team="CAR" status="R"/>
+    <player id="16806" name="Cephus, Joshua" position="WR" team="JAC" status="R"/>
+    <player id="16807" name="Holker, Dallin" position="TE" team="NOS" status="R"/>
+    <player id="16808" name="Peat, Nathaniel" position="RB" team="DAL" status="R"/>
+    <player id="16809" name="Coker, Jalen" position="WR" team="CAR" status="R"/>
+    <player id="16810" name="Collier, Chris" position="RB" team="BAL" status="R"/>
+    <player id="16811" name="Wiley, Michael" position="RB" team="WAS" status="R"/>
+    <player id="16812" name="Harrell, Tyler" position="WR" team="NYJ" status="R"/>
+    <player id="16813" name="Edwards, Daijun" position="RB" team="PIT" status="R"/>
+    <player id="16814" name="Mordecai, Tanner" position="QB" team="SFO" status="R"/>
+    <player id="16815" name="Jacobs, Curtis" position="LB" team="KCC" status="R"/>
+    <player id="16816" name="Brooks, British" position="RB" team="HOU" status="R"/>
+    <player id="16817" name="Taylor, Leonard" position="DT" team="NYJ" status="R"/>
+    <player id="16818" name="Strong, Justin" position="RB" team="FA" status="R"/>
+    <player id="16819" name="Rosemy-Jacksaint, Marcus" position="WR" team="WAS" status="R"/>
+    <player id="16820" name="Brade, Beau" position="S" team="BAL" status="R"/>
+    <player id="16821" name="Wade, Dayton" position="WR" team="BAL" status="R"/>
+    <player id="16822" name="White, David" position="WR" team="JAC" status="R"/>
+    <player id="16823" name="Sheets, Kyle" position="WR" team="KCC" status="R"/>
+    <player id="16824" name="Heins, Zach" position="TE" team="LAC" status="R"/>
+    <player id="16825" name="Robbins, Aidan" position="RB" team="CLE" status="R"/>
+    <player id="16826" name="Jones, Austin" position="RB" team="WAS" status="R"/>
+    <player id="16827" name="Stogner, Austin" position="TE" team="ATL" status="R"/>
+    <player id="16828" name="Njongmeta, Maema" position="LB" team="CIN" status="R"/>
+    <player id="16829" name="Jefferson, Ramon" position="RB" team="TBB" status="R"/>
+    <player id="16830" name="Wooden, Isaiah" position="WR" team="LAC" status="R"/>
+    <player id="16831" name="Martin-Robinson, David" position="TE" team="TEN" status="R"/>
+    <player id="16832" name="Payne, Pheldarius" position="DT" team="HOU" status="R"/>
+    <player id="16833" name="Griffin, Lideatrick" position="WR" team="LVR" status="R"/>
+    <player id="16834" name="Burgess, Cole" position="WR" team="CIN" status="R"/>
+    <player id="16835" name="DeLoach, Kalen" position="LB" team="TBB" status="R"/>
+    <player id="16836" name="Bailey, Levelle" position="LB" team="DEN" status="R"/>
+    <player id="16837" name="Johnson, Xavier" position="WR" team="BUF" status="R"/>
+    <player id="16838" name="Pline, Mason" position="TE" team="SFO" status="R"/>
+    <player id="16839" name="Westover, Jack" position="TE" team="SEA" status="R"/>
+    <player id="16840" name="Stoops, Drake" position="WR" team="LAR" status="R"/>
+    <player id="16841" name="Gant, Dallas" position="LB" team="MIN" status="R"/>
+    <player id="16842" name="Steveson, Gable" position="DT" team="BUF" status="R"/>
+    <player id="16843" name="Mevis, Harrison" position="PK" team="FA" status="R"/>
+    <player id="16844" name="Logan, Kenny" position="S" team="FA" status="R"/>
+    <player id="16845" name="Wallis, David" position="WR" team="NEP" status="R"/>
+    <player id="16846" name="Bates, Jake" position="PK" team="DET"/>
+    <player id="16847" name="Olatoke, Praise" position="WR" team="FA" status="R"/>
+    <player id="16848" name="McAtamney, Jude" position="PK" team="NYG" status="R"/>
+    <player id="16849" name="Owens, Terique" position="WR" team="FA" status="R"/>
+    <player id="16850" name="Saylors, Jacob" position="RB" team="CLE"/>
+    <player id="16851" name="Browning, Jack" position="PN" team="BAL" status="R"/>
+    <player id="16852" name="Thompson, Bryan" position="WR" team="BUF"/>
+    <player id="16853" name="Gibbs, Easton" position="LB" team="SEA" status="R"/>
+    <player id="16854" name="Castles, McCallan" position="TE" team="FA" status="R"/>
+    <player id="16855" name="Betts, Mathieu" position="DE" team="DET"/>
+    <player id="16856" name="McAllister, Tyreik" position="WR" team="LVR"/>
+    <player id="16857" name="James, Ty" position="WR" team="FA" status="R"/>
+    <player id="16858" name="Tipton, Mason" position="WR" team="NOS" status="R"/>
+    <player id="16859" name="Billy-Johnson, Tyron" position="WR" team="DAL"/>
+    <player id="16860" name="Williams, D.J." position="RB" team="TBB" status="R"/>
+    <player id="16861" name="Johnson, Dyontae" position="LB" team="NYG"/>
+    <player id="16862" name="Nacua, Samson" position="WR" team="NOS"/>
+    <player id="16863" name="Keyton, Ramel" position="WR" team="LVR" status="R"/>
+    <player id="16864" name="Washington, Carlos" position="RB" team="ATL"/>
+    <player id="16865" name="Bishop, Beanie" position="CB" team="PIT" status="R"/>
+    <player id="16866" name="Kirklin, Jontre" position="WR" team="SFO"/>
+    <player id="16867" name="Peasley, Andrew" position="QB" team="NYJ" status="R"/>
+    <player id="16868" name="Martinez, Adrian" position="QB" team="NYJ"/>
+    <player id="16869" name="Richter, Bo" position="LB" team="MIN" status="R"/>
+    <player id="16870" name="Speights, Omar" position="LB" team="LAR" status="R"/>
+    <player id="16871" name="Wheeler, Ian" position="RB" team="CHI" status="R"/>
+    <player id="16872" name="Andreessen, Joe" position="LB" team="BUF" status="R"/>
+    <player id="16873" name="Narveson, Brayden" position="PK" team="TEN" status="R"/>
+    <player id="16874" name="Hale, Alex" position="PK" team="GBP" status="R"/>
+    <player id="16875" name="Chatman, Elijah" position="DE" team="NYG" status="R"/>
+    <player id="16876" name="Bean, Jason" position="QB" team="IND" status="R"/>
+    <player id="16877" name="Davis, Kaden" position="WR" team="DET"/>
+</players>

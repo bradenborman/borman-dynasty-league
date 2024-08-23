@@ -1,6 +1,6 @@
 package bdl.http;
 
-import bdl.http.models.mfl.SharkPlayerRankings;
+import bdl.http.models.mfl.*;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -14,32 +14,32 @@ class MyFantasyLeagueHttpServiceTest {
     MyFantasyLeagueHttpService myFantasyLeagueHttpService;
 
 //    @Test
-//    void fetchMFLSchedule() {
+//    void fetchSharkPlayerRanks() {
 //        SharkPlayerRankings response = myFantasyLeagueHttpService.fetchSharkPlayerRanks(Optional.empty());
 //        assert response != null;
 //    }
-
-//    @Test
-//    void fetchMFLSchedule() {
-//        SalaryInformation response = myFantasyLeagueHttpService.fetchSalaryInformation();
-//        assert response != null;
-//    }
-
+//
+    @Test
+    void fetchSalaryInformation() {
+        SalaryInformation response = myFantasyLeagueHttpService.fetchSalaryInformation();
+        assert response != null;
+    }
+//
 //    @Test
 //    void fetchMFLSchedule() {
 //        String response = myFantasyLeagueHttpService.fetchMFLSchedule(Optional.empty(), Optional.empty());
 //        assert response != null;
 //    }
-
+//
 //    @Test
 //    void fetchMFLLeagueInfo() {
 //        MflLeagueInformation response = myFantasyLeagueHttpService.fetchMFLLeagueInfo();
 //        assert response != null;
 //    }
-
+//
 //    @Test
 //    void fetchRosters() {
-//        MflRosterResponse response = myFantasyLeagueHttpService.fetchRosters();
+//        MflRosterResponse response = myFantasyLeagueHttpService.fetchRosters(Optional.empty());
 //        assert response != null;
 //    }
 //
